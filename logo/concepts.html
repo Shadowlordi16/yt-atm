@@ -1,0 +1,78 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:LG;src:url(fonts/LeagueGothic.ttf)}
+@font-face{font-family:IN;src:url(fonts/Inter.ttf)}
+body{margin:0;width:2400px;height:1500px;background:#E9E6DF;font-family:IN;color:#141414}
+.col{position:absolute;top:80px;width:720px}
+.lab{font:900 34px IN;letter-spacing:.04em;text-transform:uppercase}
+.sub{font:400 26px IN;color:#6B6963;margin-top:8px;height:70px}
+.av{width:520px;height:520px;border-radius:50%;margin-top:30px;overflow:hidden;outline:2px solid #6B6963}
+.lock{display:flex;align-items:center;gap:26px;margin-top:60px}
+.word{font-family:LG;font-size:150px;line-height:.85;text-transform:uppercase;letter-spacing:.01em}
+.small{display:flex;gap:30px;align-items:center;margin-top:50px}
+.small div{border-radius:50%;overflow:hidden;line-height:0;outline:1px solid #6B6963}
+</style></head><body>
+
+<!-- A: folded paper crown -->
+<div class="col" style="left:80px">
+  <div class="lab">A · Paper crown</div>
+  <div class="sub">A crown folded from paper. One torn red corner: every empire has a crack.</div>
+  <div class="av"><svg id="A" viewBox="0 0 200 200" width="520" height="520">
+    <rect width="200" height="200" fill="#141414"/>
+    <polygon points="38,138 38,72 70,104 70,138" fill="#E9E6DF"/>
+    <polygon points="70,138 70,104 100,52 100,138" fill="#C9C5BB"/>
+    <polygon points="100,138 100,52 130,104 130,138" fill="#E9E6DF"/>
+    <polygon points="130,138 130,104 162,72 162,138" fill="#C9C5BB"/>
+    <polygon points="162,72 146,88 162,100" fill="#D7261E"/>
+    <rect x="38" y="138" width="124" height="16" fill="#E9E6DF"/>
+  </svg></div>
+  <div class="lock"><svg viewBox="0 0 200 200" width="140" height="140"><g data-clone="A"></g></svg>
+    <div class="word">Paper<br>Empire</div></div>
+  <div class="small"><div><svg viewBox="0 0 200 200" width="88" height="88"><g data-clone="A"></g></svg></div>
+    <div><svg viewBox="0 0 200 200" width="48" height="48"><g data-clone="A"></g></svg></div>
+    <div><svg viewBox="0 0 200 200" width="32" height="32"><g data-clone="A"></g></svg></div></div>
+</div>
+
+<!-- B: rise and fall skyline -->
+<div class="col" style="left:840px">
+  <div class="lab">B · Rise and fall</div>
+  <div class="sub">Three towers climbing like a chart. The tallest is tipping over, in red.</div>
+  <div class="av"><svg id="B" viewBox="0 0 200 200" width="520" height="520">
+    <rect width="200" height="200" fill="#E9E6DF"/>
+    <rect x="26" y="118" width="24" height="40" fill="#141414"/>
+    <rect x="56" y="92" width="24" height="66" fill="#141414"/>
+    <rect x="86" y="64" width="24" height="94" fill="#141414"/>
+    <rect x="116" y="58" width="24" height="100" fill="#D7261E" transform="rotate(38 140 158)"/>
+    <rect x="24" y="158" width="152" height="9" fill="#141414"/>
+  </svg></div>
+  <div class="lock"><svg viewBox="0 0 200 200" width="140" height="140"><g data-clone="B"></g></svg>
+    <div class="word">Paper<br>Empire</div></div>
+  <div class="small"><div><svg viewBox="0 0 200 200" width="88" height="88"><g data-clone="B"></g></svg></div>
+    <div><svg viewBox="0 0 200 200" width="48" height="48"><g data-clone="B"></g></svg></div>
+    <div><svg viewBox="0 0 200 200" width="32" height="32"><g data-clone="B"></g></svg></div></div>
+</div>
+
+<!-- C: cracked pillar -->
+<div class="col" style="left:1600px">
+  <div class="lab">C · Cracked pillar</div>
+  <div class="sub">The column every empire stands on, with a red crack through it.</div>
+  <div class="av"><svg id="C" viewBox="0 0 200 200" width="520" height="520">
+    <rect width="200" height="200" fill="#141414"/>
+    <rect x="52" y="40" width="96" height="14" fill="#E9E6DF"/>
+    <rect x="62" y="56" width="76" height="8" fill="#E9E6DF"/>
+    <rect x="68" y="66" width="64" height="80" fill="#E9E6DF"/>
+    <rect x="80" y="66" width="5" height="80" fill="#141414"/>
+    <rect x="97" y="66" width="5" height="80" fill="#141414"/>
+    <rect x="114" y="66" width="5" height="80" fill="#141414"/>
+    <rect x="62" y="148" width="76" height="8" fill="#E9E6DF"/>
+    <rect x="52" y="158" width="96" height="12" fill="#E9E6DF"/>
+    <polyline points="132,78 112,96 122,104 98,124 106,130 68,150" fill="none" stroke="#D7261E" stroke-width="6" stroke-linejoin="miter"/>
+  </svg></div>
+  <div class="lock"><svg viewBox="0 0 200 200" width="140" height="140"><g data-clone="C"></g></svg>
+    <div class="word">Paper<br>Empire</div></div>
+  <div class="small"><div><svg viewBox="0 0 200 200" width="88" height="88"><g data-clone="C"></g></svg></div>
+    <div><svg viewBox="0 0 200 200" width="48" height="48"><g data-clone="C"></g></svg></div>
+    <div><svg viewBox="0 0 200 200" width="32" height="32"><g data-clone="C"></g></svg></div></div>
+</div>
+<script>document.querySelectorAll("[data-clone]").forEach(g=>{g.innerHTML=document.getElementById(g.dataset.clone).innerHTML;});</script></body></html>

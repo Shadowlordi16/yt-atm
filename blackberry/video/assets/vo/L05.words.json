@@ -1,0 +1,68 @@
+[
+ {
+  "id": "w0",
+  "text": "This",
+  "start": 0.0,
+  "end": 0.16
+ },
+ {
+  "id": "w1",
+  "text": "is",
+  "start": 0.16,
+  "end": 0.28
+ },
+ {
+  "id": "w2",
+  "text": "how",
+  "start": 0.28,
+  "end": 0.48
+ },
+ {
+  "id": "w3",
+  "text": "the",
+  "start": 0.48,
+  "end": 0.6
+ },
+ {
+  "id": "w4",
+  "text": "keyboard",
+  "start": 0.6,
+  "end": 0.8
+ },
+ {
+  "id": "w5",
+  "text": "built",
+  "start": 0.8,
+  "end": 1.36
+ },
+ {
+  "id": "w6",
+  "text": "Blackberry",
+  "start": 1.36,
+  "end": 1.92
+ },
+ {
+  "id": "w7",
+  "text": "and",
+  "start": 1.92,
+  "end": 2.58
+ },
+ {
+  "id": "w8",
+  "text": "then",
+  "start": 2.58,
+  "end": 2.72
+ },
+ {
+  "id": "w9",
+  "text": "trapped",
+  "start": 2.72,
+  "end": 3.0
+ },
+ {
+  "id": "w10",
+  "text": "it.",
+  "start": 3.0,
+  "end": 3.28
+ }
+]

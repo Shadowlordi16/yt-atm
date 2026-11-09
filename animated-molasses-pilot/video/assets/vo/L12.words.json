@@ -1,0 +1,116 @@
+[
+ {
+  "id": "w0",
+  "text": "A",
+  "start": 0.0,
+  "end": 0.08
+ },
+ {
+  "id": "w1",
+  "text": "disaster",
+  "start": 0.08,
+  "end": 0.4
+ },
+ {
+  "id": "w2",
+  "text": "that",
+  "start": 0.4,
+  "end": 0.86
+ },
+ {
+  "id": "w3",
+  "text": "looked",
+  "start": 0.86,
+  "end": 1.06
+ },
+ {
+  "id": "w4",
+  "text": "ridiculous",
+  "start": 1.06,
+  "end": 1.66
+ },
+ {
+  "id": "w5",
+  "text": "became",
+  "start": 1.66,
+  "end": 2.1
+ },
+ {
+  "id": "w6",
+  "text": "a",
+  "start": 2.1,
+  "end": 2.32
+ },
+ {
+  "id": "w7",
+  "text": "warning.",
+  "start": 2.32,
+  "end": 2.7
+ },
+ {
+  "id": "w8",
+  "text": "If",
+  "start": 3.36,
+  "end": 3.44
+ },
+ {
+  "id": "w9",
+  "text": "the",
+  "start": 3.44,
+  "end": 3.56
+ },
+ {
+  "id": "w10",
+  "text": "structure",
+  "start": 3.56,
+  "end": 3.78
+ },
+ {
+  "id": "w11",
+  "text": "is",
+  "start": 3.78,
+  "end": 4.18
+ },
+ {
+  "id": "w12",
+  "text": "wrong,",
+  "start": 4.18,
+  "end": 4.44
+ },
+ {
+  "id": "w13",
+  "text": "the",
+  "start": 4.82,
+  "end": 4.88
+ },
+ {
+  "id": "w14",
+  "text": "material",
+  "start": 4.88,
+  "end": 5.24
+ },
+ {
+  "id": "w15",
+  "text": "inside",
+  "start": 5.24,
+  "end": 5.7
+ },
+ {
+  "id": "w16",
+  "text": "does",
+  "start": 5.7,
+  "end": 6.24
+ },
+ {
+  "id": "w17",
+  "text": "not",
+  "start": 6.24,
+  "end": 6.48
+ },
+ {
+  "id": "w18",
+  "text": "matter.",
+  "start": 6.48,
+  "end": 6.76
+ }
+]

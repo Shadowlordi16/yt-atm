@@ -1,0 +1,44 @@
+[
+ {
+  "id": "w0",
+  "text": "The",
+  "start": 0.0,
+  "end": 0.08
+ },
+ {
+  "id": "w1",
+  "text": "price",
+  "start": 0.08,
+  "end": 0.26
+ },
+ {
+  "id": "w2",
+  "text": "was",
+  "start": 0.26,
+  "end": 0.54
+ },
+ {
+  "id": "w3",
+  "text": "about",
+  "start": 0.54,
+  "end": 0.76
+ },
+ {
+  "id": "w4",
+  "text": "$6",
+  "start": 0.76,
+  "end": 1.18
+ },
+ {
+  "id": "w5",
+  "text": ".6",
+  "start": 1.18,
+  "end": 1.74
+ },
+ {
+  "id": "w6",
+  "text": "billion.",
+  "start": 1.74,
+  "end": 2.06
+ }
+]

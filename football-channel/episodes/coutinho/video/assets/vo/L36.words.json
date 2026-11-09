@@ -1,0 +1,110 @@
+[
+ {
+  "id": "w0",
+  "text": "Next",
+  "start": 0.0,
+  "end": 0.2
+ },
+ {
+  "id": "w1",
+  "text": "time,",
+  "start": 0.2,
+  "end": 0.58
+ },
+ {
+  "id": "w2",
+  "text": "the",
+  "start": 1.06,
+  "end": 1.24
+ },
+ {
+  "id": "w3",
+  "text": "manager",
+  "start": 1.24,
+  "end": 1.56
+ },
+ {
+  "id": "w4",
+  "text": "who",
+  "start": 1.56,
+  "end": 1.86
+ },
+ {
+  "id": "w5",
+  "text": "was",
+  "start": 1.86,
+  "end": 1.98
+ },
+ {
+  "id": "w6",
+  "text": "hired",
+  "start": 1.98,
+  "end": 2.22
+ },
+ {
+  "id": "w7",
+  "text": "to",
+  "start": 2.22,
+  "end": 2.48
+ },
+ {
+  "id": "w8",
+  "text": "fix",
+  "start": 2.48,
+  "end": 2.72
+ },
+ {
+  "id": "w9",
+  "text": "a",
+  "start": 2.72,
+  "end": 2.84
+ },
+ {
+  "id": "w10",
+  "text": "club",
+  "start": 2.84,
+  "end": 3.18
+ },
+ {
+  "id": "w11",
+  "text": "and",
+  "start": 3.18,
+  "end": 3.54
+ },
+ {
+  "id": "w12",
+  "text": "the",
+  "start": 3.54,
+  "end": 3.64
+ },
+ {
+  "id": "w13",
+  "text": "dressing",
+  "start": 3.64,
+  "end": 3.84
+ },
+ {
+  "id": "w14",
+  "text": "room",
+  "start": 3.84,
+  "end": 4.3
+ },
+ {
+  "id": "w15",
+  "text": "that",
+  "start": 4.3,
+  "end": 4.52
+ },
+ {
+  "id": "w16",
+  "text": "decided",
+  "start": 4.52,
+  "end": 5.04
+ },
+ {
+  "id": "w17",
+  "text": "otherwise.",
+  "start": 5.04,
+  "end": 5.42
+ }
+]

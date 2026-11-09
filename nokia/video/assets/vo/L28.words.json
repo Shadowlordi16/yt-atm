@@ -1,0 +1,98 @@
+[
+ {
+  "id": "w0",
+  "text": "It",
+  "start": 0.0,
+  "end": 0.08
+ },
+ {
+  "id": "w1",
+  "text": "had",
+  "start": 0.08,
+  "end": 0.22
+ },
+ {
+  "id": "w2",
+  "text": "no",
+  "start": 0.22,
+  "end": 0.48
+ },
+ {
+  "id": "w3",
+  "text": "keyboard,",
+  "start": 0.48,
+  "end": 0.88
+ },
+ {
+  "id": "w4",
+  "text": "it",
+  "start": 1.58,
+  "end": 1.64
+ },
+ {
+  "id": "w5",
+  "text": "had",
+  "start": 1.64,
+  "end": 1.78
+ },
+ {
+  "id": "w6",
+  "text": "one",
+  "start": 1.78,
+  "end": 2.0
+ },
+ {
+  "id": "w7",
+  "text": "button",
+  "start": 2.0,
+  "end": 2.4
+ },
+ {
+  "id": "w8",
+  "text": "and",
+  "start": 2.4,
+  "end": 2.68
+ },
+ {
+  "id": "w9",
+  "text": "a",
+  "start": 2.68,
+  "end": 2.78
+ },
+ {
+  "id": "w10",
+  "text": "screen",
+  "start": 2.78,
+  "end": 3.0
+ },
+ {
+  "id": "w11",
+  "text": "you",
+  "start": 3.0,
+  "end": 3.32
+ },
+ {
+  "id": "w12",
+  "text": "touched",
+  "start": 3.32,
+  "end": 3.52
+ },
+ {
+  "id": "w13",
+  "text": "with",
+  "start": 3.52,
+  "end": 3.76
+ },
+ {
+  "id": "w14",
+  "text": "your",
+  "start": 3.76,
+  "end": 3.86
+ },
+ {
+  "id": "w15",
+  "text": "finger.",
+  "start": 3.86,
+  "end": 4.08
+ }
+]

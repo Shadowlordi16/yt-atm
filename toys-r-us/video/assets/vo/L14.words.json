@@ -1,0 +1,278 @@
+[
+ {
+  "id": "w0",
+  "text": "In",
+  "start": 0.0,
+  "end": 0.08
+ },
+ {
+  "id": "w1",
+  "text": "1982,",
+  "start": 0.08,
+  "end": 0.7
+ },
+ {
+  "id": "w2",
+  "text": "it",
+  "start": 1.24,
+  "end": 1.36
+ },
+ {
+  "id": "w3",
+  "text": "got",
+  "start": 1.36,
+  "end": 1.5
+ },
+ {
+  "id": "w4",
+  "text": "a",
+  "start": 1.5,
+  "end": 1.6
+ },
+ {
+  "id": "w5",
+  "text": "jingle",
+  "start": 1.6,
+  "end": 1.94
+ },
+ {
+  "id": "w6",
+  "text": "a",
+  "start": 1.94,
+  "end": 2.16
+ },
+ {
+  "id": "w7",
+  "text": "generation",
+  "start": 2.16,
+  "end": 2.42
+ },
+ {
+  "id": "w8",
+  "text": "would",
+  "start": 2.42,
+  "end": 2.96
+ },
+ {
+  "id": "w9",
+  "text": "never",
+  "start": 2.96,
+  "end": 3.16
+ },
+ {
+  "id": "w10",
+  "text": "forget.",
+  "start": 3.16,
+  "end": 3.56
+ },
+ {
+  "id": "w11",
+  "text": "A",
+  "start": 4.38,
+  "end": 4.4
+ },
+ {
+  "id": "w12",
+  "text": "young",
+  "start": 4.4,
+  "end": 4.54
+ },
+ {
+  "id": "w13",
+  "text": "copywriter,",
+  "start": 4.54,
+  "end": 5.32
+ },
+ {
+  "id": "w14",
+  "text": "Linda",
+  "start": 5.48,
+  "end": 5.56
+ },
+ {
+  "id": "w15",
+  "text": "Kaplan",
+  "start": 5.56,
+  "end": 5.86
+ },
+ {
+  "id": "w16",
+  "text": "Thaler,",
+  "start": 5.86,
+  "end": 6.4
+ },
+ {
+  "id": "w17",
+  "text": "wrote",
+  "start": 6.64,
+  "end": 6.74
+ },
+ {
+  "id": "w18",
+  "text": "the",
+  "start": 6.74,
+  "end": 7.0
+ },
+ {
+  "id": "w19",
+  "text": "song.",
+  "start": 7.0,
+  "end": 7.3
+ },
+ {
+  "id": "w20",
+  "text": "A",
+  "start": 8.16,
+  "end": 8.24
+ },
+ {
+  "id": "w21",
+  "text": "colleague",
+  "start": 8.24,
+  "end": 8.6
+ },
+ {
+  "id": "w22",
+  "text": "named",
+  "start": 8.6,
+  "end": 8.88
+ },
+ {
+  "id": "w23",
+  "text": "James",
+  "start": 8.88,
+  "end": 9.32
+ },
+ {
+  "id": "w24",
+  "text": "Patterson,",
+  "start": 9.32,
+  "end": 9.66
+ },
+ {
+  "id": "w25",
+  "text": "who",
+  "start": 10.16,
+  "end": 10.2
+ },
+ {
+  "id": "w26",
+  "text": "later",
+  "start": 10.2,
+  "end": 10.36
+ },
+ {
+  "id": "w27",
+  "text": "became",
+  "start": 10.36,
+  "end": 10.74
+ },
+ {
+  "id": "w28",
+  "text": "one",
+  "start": 10.74,
+  "end": 11.0
+ },
+ {
+  "id": "w29",
+  "text": "of",
+  "start": 11.0,
+  "end": 11.08
+ },
+ {
+  "id": "w30",
+  "text": "the",
+  "start": 11.08,
+  "end": 11.18
+ },
+ {
+  "id": "w31",
+  "text": "world's",
+  "start": 11.18,
+  "end": 11.6
+ },
+ {
+  "id": "w32",
+  "text": "best",
+  "start": 11.6,
+  "end": 11.8
+ },
+ {
+  "id": "w33",
+  "text": "-selling",
+  "start": 11.8,
+  "end": 12.22
+ },
+ {
+  "id": "w34",
+  "text": "novelists,",
+  "start": 12.22,
+  "end": 12.94
+ },
+ {
+  "id": "w35",
+  "text": "came",
+  "start": 13.16,
+  "end": 13.26
+ },
+ {
+  "id": "w36",
+  "text": "up",
+  "start": 13.26,
+  "end": 13.48
+ },
+ {
+  "id": "w37",
+  "text": "with",
+  "start": 13.48,
+  "end": 13.66
+ },
+ {
+  "id": "w38",
+  "text": "the",
+  "start": 13.66,
+  "end": 13.78
+ },
+ {
+  "id": "w39",
+  "text": "line,",
+  "start": 13.78,
+  "end": 13.96
+ },
+ {
+  "id": "w40",
+  "text": "I'm",
+  "start": 13.96,
+  "end": 14.92
+ },
+ {
+  "id": "w41",
+  "text": "a",
+  "start": 14.92,
+  "end": 14.96
+ },
+ {
+  "id": "w42",
+  "text": "Toys",
+  "start": 14.96,
+  "end": 15.26
+ },
+ {
+  "id": "w43",
+  "text": "R",
+  "start": 15.26,
+  "end": 15.64
+ },
+ {
+  "id": "w44",
+  "text": "Us",
+  "start": 15.64,
+  "end": 15.92
+ },
+ {
+  "id": "w45",
+  "text": "Kid.",
+  "start": 15.92,
+  "end": 16.16
+ }
+]

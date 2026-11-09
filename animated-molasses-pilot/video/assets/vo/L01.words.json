@@ -1,0 +1,122 @@
+[
+ {
+  "id": "w0",
+  "text": "It",
+  "start": 0.0,
+  "end": 0.08
+ },
+ {
+  "id": "w1",
+  "text": "was",
+  "start": 0.08,
+  "end": 0.18
+ },
+ {
+  "id": "w2",
+  "text": "about",
+  "start": 0.18,
+  "end": 0.36
+ },
+ {
+  "id": "w3",
+  "text": "25",
+  "start": 0.36,
+  "end": 0.74
+ },
+ {
+  "id": "w4",
+  "text": "feet",
+  "start": 0.74,
+  "end": 1.24
+ },
+ {
+  "id": "w5",
+  "text": "high,",
+  "start": 1.24,
+  "end": 1.56
+ },
+ {
+  "id": "w6",
+  "text": "moved",
+  "start": 2.4,
+  "end": 2.4
+ },
+ {
+  "id": "w7",
+  "text": "at",
+  "start": 2.4,
+  "end": 2.56
+ },
+ {
+  "id": "w8",
+  "text": "roughly",
+  "start": 2.56,
+  "end": 2.72
+ },
+ {
+  "id": "w9",
+  "text": "35",
+  "start": 2.72,
+  "end": 3.26
+ },
+ {
+  "id": "w10",
+  "text": "miles",
+  "start": 3.26,
+  "end": 3.88
+ },
+ {
+  "id": "w11",
+  "text": "per",
+  "start": 3.88,
+  "end": 4.16
+ },
+ {
+  "id": "w12",
+  "text": "hour,",
+  "start": 4.16,
+  "end": 4.5
+ },
+ {
+  "id": "w13",
+  "text": "and",
+  "start": 4.86,
+  "end": 4.96
+ },
+ {
+  "id": "w14",
+  "text": "carried",
+  "start": 4.96,
+  "end": 5.16
+ },
+ {
+  "id": "w15",
+  "text": "more",
+  "start": 5.16,
+  "end": 5.48
+ },
+ {
+  "id": "w16",
+  "text": "than",
+  "start": 5.48,
+  "end": 5.66
+ },
+ {
+  "id": "w17",
+  "text": "2",
+  "start": 5.66,
+  "end": 5.9
+ },
+ {
+  "id": "w18",
+  "text": "million",
+  "start": 5.9,
+  "end": 6.24
+ },
+ {
+  "id": "w19",
+  "text": "gallons.",
+  "start": 6.24,
+  "end": 6.58
+ }
+]

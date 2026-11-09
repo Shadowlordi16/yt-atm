@@ -1,0 +1,62 @@
+[
+  {
+    "id": "w0",
+    "text": "This",
+    "start": 0,
+    "end": 0.24
+  },
+  {
+    "id": "w1",
+    "text": "is",
+    "start": 0.24,
+    "end": 0.4
+  },
+  {
+    "id": "w2",
+    "text": "how",
+    "start": 0.4,
+    "end": 0.56
+  },
+  {
+    "id": "w3",
+    "text": "Blockbuster",
+    "start": 0.56,
+    "end": 1.44
+  },
+  {
+    "id": "w4",
+    "text": "lost",
+    "start": 1.44,
+    "end": 1.68
+  },
+  {
+    "id": "w5",
+    "text": "a",
+    "start": 1.68,
+    "end": 1.84
+  },
+  {
+    "id": "w6",
+    "text": "war",
+    "start": 1.84,
+    "end": 2.08
+  },
+  {
+    "id": "w7",
+    "text": "it",
+    "start": 2.16,
+    "end": 2.32
+  },
+  {
+    "id": "w8",
+    "text": "was",
+    "start": 2.32,
+    "end": 2.48
+  },
+  {
+    "id": "w9",
+    "text": "winning.",
+    "start": 2.48,
+    "end": 2.88
+  }
+]

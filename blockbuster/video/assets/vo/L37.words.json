@@ -1,0 +1,110 @@
+[
+  {
+    "id": "w0",
+    "text": "But",
+    "start": 0,
+    "end": 0.24
+  },
+  {
+    "id": "w1",
+    "text": "the",
+    "start": 0.24,
+    "end": 0.32
+  },
+  {
+    "id": "w2",
+    "text": "money",
+    "start": 0.32,
+    "end": 0.64
+  },
+  {
+    "id": "w3",
+    "text": "had",
+    "start": 0.64,
+    "end": 0.8
+  },
+  {
+    "id": "w4",
+    "text": "to",
+    "start": 0.8,
+    "end": 0.96
+  },
+  {
+    "id": "w5",
+    "text": "come",
+    "start": 0.96,
+    "end": 1.12
+  },
+  {
+    "id": "w6",
+    "text": "from",
+    "start": 1.12,
+    "end": 1.28
+  },
+  {
+    "id": "w7",
+    "text": "somewhere.",
+    "start": 1.28,
+    "end": 2
+  },
+  {
+    "id": "w8",
+    "text": "And",
+    "start": 2,
+    "end": 2.16
+  },
+  {
+    "id": "w9",
+    "text": "one",
+    "start": 2.16,
+    "end": 2.32
+  },
+  {
+    "id": "w10",
+    "text": "of",
+    "start": 2.32,
+    "end": 2.4
+  },
+  {
+    "id": "w11",
+    "text": "Blockbuster's",
+    "start": 2.4,
+    "end": 3.44
+  },
+  {
+    "id": "w12",
+    "text": "biggest",
+    "start": 3.44,
+    "end": 3.76
+  },
+  {
+    "id": "w13",
+    "text": "shareholders",
+    "start": 3.76,
+    "end": 4.48
+  },
+  {
+    "id": "w14",
+    "text": "was",
+    "start": 4.48,
+    "end": 4.72
+  },
+  {
+    "id": "w15",
+    "text": "watching",
+    "start": 4.72,
+    "end": 5.2
+  },
+  {
+    "id": "w16",
+    "text": "Carl",
+    "start": 5.44,
+    "end": 5.92
+  },
+  {
+    "id": "w17",
+    "text": "Icon.",
+    "start": 5.92,
+    "end": 6.64
+  }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "id": "w0",
+  "text": "Every",
+  "start": 0.0,
+  "end": 0.2
+ },
+ {
+  "id": "w1",
+  "text": "quarter,",
+  "start": 0.2,
+  "end": 0.62
+ },
+ {
+  "id": "w2",
+  "text": "it",
+  "start": 0.94,
+  "end": 1.14
+ },
+ {
+  "id": "w3",
+  "text": "handed",
+  "start": 1.14,
+  "end": 1.36
+ },
+ {
+  "id": "w4",
+  "text": "rent",
+  "start": 1.36,
+  "end": 1.72
+ },
+ {
+  "id": "w5",
+  "text": "to",
+  "start": 1.72,
+  "end": 1.9
+ },
+ {
+  "id": "w6",
+  "text": "the",
+  "start": 1.9,
+  "end": 1.98
+ },
+ {
+  "id": "w7",
+  "text": "company",
+  "start": 1.98,
+  "end": 2.2
+ },
+ {
+  "id": "w8",
+  "text": "it",
+  "start": 2.2,
+  "end": 2.56
+ },
+ {
+  "id": "w9",
+  "text": "had",
+  "start": 2.56,
+  "end": 2.62
+ },
+ {
+  "id": "w10",
+  "text": "just",
+  "start": 2.62,
+  "end": 2.82
+ },
+ {
+  "id": "w11",
+  "text": "created.",
+  "start": 2.82,
+  "end": 3.22
+ }
+]

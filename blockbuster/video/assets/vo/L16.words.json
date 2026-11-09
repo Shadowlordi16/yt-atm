@@ -1,0 +1,68 @@
+[
+  {
+    "id": "w0",
+    "text": "Friday",
+    "start": 0,
+    "end": 0.56
+  },
+  {
+    "id": "w1",
+    "text": "night",
+    "start": 0.56,
+    "end": 0.8
+  },
+  {
+    "id": "w2",
+    "text": "in",
+    "start": 0.8,
+    "end": 0.96
+  },
+  {
+    "id": "w3",
+    "text": "America",
+    "start": 0.96,
+    "end": 1.44
+  },
+  {
+    "id": "w4",
+    "text": "had",
+    "start": 1.44,
+    "end": 1.68
+  },
+  {
+    "id": "w5",
+    "text": "a",
+    "start": 1.68,
+    "end": 1.76
+  },
+  {
+    "id": "w6",
+    "text": "ritual.",
+    "start": 1.76,
+    "end": 2.4
+  },
+  {
+    "id": "w7",
+    "text": "You",
+    "start": 2.4,
+    "end": 2.64
+  },
+  {
+    "id": "w8",
+    "text": "went",
+    "start": 2.64,
+    "end": 2.8
+  },
+  {
+    "id": "w9",
+    "text": "to",
+    "start": 2.8,
+    "end": 2.96
+  },
+  {
+    "id": "w10",
+    "text": "Blockbuster.",
+    "start": 2.96,
+    "end": 3.84
+  }
+]

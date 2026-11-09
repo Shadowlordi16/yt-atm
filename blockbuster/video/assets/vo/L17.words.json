@@ -1,0 +1,80 @@
+[
+  {
+    "id": "w0",
+    "text": "But",
+    "start": 0,
+    "end": 0.24
+  },
+  {
+    "id": "w1",
+    "text": "inside",
+    "start": 0.24,
+    "end": 0.64
+  },
+  {
+    "id": "w2",
+    "text": "the",
+    "start": 0.64,
+    "end": 0.8
+  },
+  {
+    "id": "w3",
+    "text": "business,",
+    "start": 0.8,
+    "end": 1.36
+  },
+  {
+    "id": "w4",
+    "text": "there",
+    "start": 1.36,
+    "end": 1.6
+  },
+  {
+    "id": "w5",
+    "text": "was",
+    "start": 1.6,
+    "end": 1.76
+  },
+  {
+    "id": "w6",
+    "text": "a",
+    "start": 1.76,
+    "end": 1.84
+  },
+  {
+    "id": "w7",
+    "text": "number",
+    "start": 1.84,
+    "end": 2.32
+  },
+  {
+    "id": "w8",
+    "text": "nobody",
+    "start": 2.32,
+    "end": 2.72
+  },
+  {
+    "id": "w9",
+    "text": "put",
+    "start": 2.72,
+    "end": 3.04
+  },
+  {
+    "id": "w10",
+    "text": "on",
+    "start": 3.04,
+    "end": 3.12
+  },
+  {
+    "id": "w11",
+    "text": "the",
+    "start": 3.12,
+    "end": 3.28
+  },
+  {
+    "id": "w12",
+    "text": "posters.",
+    "start": 3.28,
+    "end": 3.92
+  }
+]

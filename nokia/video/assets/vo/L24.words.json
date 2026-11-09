@@ -1,0 +1,230 @@
+[
+ {
+  "id": "w0",
+  "text": "and",
+  "start": 0.0,
+  "end": 0.1
+ },
+ {
+  "id": "w1",
+  "text": "Nokia",
+  "start": 0.1,
+  "end": 0.36
+ },
+ {
+  "id": "w2",
+  "text": "was",
+  "start": 0.36,
+  "end": 0.7
+ },
+ {
+  "id": "w3",
+  "text": "already",
+  "start": 0.7,
+  "end": 0.96
+ },
+ {
+  "id": "w4",
+  "text": "selling",
+  "start": 0.96,
+  "end": 1.36
+ },
+ {
+  "id": "w5",
+  "text": "smartphones",
+  "start": 1.36,
+  "end": 1.8
+ },
+ {
+  "id": "w6",
+  "text": "years",
+  "start": 1.8,
+  "end": 2.86
+ },
+ {
+  "id": "w7",
+  "text": "before",
+  "start": 2.86,
+  "end": 3.3
+ },
+ {
+  "id": "w8",
+  "text": "most",
+  "start": 3.3,
+  "end": 3.6
+ },
+ {
+  "id": "w9",
+  "text": "people",
+  "start": 3.6,
+  "end": 3.94
+ },
+ {
+  "id": "w10",
+  "text": "used",
+  "start": 3.94,
+  "end": 4.2
+ },
+ {
+  "id": "w11",
+  "text": "the",
+  "start": 4.2,
+  "end": 4.4
+ },
+ {
+  "id": "w12",
+  "text": "word.",
+  "start": 4.4,
+  "end": 4.64
+ },
+ {
+  "id": "w13",
+  "text": "In",
+  "start": 5.52,
+  "end": 5.62
+ },
+ {
+  "id": "w14",
+  "text": "2007,",
+  "start": 5.62,
+  "end": 6.28
+ },
+ {
+  "id": "w15",
+  "text": "it",
+  "start": 6.82,
+  "end": 7.0
+ },
+ {
+  "id": "w16",
+  "text": "shipped",
+  "start": 7.0,
+  "end": 7.16
+ },
+ {
+  "id": "w17",
+  "text": "about",
+  "start": 7.16,
+  "end": 7.5
+ },
+ {
+  "id": "w18",
+  "text": "60",
+  "start": 7.5,
+  "end": 7.9
+ },
+ {
+  "id": "w19",
+  "text": "million",
+  "start": 7.9,
+  "end": 8.26
+ },
+ {
+  "id": "w20",
+  "text": "of",
+  "start": 8.26,
+  "end": 8.54
+ },
+ {
+  "id": "w21",
+  "text": "what",
+  "start": 8.54,
+  "end": 8.66
+ },
+ {
+  "id": "w22",
+  "text": "it",
+  "start": 8.66,
+  "end": 8.74
+ },
+ {
+  "id": "w23",
+  "text": "called",
+  "start": 8.74,
+  "end": 8.96
+ },
+ {
+  "id": "w24",
+  "text": "converged",
+  "start": 8.96,
+  "end": 9.66
+ },
+ {
+  "id": "w25",
+  "text": "devices,",
+  "start": 9.66,
+  "end": 10.08
+ },
+ {
+  "id": "w26",
+  "text": "phones",
+  "start": 10.86,
+  "end": 11.14
+ },
+ {
+  "id": "w27",
+  "text": "that",
+  "start": 11.14,
+  "end": 11.56
+ },
+ {
+  "id": "w28",
+  "text": "could",
+  "start": 11.56,
+  "end": 11.7
+ },
+ {
+  "id": "w29",
+  "text": "also",
+  "start": 11.7,
+  "end": 12.02
+ },
+ {
+  "id": "w30",
+  "text": "take",
+  "start": 12.02,
+  "end": 12.3
+ },
+ {
+  "id": "w31",
+  "text": "photos,",
+  "start": 12.3,
+  "end": 12.82
+ },
+ {
+  "id": "w32",
+  "text": "play",
+  "start": 13.2,
+  "end": 13.38
+ },
+ {
+  "id": "w33",
+  "text": "music",
+  "start": 13.38,
+  "end": 13.7
+ },
+ {
+  "id": "w34",
+  "text": "and",
+  "start": 13.7,
+  "end": 14.02
+ },
+ {
+  "id": "w35",
+  "text": "browse",
+  "start": 14.02,
+  "end": 14.26
+ },
+ {
+  "id": "w36",
+  "text": "the",
+  "start": 14.26,
+  "end": 14.72
+ },
+ {
+  "id": "w37",
+  "text": "web.",
+  "start": 14.72,
+  "end": 14.92
+ }
+]

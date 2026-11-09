@@ -1,0 +1,33 @@
+Post each Short at 6:00 PM (Lagos). After the long video is public (Thu Nov 19, 9 PM), set each Short's "Related video" in YouTube Studio to it.
+
+======== SHORT 1 · video/renders/short.mp4 ========
+TITLE: Lego Almost Went Bankrupt #shorts
+DESCRIPTION:
+In 2004, Lego lost almost 2 billion kroner, the biggest loss in its history. Ten years later it was the biggest toy company in the world. Full story on Paper Empire.
+#shorts #lego #business
+SCHEDULE: Wed Dec 2, 6:00 PM
+
+======== SHORT 2 · video/renders/short-2-ideas.mp4 ========
+TITLE: Lego's Toy Nobody Wanted: Galidor #shorts
+DESCRIPTION:
+Action figures, video games, a TV show, 12,900 different pieces. How Lego lost control of its own ideas. Full story on Paper Empire.
+#shorts #lego #business
+SCHEDULE: Fri Dec 4, 6:00 PM
+
+======== SHORT 3 · video/renders/short-3-less.mp4 ========
+TITLE: The 35-Year-Old Who Saved Lego #shorts
+DESCRIPTION:
+His plan: stop doing everything, go back to the brick. He cut Lego's pieces from 12,900 to 7,000. Full story on Paper Empire.
+#shorts #lego #business
+SCHEDULE: Sun Dec 6, 6:00 PM
+
+(Every 6 PM slot in November is already taken by Blockbuster, Kodak, Nokia and Toys "R" Us Shorts, so Lego's Shorts start Dec 2.)
+
+======== short-4-brick.mp4 (44 s) ========
+FILE: ~/Videos/yt-atm/lego/video/renders/short-4-brick.mp4
+TITLE: Lego's Bricks Didn't Hold Together at First #shorts
+DESCRIPTION:
+Lego's early plastic bricks did not hold together well. In 1958, the company patented the brick with hollow tubes underneath that locks together and stays together. Full video on the channel: Paper Empire.
+
+#shorts #lego #businesshistory
+SCHEDULE: Mon Nov 23, 6:00 PM

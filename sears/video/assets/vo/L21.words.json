@@ -1,0 +1,86 @@
+[
+ {
+  "id": "w0",
+  "text": "and",
+  "start": 0.0,
+  "end": 0.1
+ },
+ {
+  "id": "w1",
+  "text": "then",
+  "start": 0.1,
+  "end": 0.18
+ },
+ {
+  "id": "w2",
+  "text": "in",
+  "start": 0.18,
+  "end": 0.28
+ },
+ {
+  "id": "w3",
+  "text": "1989",
+  "start": 0.28,
+  "end": 0.94
+ },
+ {
+  "id": "w4",
+  "text": "Wal",
+  "start": 0.94,
+  "end": 1.62
+ },
+ {
+  "id": "w5",
+  "text": "-Mart",
+  "start": 1.62,
+  "end": 1.86
+ },
+ {
+  "id": "w6",
+  "text": "passed",
+  "start": 1.86,
+  "end": 2.22
+ },
+ {
+  "id": "w7",
+  "text": "it,",
+  "start": 2.22,
+  "end": 2.5
+ },
+ {
+  "id": "w8",
+  "text": "Sears",
+  "start": 3.0,
+  "end": 3.18
+ },
+ {
+  "id": "w9",
+  "text": "was",
+  "start": 3.18,
+  "end": 3.58
+ },
+ {
+  "id": "w10",
+  "text": "no",
+  "start": 3.58,
+  "end": 3.8
+ },
+ {
+  "id": "w11",
+  "text": "longer",
+  "start": 3.8,
+  "end": 4.16
+ },
+ {
+  "id": "w12",
+  "text": "the",
+  "start": 4.16,
+  "end": 4.32
+ },
+ {
+  "id": "w13",
+  "text": "biggest.",
+  "start": 4.32,
+  "end": 4.58
+ }
+]

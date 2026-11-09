@@ -1,0 +1,104 @@
+[
+ {
+  "id": "w0",
+  "text": "The",
+  "start": 0.0,
+  "end": 0.1
+ },
+ {
+  "id": "w1",
+  "text": "fund",
+  "start": 0.1,
+  "end": 0.36
+ },
+ {
+  "id": "w2",
+  "text": "was",
+  "start": 0.36,
+  "end": 0.64
+ },
+ {
+  "id": "w3",
+  "text": "run",
+  "start": 0.64,
+  "end": 0.86
+ },
+ {
+  "id": "w4",
+  "text": "by",
+  "start": 0.86,
+  "end": 1.12
+ },
+ {
+  "id": "w5",
+  "text": "Kenneth",
+  "start": 1.12,
+  "end": 1.44
+ },
+ {
+  "id": "w6",
+  "text": "Feynberg,",
+  "start": 1.44,
+  "end": 2.14
+ },
+ {
+  "id": "w7",
+  "text": "the",
+  "start": 2.66,
+  "end": 2.78
+ },
+ {
+  "id": "w8",
+  "text": "lawyer",
+  "start": 2.78,
+  "end": 3.0
+ },
+ {
+  "id": "w9",
+  "text": "who",
+  "start": 3.0,
+  "end": 3.3
+ },
+ {
+  "id": "w10",
+  "text": "had",
+  "start": 3.3,
+  "end": 3.4
+ },
+ {
+  "id": "w11",
+  "text": "handled",
+  "start": 3.4,
+  "end": 3.74
+ },
+ {
+  "id": "w12",
+  "text": "the",
+  "start": 3.74,
+  "end": 3.92
+ },
+ {
+  "id": "w13",
+  "text": "September",
+  "start": 3.92,
+  "end": 4.24
+ },
+ {
+  "id": "w14",
+  "text": "11",
+  "start": 4.24,
+  "end": 4.72
+ },
+ {
+  "id": "w15",
+  "text": "victims",
+  "start": 4.72,
+  "end": 5.3
+ },
+ {
+  "id": "w16",
+  "text": "fund.",
+  "start": 5.3,
+  "end": 5.6
+ }
+]

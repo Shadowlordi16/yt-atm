@@ -1,0 +1,4 @@
+L00|In nineteen seventy-five, a Kodak engineer built the first digital camera.
+L01|It weighed eight pounds.
+L02|Kodak still lost.
+L03|This is Paper Empire. Next time: Nokia.

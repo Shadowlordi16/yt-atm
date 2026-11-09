@@ -1,0 +1,110 @@
+[
+ {
+  "id": "w0",
+  "text": "The",
+  "start": 0.0,
+  "end": 0.08
+ },
+ {
+  "id": "w1",
+  "text": "club",
+  "start": 0.08,
+  "end": 0.26
+ },
+ {
+  "id": "w2",
+  "text": "that",
+  "start": 0.26,
+  "end": 0.46
+ },
+ {
+  "id": "w3",
+  "text": "bought",
+  "start": 0.46,
+  "end": 0.68
+ },
+ {
+  "id": "w4",
+  "text": "him",
+  "start": 0.68,
+  "end": 0.9
+ },
+ {
+  "id": "w5",
+  "text": "watched",
+  "start": 0.9,
+  "end": 1.22
+ },
+ {
+  "id": "w6",
+  "text": "their",
+  "start": 1.22,
+  "end": 1.5
+ },
+ {
+  "id": "w7",
+  "text": "records",
+  "start": 1.5,
+  "end": 1.86
+ },
+ {
+  "id": "w8",
+  "text": "signing",
+  "start": 1.86,
+  "end": 2.24
+ },
+ {
+  "id": "w9",
+  "text": "demolish",
+  "start": 2.24,
+  "end": 3.04
+ },
+ {
+  "id": "w10",
+  "text": "them,",
+  "start": 3.04,
+  "end": 3.24
+ },
+ {
+  "id": "w11",
+  "text": "and",
+  "start": 3.72,
+  "end": 3.84
+ },
+ {
+  "id": "w12",
+  "text": "then",
+  "start": 3.84,
+  "end": 3.94
+ },
+ {
+  "id": "w13",
+  "text": "watched",
+  "start": 3.94,
+  "end": 4.28
+ },
+ {
+  "id": "w14",
+  "text": "Bayern",
+  "start": 4.28,
+  "end": 4.66
+ },
+ {
+  "id": "w15",
+  "text": "win",
+  "start": 4.66,
+  "end": 5.12
+ },
+ {
+  "id": "w16",
+  "text": "the",
+  "start": 5.12,
+  "end": 5.3
+ },
+ {
+  "id": "w17",
+  "text": "treble.",
+  "start": 5.3,
+  "end": 5.68
+ }
+]

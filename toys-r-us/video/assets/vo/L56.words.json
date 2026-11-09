@@ -1,0 +1,62 @@
+[
+ {
+  "id": "w0",
+  "text": "The",
+  "start": 0.0,
+  "end": 0.08
+ },
+ {
+  "id": "w1",
+  "text": "brand",
+  "start": 0.08,
+  "end": 0.24
+ },
+ {
+  "id": "w2",
+  "text": "survived,",
+  "start": 0.24,
+  "end": 0.74
+ },
+ {
+  "id": "w3",
+  "text": "the",
+  "start": 1.36,
+  "end": 1.5
+ },
+ {
+  "id": "w4",
+  "text": "company",
+  "start": 1.5,
+  "end": 1.8
+ },
+ {
+  "id": "w5",
+  "text": "that",
+  "start": 1.8,
+  "end": 2.06
+ },
+ {
+  "id": "w6",
+  "text": "built",
+  "start": 2.06,
+  "end": 2.32
+ },
+ {
+  "id": "w7",
+  "text": "it",
+  "start": 2.32,
+  "end": 2.56
+ },
+ {
+  "id": "w8",
+  "text": "did",
+  "start": 2.56,
+  "end": 2.72
+ },
+ {
+  "id": "w9",
+  "text": "not.",
+  "start": 2.72,
+  "end": 3.02
+ }
+]

@@ -1,0 +1,37 @@
+TOYS "R" US SHORTS: upload each, then in YouTube Studio set 'Related video' to the full Toys "R" Us video (after it goes live Tue Nov 17).
+
+======== short.mp4 (41 s) ========
+FILE: ~/Videos/yt-atm/toys-r-us/video/renders/short.mp4
+TITLE: Amazon Didn't Kill Toys "R" Us #shorts
+DESCRIPTION:
+735 stores. 33,000 jobs. Everyone blamed Amazon. But Toys "R" Us once made Amazon its online store, then sued it and won. What really buried it was a 2005 deal. Full video on the channel: Paper Empire.
+
+#shorts #toysrus #businesshistory
+SCHEDULE: Wed Nov 18, 6:00 PM
+
+======== short-2-amazon.mp4 (53 s) ========
+FILE: ~/Videos/yt-atm/toys-r-us/video/renders/short-2-amazon.mp4
+TITLE: Amazon Used to Run Toys "R" Us's Website #shorts
+DESCRIPTION:
+In 2000, Toys "R" Us signed a 10-year deal making Amazon its exclusive online store. It ended in court, and Amazon paid $51 million to settle. Full video on the channel: Paper Empire.
+
+#shorts #toysrus #amazon #businesshistory
+SCHEDULE: Wed Nov 25, 6:00 PM
+
+======== short-3-buyout.mp4 (60 s) ========
+FILE: ~/Videos/yt-atm/toys-r-us/video/renders/short-3-buyout.mp4
+TITLE: The $6.6 Billion Deal That Buried Toys "R" Us #shorts
+DESCRIPTION:
+In 2005, KKR, Bain Capital and Vornado bought Toys "R" Us, mostly with borrowed money. The debt didn't belong to the buyers. It belonged to Toys "R" Us. Full video on the channel: Paper Empire.
+
+#shorts #toysrus #privateequity #leveragedbuyout
+SCHEDULE: Fri Nov 27, 6:00 PM
+
+======== short-4-severance.mp4 (43 s) ========
+FILE: ~/Videos/yt-atm/toys-r-us/video/renders/short-4-severance.mp4
+TITLE: 33,000 Toys "R" Us Workers Were Told: No Severance #shorts
+DESCRIPTION:
+When Toys "R" Us closed in 2018, workers were first told there was no money for severance. After months of protests, KKR and Bain put $20 million into a fund. Full video on the channel: Paper Empire.
+
+#shorts #toysrus #businesshistory
+SCHEDULE: Mon Nov 30, 6:00 PM

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "w0",
+    "text": "Netflix",
+    "start": 0,
+    "end": 0.64
+  },
+  {
+    "id": "w1",
+    "text": "had",
+    "start": 0.64,
+    "end": 0.8
+  },
+  {
+    "id": "w2",
+    "text": "no",
+    "start": 0.8,
+    "end": 1.04
+  },
+  {
+    "id": "w3",
+    "text": "stores.",
+    "start": 1.04,
+    "end": 1.6
+  },
+  {
+    "id": "w4",
+    "text": "It",
+    "start": 1.6,
+    "end": 1.84
+  },
+  {
+    "id": "w5",
+    "text": "mailed",
+    "start": 1.84,
+    "end": 2.24
+  },
+  {
+    "id": "w6",
+    "text": "you",
+    "start": 2.24,
+    "end": 2.4
+  },
+  {
+    "id": "w7",
+    "text": "DVDs.",
+    "start": 2.4,
+    "end": 3.44
+  },
+  {
+    "id": "w8",
+    "text": "You",
+    "start": 3.44,
+    "end": 3.6
+  },
+  {
+    "id": "w9",
+    "text": "kept",
+    "start": 3.6,
+    "end": 3.84
+  },
+  {
+    "id": "w10",
+    "text": "them",
+    "start": 3.84,
+    "end": 4.08
+  },
+  {
+    "id": "w11",
+    "text": "as",
+    "start": 4.08,
+    "end": 4.24
+  },
+  {
+    "id": "w12",
+    "text": "long",
+    "start": 4.24,
+    "end": 4.4
+  },
+  {
+    "id": "w13",
+    "text": "as",
+    "start": 4.4,
+    "end": 4.56
+  },
+  {
+    "id": "w14",
+    "text": "you",
+    "start": 4.56,
+    "end": 4.64
+  },
+  {
+    "id": "w15",
+    "text": "wanted.",
+    "start": 4.64,
+    "end": 5.12
+  }
+]

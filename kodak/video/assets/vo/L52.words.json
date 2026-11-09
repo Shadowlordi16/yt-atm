@@ -1,0 +1,56 @@
+[
+  {
+    "id": "w0",
+    "text": "Kodak's",
+    "start": 0.08,
+    "end": 0.72
+  },
+  {
+    "id": "w1",
+    "text": "great",
+    "start": 0.72,
+    "end": 0.96
+  },
+  {
+    "id": "w2",
+    "text": "rival",
+    "start": 0.96,
+    "end": 1.36
+  },
+  {
+    "id": "w3",
+    "text": "faced",
+    "start": 1.36,
+    "end": 1.76
+  },
+  {
+    "id": "w4",
+    "text": "the",
+    "start": 1.76,
+    "end": 1.84
+  },
+  {
+    "id": "w5",
+    "text": "exact",
+    "start": 1.84,
+    "end": 2.24
+  },
+  {
+    "id": "w6",
+    "text": "same",
+    "start": 2.24,
+    "end": 2.56
+  },
+  {
+    "id": "w7",
+    "text": "problem,",
+    "start": 2.56,
+    "end": 3.2
+  },
+  {
+    "id": "w8",
+    "text": "Fujifilm.",
+    "start": 3.2,
+    "end": 4.16
+  }
+]

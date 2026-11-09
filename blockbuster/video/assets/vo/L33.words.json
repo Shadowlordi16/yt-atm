@@ -1,0 +1,50 @@
+[
+  {
+    "id": "w0",
+    "text": "Netflix",
+    "start": 0,
+    "end": 0.64
+  },
+  {
+    "id": "w1",
+    "text": "couldn't",
+    "start": 0.64,
+    "end": 0.88
+  },
+  {
+    "id": "w2",
+    "text": "match",
+    "start": 0.88,
+    "end": 1.2
+  },
+  {
+    "id": "w3",
+    "text": "that,",
+    "start": 1.2,
+    "end": 1.6
+  },
+  {
+    "id": "w4",
+    "text": "it",
+    "start": 1.6,
+    "end": 1.76
+  },
+  {
+    "id": "w5",
+    "text": "had",
+    "start": 1.76,
+    "end": 2
+  },
+  {
+    "id": "w6",
+    "text": "no",
+    "start": 2,
+    "end": 2.24
+  },
+  {
+    "id": "w7",
+    "text": "stores.",
+    "start": 2.24,
+    "end": 2.8
+  }
+]

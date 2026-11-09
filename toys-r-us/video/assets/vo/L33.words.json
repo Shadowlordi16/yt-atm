@@ -1,0 +1,80 @@
+[
+ {
+  "id": "w0",
+  "text": "Overnight,",
+  "start": 0.0,
+  "end": 0.26
+ },
+ {
+  "id": "w1",
+  "text": "the",
+  "start": 0.68,
+  "end": 0.72
+ },
+ {
+  "id": "w2",
+  "text": "toy",
+  "start": 0.72,
+  "end": 0.92
+ },
+ {
+  "id": "w3",
+  "text": "store",
+  "start": 0.92,
+  "end": 1.24
+ },
+ {
+  "id": "w4",
+  "text": "owed",
+  "start": 1.24,
+  "end": 1.6
+ },
+ {
+  "id": "w5",
+  "text": "billions",
+  "start": 1.6,
+  "end": 1.96
+ },
+ {
+  "id": "w6",
+  "text": "of",
+  "start": 1.96,
+  "end": 2.32
+ },
+ {
+  "id": "w7",
+  "text": "dollars",
+  "start": 2.32,
+  "end": 2.68
+ },
+ {
+  "id": "w8",
+  "text": "it",
+  "start": 2.68,
+  "end": 3.0
+ },
+ {
+  "id": "w9",
+  "text": "hadn't",
+  "start": 3.0,
+  "end": 3.28
+ },
+ {
+  "id": "w10",
+  "text": "borrowed",
+  "start": 3.28,
+  "end": 3.46
+ },
+ {
+  "id": "w11",
+  "text": "for",
+  "start": 3.46,
+  "end": 3.88
+ },
+ {
+  "id": "w12",
+  "text": "itself.",
+  "start": 3.88,
+  "end": 4.22
+ }
+]

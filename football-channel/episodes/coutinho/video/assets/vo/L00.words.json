@@ -1,0 +1,62 @@
+[
+ {
+  "id": "w0",
+  "text": "January",
+  "start": 0.0,
+  "end": 0.38
+ },
+ {
+  "id": "w1",
+  "text": "2018.",
+  "start": 0.38,
+  "end": 1.56
+ },
+ {
+  "id": "w2",
+  "text": "Barcelona",
+  "start": 2.48,
+  "end": 2.9
+ },
+ {
+  "id": "w3",
+  "text": "Pay",
+  "start": 2.9,
+  "end": 3.4
+ },
+ {
+  "id": "w4",
+  "text": "Liverpool",
+  "start": 3.4,
+  "end": 3.7
+ },
+ {
+  "id": "w5",
+  "text": "\u00a3142",
+  "start": 3.7,
+  "end": 5.24
+ },
+ {
+  "id": "w6",
+  "text": "million",
+  "start": 5.24,
+  "end": 5.84
+ },
+ {
+  "id": "w7",
+  "text": "for",
+  "start": 5.84,
+  "end": 6.62
+ },
+ {
+  "id": "w8",
+  "text": "Philippe",
+  "start": 6.62,
+  "end": 6.9
+ },
+ {
+  "id": "w9",
+  "text": "Cautinho.",
+  "start": 6.9,
+  "end": 7.6
+ }
+]

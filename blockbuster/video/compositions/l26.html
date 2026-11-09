@@ -1,0 +1,62 @@
+<template>
+  <style>
+#root{position:absolute;inset:0;overflow:hidden;background:#E9E6DF;font-family:Inter,sans-serif;color:#141414}
+#root .fill{position:absolute;left:0;top:0;width:1920px;height:1080px}
+#root .paper{position:absolute;left:0;top:0;width:1920px;height:1080px;object-fit:cover}
+#root .ph{position:absolute;left:0;top:0;width:1920px;height:1080px;object-fit:cover;opacity:0}
+#root .lg{font-family:'League Gothic',sans-serif;text-transform:uppercase;line-height:.88;font-weight:400;font-variant-numeric:tabular-nums;white-space:nowrap}
+#root .kick{font-family:Inter,sans-serif;font-weight:900;font-size:46px;letter-spacing:.02em;text-transform:uppercase;white-space:nowrap}
+#root .body{font-family:Inter,sans-serif;font-weight:700;font-size:46px;white-space:nowrap}
+#root .src{position:absolute;left:192px;bottom:72px;font:400 28px Inter,sans-serif;color:#6B6963;white-space:nowrap}
+#root .src.np{color:#E9E6DF;text-shadow:0 2px 6px rgba(0,0,0,.9),0 0 18px rgba(0,0,0,.75)}
+#root .red{color:#D7261E}#root .grey{color:#6B6963}#root .np{color:#E9E6DF}#root .ink{color:#141414}
+#root .rule{position:absolute;height:8px;background:#141414;transform-origin:left center}
+#root .sheet{position:absolute;overflow:hidden;background:#E9E6DF;box-shadow:0 18px 40px rgba(0,0,0,.35)}
+#root .band{position:absolute;background:#141414;padding:26px 40px 8px}
+#root .o0{opacity:0}
+#root .stamp{position:absolute;padding:26px 44px 6px;border:12px solid #D7261E;color:#D7261E;opacity:0}
+#root .stamp.inkst{border-color:#141414;color:#141414}
+#root .card{position:absolute;background:#F7F5F0;box-shadow:0 14px 30px rgba(0,0,0,.2);opacity:0}
+#root .flash{position:absolute;left:0;top:0;width:1920px;height:1080px;background:#F7F5F0;opacity:0}
+</style>
+  <div id="root" data-composition-id="l26" data-width="1920" data-height="1080">
+    <img class="paper" src="assets/paper.jpg" alt="">
+    <div id="l26-pw" class="o0" style="position:absolute;left:860px;top:0;width:1060px;height:1080px;overflow:hidden"><img id="l26-pi" src="assets/img/antioco.jpg" style="width:1060px;height:1080px;object-fit:cover;object-position:50% 18%" alt=""></div>
+    <div id="l26-e1" class="kick grey o0" style="position:absolute;left:192px;top:600px">CEO since 1997</div>
+    <div id="l26-e2" class="lg  o0" style="position:absolute;left:186px;top:660px;font-size:170px;">John Antioco</div>
+    <div id="l26-cov" class="o0 fill" style="background:#E9E6DF"><img class="paper" src="assets/paper.jpg" alt=""></div>
+    <div id="l26-e3" class="kick  o0" style="position:absolute;left:192px;top:180px">August 2004</div>
+    <div id="l26-e4" class="lg  o0" style="position:absolute;left:186px;top:250px;font-size:240px;">Blockbuster Online</div>
+    <div id="l26-price" class="o0" style="position:absolute;left:192px;top:560px;border:8px solid #141414;padding:30px 50px 8px"><div class="lg" style="font-size:200px">$19.99<span style="font-size:90px"> / month</span></div></div>
+    <div id="l26-e5" class="kick  o0" style="position:absolute;left:192px;top:900px">DVDs by mail · up to 3 at a time</div>
+    <div class="src">Source: Blockbuster history (via Wikipedia)</div>
+  </div>
+  <script>
+    (function () {
+    const tl = gsap.timeline({ paused: true });
+    const on = (s, t) => tl.fromTo(s, { opacity: 0 }, { opacity: 1, duration: 0.001 }, t);
+    const off = (s, t) => tl.fromTo(s, { opacity: 1 }, { opacity: 0, duration: 0.001, immediateRender: false }, t);
+    const wipe = (s, t, d = 0.28) => tl.fromTo(s, { clipPath: 'inset(-12% 100% -12% 0)', opacity: 1 }, { clipPath: 'inset(-12% 0% -12% 0)', duration: d, ease: 'power3.out' }, t);
+    const rule = (s, t, d = 0.45) => tl.fromTo(s, { scaleX: 0 }, { scaleX: 1, duration: d, ease: 'power2.inOut' }, t);
+    const push = (s, t, d, a = 1, b = 1.06) => tl.fromTo(s, { scale: a }, { scale: b, duration: d, ease: 'none' }, t);
+    const slam = (s, t) => { tl.fromTo(s, { opacity: 1, scale: 1.35 }, { scale: 1, duration: 0.12, ease: 'power4.out' }, t); };
+    const shake = (s, t) => tl.fromTo(s, { x: 0 }, { keyframes: [{ x: 7, duration: .033 }, { x: -6, duration: .033 }, { x: 3, duration: .033 }, { x: 0, duration: .033 }] }, t);
+    const count = (s, t, to, fmt, d = 1.4) => { const el = document.querySelector(s); const o = { v: 0 };
+      tl.fromTo(s, { opacity: 0 }, { opacity: 1, duration: 0.001 }, t);
+      tl.fromTo(o, { v: 0 }, { v: to, duration: d, ease: 'power2.out', onUpdate: () => { el.textContent = fmt(o.v); } }, t); };
+    const fmtInt = v => Math.round(v).toLocaleString('en-US');
+
+    on('#l26-pw', 0.150); push('#l26-pi', 0.150, 11.843, 1, 1.05);
+    on('#l26-e1', 0.300);
+    wipe('#l26-e2', 0.250, 0.28);
+    off('#l26-pw', 2.920); off('#l26-e1', 2.920); off('#l26-e2', 2.920);
+    on('#l26-cov', 2.920);
+    on('#l26-e3', 2.920);
+    wipe('#l26-e4', 8.680, 0.28);
+    on('#l26-price', 9.560);
+    on('#l26-e5', 10.160);
+    tl.to({}, { duration: 11.993 }, 0);
+    window.__timelines["l26"] = tl;
+    })();
+  </script>
+</template>

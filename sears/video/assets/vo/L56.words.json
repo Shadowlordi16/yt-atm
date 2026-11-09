@@ -1,0 +1,80 @@
+[
+ {
+  "id": "w0",
+  "text": "It",
+  "start": 0.0,
+  "end": 0.1
+ },
+ {
+  "id": "w1",
+  "text": "planned",
+  "start": 0.1,
+  "end": 0.3
+ },
+ {
+  "id": "w2",
+  "text": "to",
+  "start": 0.3,
+  "end": 0.54
+ },
+ {
+  "id": "w3",
+  "text": "close",
+  "start": 0.54,
+  "end": 0.72
+ },
+ {
+  "id": "w4",
+  "text": "a",
+  "start": 0.72,
+  "end": 0.92
+ },
+ {
+  "id": "w5",
+  "text": "hundred",
+  "start": 0.92,
+  "end": 1.22
+ },
+ {
+  "id": "w6",
+  "text": "and",
+  "start": 1.22,
+  "end": 1.7
+ },
+ {
+  "id": "w7",
+  "text": "forty",
+  "start": 1.7,
+  "end": 1.88
+ },
+ {
+  "id": "w8",
+  "text": "-two",
+  "start": 1.88,
+  "end": 2.2
+ },
+ {
+  "id": "w9",
+  "text": "more",
+  "start": 2.2,
+  "end": 2.38
+ },
+ {
+  "id": "w10",
+  "text": "stores",
+  "start": 2.38,
+  "end": 2.66
+ },
+ {
+  "id": "w11",
+  "text": "straight",
+  "start": 2.66,
+  "end": 3.04
+ },
+ {
+  "id": "w12",
+  "text": "away.",
+  "start": 3.04,
+  "end": 3.38
+ }
+]

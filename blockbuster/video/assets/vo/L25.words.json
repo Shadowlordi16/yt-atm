@@ -1,0 +1,68 @@
+[
+  {
+    "id": "w0",
+    "text": "Here's",
+    "start": 0,
+    "end": 0.32
+  },
+  {
+    "id": "w1",
+    "text": "the",
+    "start": 0.32,
+    "end": 0.48
+  },
+  {
+    "id": "w2",
+    "text": "part",
+    "start": 0.48,
+    "end": 0.72
+  },
+  {
+    "id": "w3",
+    "text": "most",
+    "start": 0.8,
+    "end": 1.04
+  },
+  {
+    "id": "w4",
+    "text": "people",
+    "start": 1.04,
+    "end": 1.28
+  },
+  {
+    "id": "w5",
+    "text": "never",
+    "start": 1.28,
+    "end": 1.6
+  },
+  {
+    "id": "w6",
+    "text": "hear.",
+    "start": 1.6,
+    "end": 2.16
+  },
+  {
+    "id": "w7",
+    "text": "Blockbuster",
+    "start": 2.16,
+    "end": 3.04
+  },
+  {
+    "id": "w8",
+    "text": "didn't",
+    "start": 3.04,
+    "end": 3.28
+  },
+  {
+    "id": "w9",
+    "text": "stay",
+    "start": 3.28,
+    "end": 3.6
+  },
+  {
+    "id": "w10",
+    "text": "asleep.",
+    "start": 3.6,
+    "end": 4.08
+  }
+]

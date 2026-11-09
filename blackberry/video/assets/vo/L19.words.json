@@ -1,0 +1,140 @@
+[
+ {
+  "id": "w0",
+  "text": "for",
+  "start": 0.0,
+  "end": 0.1
+ },
+ {
+  "id": "w1",
+  "text": "years",
+  "start": 0.1,
+  "end": 0.32
+ },
+ {
+  "id": "w2",
+  "text": "Blackberry",
+  "start": 0.32,
+  "end": 0.96
+ },
+ {
+  "id": "w3",
+  "text": "outsold",
+  "start": 0.96,
+  "end": 1.48
+ },
+ {
+  "id": "w4",
+  "text": "it.",
+  "start": 1.48,
+  "end": 1.76
+ },
+ {
+  "id": "w5",
+  "text": "Apple's",
+  "start": 2.6,
+  "end": 2.72
+ },
+ {
+  "id": "w6",
+  "text": "first",
+  "start": 2.72,
+  "end": 2.88
+ },
+ {
+  "id": "w7",
+  "text": "three",
+  "start": 2.88,
+  "end": 3.24
+ },
+ {
+  "id": "w8",
+  "text": "iPhones",
+  "start": 3.24,
+  "end": 3.6
+ },
+ {
+  "id": "w9",
+  "text": "were",
+  "start": 3.6,
+  "end": 4.18
+ },
+ {
+  "id": "w10",
+  "text": "not",
+  "start": 4.18,
+  "end": 4.34
+ },
+ {
+  "id": "w11",
+  "text": "enough",
+  "start": 4.34,
+  "end": 4.54
+ },
+ {
+  "id": "w12",
+  "text": "to",
+  "start": 4.54,
+  "end": 4.76
+ },
+ {
+  "id": "w13",
+  "text": "beat",
+  "start": 4.76,
+  "end": 4.96
+ },
+ {
+  "id": "w14",
+  "text": "RIM's",
+  "start": 4.96,
+  "end": 5.78
+ },
+ {
+  "id": "w15",
+  "text": "carrier",
+  "start": 5.78,
+  "end": 6.06
+ },
+ {
+  "id": "w16",
+  "text": "deals",
+  "start": 6.06,
+  "end": 6.36
+ },
+ {
+  "id": "w17",
+  "text": "or",
+  "start": 6.36,
+  "end": 7.1
+ },
+ {
+  "id": "w18",
+  "text": "its",
+  "start": 7.1,
+  "end": 7.28
+ },
+ {
+  "id": "w19",
+  "text": "grip",
+  "start": 7.28,
+  "end": 7.5
+ },
+ {
+  "id": "w20",
+  "text": "on",
+  "start": 7.5,
+  "end": 7.74
+ },
+ {
+  "id": "w21",
+  "text": "corporate",
+  "start": 7.74,
+  "end": 8.04
+ },
+ {
+  "id": "w22",
+  "text": "email.",
+  "start": 8.04,
+  "end": 8.4
+ }
+]

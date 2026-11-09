@@ -1,0 +1,56 @@
+[
+ {
+  "id": "w0",
+  "text": "On",
+  "start": 0.0,
+  "end": 0.1
+ },
+ {
+  "id": "w1",
+  "text": "October",
+  "start": 0.1,
+  "end": 0.34
+ },
+ {
+  "id": "w2",
+  "text": "15,",
+  "start": 0.34,
+  "end": 0.9
+ },
+ {
+  "id": "w3",
+  "text": "2018,",
+  "start": 1.32,
+  "end": 1.84
+ },
+ {
+  "id": "w4",
+  "text": "it",
+  "start": 2.32,
+  "end": 2.38
+ },
+ {
+  "id": "w5",
+  "text": "filed",
+  "start": 2.38,
+  "end": 2.6
+ },
+ {
+  "id": "w6",
+  "text": "for",
+  "start": 2.6,
+  "end": 3.0
+ },
+ {
+  "id": "w7",
+  "text": "Chapter",
+  "start": 3.0,
+  "end": 3.28
+ },
+ {
+  "id": "w8",
+  "text": "11.",
+  "start": 3.28,
+  "end": 3.72
+ }
+]

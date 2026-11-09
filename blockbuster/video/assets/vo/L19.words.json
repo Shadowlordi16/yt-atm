@@ -1,0 +1,98 @@
+[
+  {
+    "id": "w0",
+    "text": "Think",
+    "start": 0,
+    "end": 0.32
+  },
+  {
+    "id": "w1",
+    "text": "about",
+    "start": 0.32,
+    "end": 0.48
+  },
+  {
+    "id": "w2",
+    "text": "what",
+    "start": 0.48,
+    "end": 0.72
+  },
+  {
+    "id": "w3",
+    "text": "that",
+    "start": 0.72,
+    "end": 0.96
+  },
+  {
+    "id": "w4",
+    "text": "means.",
+    "start": 0.96,
+    "end": 1.6
+  },
+  {
+    "id": "w5",
+    "text": "One",
+    "start": 1.6,
+    "end": 2
+  },
+  {
+    "id": "w6",
+    "text": "dollar",
+    "start": 2,
+    "end": 2.32
+  },
+  {
+    "id": "w7",
+    "text": "in",
+    "start": 2.32,
+    "end": 2.48
+  },
+  {
+    "id": "w8",
+    "text": "every",
+    "start": 2.48,
+    "end": 2.72
+  },
+  {
+    "id": "w9",
+    "text": "six",
+    "start": 2.72,
+    "end": 3.2
+  },
+  {
+    "id": "w10",
+    "text": "came",
+    "start": 3.2,
+    "end": 3.44
+  },
+  {
+    "id": "w11",
+    "text": "from",
+    "start": 3.44,
+    "end": 3.68
+  },
+  {
+    "id": "w12",
+    "text": "customers",
+    "start": 3.68,
+    "end": 4.24
+  },
+  {
+    "id": "w13",
+    "text": "making",
+    "start": 4.24,
+    "end": 4.56
+  },
+  {
+    "id": "w14",
+    "text": "a",
+    "start": 4.56,
+    "end": 4.72
+  },
+  {
+    "id": "w15",
+    "text": "mistake.",
+    "start": 4.72,
+    "end": 5.2
+  }
+]

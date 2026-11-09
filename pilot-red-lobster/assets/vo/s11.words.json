@@ -1,0 +1,80 @@
+[
+  {
+    "id": "w0",
+    "text": "Endless",
+    "start": 0,
+    "end": 0.48
+  },
+  {
+    "id": "w1",
+    "text": "Shrimp,",
+    "start": 0.48,
+    "end": 1.04
+  },
+  {
+    "id": "w2",
+    "text": "got",
+    "start": 1.04,
+    "end": 1.28
+  },
+  {
+    "id": "w3",
+    "text": "the",
+    "start": 1.28,
+    "end": 1.36
+  },
+  {
+    "id": "w4",
+    "text": "headlines.",
+    "start": 1.36,
+    "end": 2.08
+  },
+  {
+    "id": "w5",
+    "text": "A",
+    "start": 2.24,
+    "end": 2.48
+  },
+  {
+    "id": "w6",
+    "text": "10-year-old",
+    "start": 2.48,
+    "end": 3.44
+  },
+  {
+    "id": "w7",
+    "text": "real",
+    "start": 3.44,
+    "end": 3.6
+  },
+  {
+    "id": "w8",
+    "text": "estate",
+    "start": 3.76,
+    "end": 4.16
+  },
+  {
+    "id": "w9",
+    "text": "deal",
+    "start": 4.16,
+    "end": 4.48
+  },
+  {
+    "id": "w10",
+    "text": "did",
+    "start": 4.48,
+    "end": 4.72
+  },
+  {
+    "id": "w11",
+    "text": "the",
+    "start": 4.72,
+    "end": 4.8
+  },
+  {
+    "id": "w12",
+    "text": "damage.",
+    "start": 4.8,
+    "end": 5.28
+  }
+]

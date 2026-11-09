@@ -1,0 +1,128 @@
+[
+ {
+  "id": "w0",
+  "text": "Liverpool",
+  "start": 0.0,
+  "end": 0.26
+ },
+ {
+  "id": "w1",
+  "text": "knew",
+  "start": 0.26,
+  "end": 0.68
+ },
+ {
+  "id": "w2",
+  "text": "exactly",
+  "start": 0.68,
+  "end": 0.96
+ },
+ {
+  "id": "w3",
+  "text": "where",
+  "start": 0.96,
+  "end": 1.48
+ },
+ {
+  "id": "w4",
+  "text": "to",
+  "start": 1.48,
+  "end": 1.56
+ },
+ {
+  "id": "w5",
+  "text": "use",
+  "start": 1.56,
+  "end": 1.8
+ },
+ {
+  "id": "w6",
+  "text": "him.",
+  "start": 1.8,
+  "end": 1.98
+ },
+ {
+  "id": "w7",
+  "text": "Left",
+  "start": 2.42,
+  "end": 2.72
+ },
+ {
+  "id": "w8",
+  "text": "cutting",
+  "start": 2.72,
+  "end": 3.12
+ },
+ {
+  "id": "w9",
+  "text": "in",
+  "start": 3.12,
+  "end": 3.48
+ },
+ {
+  "id": "w10",
+  "text": "arriving",
+  "start": 3.48,
+  "end": 3.82
+ },
+ {
+  "id": "w11",
+  "text": "late.",
+  "start": 3.82,
+  "end": 4.3
+ },
+ {
+  "id": "w12",
+  "text": "It",
+  "start": 4.86,
+  "end": 4.96
+ },
+ {
+  "id": "w13",
+  "text": "worked",
+  "start": 4.96,
+  "end": 5.14
+ },
+ {
+  "id": "w14",
+  "text": "because",
+  "start": 5.14,
+  "end": 5.52
+ },
+ {
+  "id": "w15",
+  "text": "the",
+  "start": 5.52,
+  "end": 5.72
+ },
+ {
+  "id": "w16",
+  "text": "team",
+  "start": 5.72,
+  "end": 6.0
+ },
+ {
+  "id": "w17",
+  "text": "was",
+  "start": 6.0,
+  "end": 6.2
+ },
+ {
+  "id": "w18",
+  "text": "built",
+  "start": 6.2,
+  "end": 6.46
+ },
+ {
+  "id": "w19",
+  "text": "for",
+  "start": 6.46,
+  "end": 6.72
+ },
+ {
+  "id": "w20",
+  "text": "it.",
+  "start": 6.72,
+  "end": 6.9
+ }
+]

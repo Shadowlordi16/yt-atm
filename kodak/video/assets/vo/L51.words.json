@@ -1,0 +1,110 @@
+[
+  {
+    "id": "w0",
+    "text": "In",
+    "start": 0,
+    "end": 0.24
+  },
+  {
+    "id": "w1",
+    "text": "September",
+    "start": 0.24,
+    "end": 0.72
+  },
+  {
+    "id": "w2",
+    "text": "twenty",
+    "start": 0.72,
+    "end": 0.96
+  },
+  {
+    "id": "w3",
+    "text": "thirteen,",
+    "start": 1.12,
+    "end": 1.68
+  },
+  {
+    "id": "w4",
+    "text": "Kodak",
+    "start": 1.68,
+    "end": 2.4
+  },
+  {
+    "id": "w5",
+    "text": "came",
+    "start": 2.56,
+    "end": 2.72
+  },
+  {
+    "id": "w6",
+    "text": "out",
+    "start": 2.72,
+    "end": 2.8
+  },
+  {
+    "id": "w7",
+    "text": "of",
+    "start": 2.8,
+    "end": 2.96
+  },
+  {
+    "id": "w8",
+    "text": "bankruptcy",
+    "start": 2.96,
+    "end": 3.84
+  },
+  {
+    "id": "w9",
+    "text": "as",
+    "start": 3.92,
+    "end": 4.16
+  },
+  {
+    "id": "w10",
+    "text": "a",
+    "start": 4.16,
+    "end": 4.32
+  },
+  {
+    "id": "w11",
+    "text": "much",
+    "start": 4.32,
+    "end": 4.56
+  },
+  {
+    "id": "w12",
+    "text": "smaller",
+    "start": 4.56,
+    "end": 4.96
+  },
+  {
+    "id": "w13",
+    "text": "company",
+    "start": 4.96,
+    "end": 5.44
+  },
+  {
+    "id": "w14",
+    "text": "focused",
+    "start": 5.44,
+    "end": 5.92
+  },
+  {
+    "id": "w15",
+    "text": "on",
+    "start": 5.92,
+    "end": 6.08
+  },
+  {
+    "id": "w16",
+    "text": "business",
+    "start": 6.08,
+    "end": 6.48
+  },
+  {
+    "id": "w17",
+    "text": "customers.",
+    "start": 6.48,
+    "end": 7.12
+  }
+]

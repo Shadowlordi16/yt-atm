@@ -1,0 +1,80 @@
+======== TITLE (copy this) ========
+Kodak Invented the Digital Camera. Then It Went Bankrupt.
+
+(alternative to test later: How Kodak Lost to the Thing It Invented)
+
+======== DESCRIPTION (copy everything between the lines) ========
+Kodak invented the digital camera in 1975. It studied the threat in 1981. By 2004 it was the No. 1 digital camera seller in America. In 2012 it filed for bankruptcy, the same year Facebook paid $1 billion for Instagram, a photo app with 13 employees.
+
+Kodak didn't miss the future. It saw it clearly. It just couldn't make the future pay like the past.
+
+CHAPTERS
+0:00 The $1 billion photo app
+0:43 You press the button
+2:08 The toaster in the lab
+3:32 Winning the wrong race
+4:48 The phone in your pocket
+6:56 The other film company
+
+SOURCES
+- Eastman Kodak 10-K filings, 1996 and 2000 (SEC)
+- IEEE Spectrum: the first digital camera (Steve Sasson, 1975); AP interview with Sasson (2023)
+- Columbia Business School case "Leap into the Void" (1976 market share)
+- Rochester Business Journal: Kodak employment timeline
+- IDC via Reuters / NBC News: Kodak No. 1 in US digital cameras, 2004 and 2005
+- AP via phys.org and The Globe and Mail: Samsung and LG patent licences (2009-2010)
+- AppleInsider: Kodak vs. Apple (2011) and the $525M patent sale (2012)
+- Employee Benefit News (2012): retirees vs. workers
+- IndustryWeek (2012): Kodak exits digital cameras
+- Al Jazeera (2012): Facebook buys Instagram
+- CBC: Kodak emerges from bankruptcy (2013)
+- PetaPixel: "Why Kodak Died and Fujifilm Thrived"
+- Swiss Camera Museum / Wikipedia: the 1888 Kodak and the Brownie
+
+MUSIC (YouTube Audio Library): The Wind - Gregory Allison · Habanera - Golden Cut · Level - The Grey Room / Density & Time
+
+PHOTOS (Wikimedia Commons)
+- GeorgeEastman2.jpg by The original uploader was Megapixie at English Wikipedia., Public domain, via Wikimedia Commons
+- George Eastman at his desk.jpg by Dudley Hoyt, Public domain, via Wikimedia Commons
+- Kodak Handcamera Anzeige 1888.jpg by 
+Unknown authorUnknown author, Public domain, via Wikimedia Commons
+- Kodak Camera (1905) (ADVERT 340).jpeg by Kodak, Public domain, via Wikimedia Commons
+- The Kodak Girl advertisement, Saturday Evening Post 1914-07-04.jpg by Unknown photographer, Eastman Kodak Comany (publisher), Public domain, via Wikimedia Commons
+- 2014-365-233 The Basic Brownie Camera (14809795240).jpg by cogdogblog, CC0, via Wikimedia Commons
+- 20140902 Eastman Kodak Brownie Automatic 0007.jpg by Sebastian Rittau, CC BY 4.0, via Wikimedia Commons
+- Kodak Sasson BL.jpg by Bertrand Labévue, CC BY-SA 4.0, via Wikimedia Commons
+- Kodak Tower (Rochester NY) from Red Wings game May 2018.jpg by B137, CC BY-SA 4.0, via Wikimedia Commons
+- Kodak Tower Rochester NY.jpg by Luxhunter68, CC BY-SA 3.0, via Wikimedia Commons
+- Kodak Tower at Night.JPG by Larry, CC BY-SA 3.0, via Wikimedia Commons
+- Kodak-Max-400-35mm-Film.jpg by Evan-Amos, Public domain, via Wikimedia Commons
+- Kodak Verichrome Pan 120 box and roll.jpg by Kevinfarrugia, CC0, via Wikimedia Commons
+- Kodachrome II - Film for colour slides.jpg by Dnalor 01, CC BY-SA 3.0 at, via Wikimedia Commons
+- Kodachrome - Paul Simon; Vinyl record.jpg by Dnalor 01, CC BY-SA 3.0 at, via Wikimedia Commons
+- Kodak EasyShare C1013 (Photo).jpg by Vasile Andrei Denis, CC0, via Wikimedia Commons
+- Kodak EasyShare CX7430 Camera.jpg by Funginator, CC0, via Wikimedia Commons
+- 4× Kodak EasyShare Z700 digital cameras and 1× Kodak EasyShare C433.jpg by JJ Harrison, CC BY-SA 3.0, via Wikimedia Commons
+- Kodak DC40 National Science and Media Museum.JPG by Geni, CC BY-SA 4.0, via Wikimedia Commons
+- Headquarters of FUJIFILM Holdings Corporation & FUJI XEROX Co., Ltd..JPG by Tokumeigakarinoaoshima, CC0, via Wikimedia Commons
+- FUJIFILM Corporation Tokyo Midtown headquarter.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0, via Wikimedia Commons
+
+Paper Empire tells the stories of famous companies: how they were built, and how they broke.
+
+#Kodak #BusinessHistory #DigitalCamera
+======== END OF DESCRIPTION ========
+
+TAGS:
+kodak, kodak bankruptcy, digital camera, steve sasson, why kodak failed, kodak vs fujifilm, business documentary
+
+FILES:
+- Video:      ~/Videos/yt-atm/kodak/video/renders/kodak.mp4
+- Thumbnail:  ~/Videos/yt-atm/kodak/upload/thumbnail-A.jpg   (upload as the main thumbnail)
+- Test & Compare: ~/Videos/yt-atm/kodak/upload/thumbnail-B.jpg
+
+SETTINGS:
+- Made for kids: No, it's not made for kids
+- Age restriction: No
+- Altered or synthetic content: No
+- Category: Education · Language: English
+- Comments: On
+
+VISIBILITY: Schedule → Thu Nov 12, 9:00 PM (check it says PM and West Africa Time)

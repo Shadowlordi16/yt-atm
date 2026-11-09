@@ -1,0 +1,68 @@
+[
+  {
+    "id": "w0",
+    "text": "Six",
+    "start": 0,
+    "end": 0.32
+  },
+  {
+    "id": "w1",
+    "text": "years",
+    "start": 0.32,
+    "end": 0.56
+  },
+  {
+    "id": "w2",
+    "text": "later,",
+    "start": 0.56,
+    "end": 0.96
+  },
+  {
+    "id": "w3",
+    "text": "Nokia",
+    "start": 0.96,
+    "end": 1.6
+  },
+  {
+    "id": "w4",
+    "text": "sold",
+    "start": 1.76,
+    "end": 2
+  },
+  {
+    "id": "w5",
+    "text": "its",
+    "start": 2,
+    "end": 2.24
+  },
+  {
+    "id": "w6",
+    "text": "entire",
+    "start": 2.24,
+    "end": 2.64
+  },
+  {
+    "id": "w7",
+    "text": "phone",
+    "start": 2.64,
+    "end": 2.96
+  },
+  {
+    "id": "w8",
+    "text": "business",
+    "start": 2.96,
+    "end": 3.36
+  },
+  {
+    "id": "w9",
+    "text": "to",
+    "start": 3.36,
+    "end": 3.52
+  },
+  {
+    "id": "w10",
+    "text": "Microsoft.",
+    "start": 3.52,
+    "end": 4.32
+  }
+]

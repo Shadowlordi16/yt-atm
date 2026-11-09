@@ -1,0 +1,98 @@
+[
+ {
+  "id": "w0",
+  "text": "It",
+  "start": 0.0,
+  "end": 0.1
+ },
+ {
+  "id": "w1",
+  "text": "kept",
+  "start": 0.1,
+  "end": 0.28
+ },
+ {
+  "id": "w2",
+  "text": "the",
+  "start": 0.28,
+  "end": 0.48
+ },
+ {
+  "id": "w3",
+  "text": "business",
+  "start": 0.48,
+  "end": 0.8
+ },
+ {
+  "id": "w4",
+  "text": "it",
+  "start": 0.8,
+  "end": 1.08
+ },
+ {
+  "id": "w5",
+  "text": "had",
+  "start": 1.08,
+  "end": 1.14
+ },
+ {
+  "id": "w6",
+  "text": "built",
+  "start": 1.14,
+  "end": 1.36
+ },
+ {
+  "id": "w7",
+  "text": "alongside",
+  "start": 1.36,
+  "end": 1.76
+ },
+ {
+  "id": "w8",
+  "text": "the",
+  "start": 1.76,
+  "end": 2.16
+ },
+ {
+  "id": "w9",
+  "text": "phones,",
+  "start": 2.16,
+  "end": 2.48
+ },
+ {
+  "id": "w10",
+  "text": "the",
+  "start": 3.14,
+  "end": 3.24
+ },
+ {
+  "id": "w11",
+  "text": "networks",
+  "start": 3.24,
+  "end": 3.48
+ },
+ {
+  "id": "w12",
+  "text": "that",
+  "start": 3.48,
+  "end": 3.86
+ },
+ {
+  "id": "w13",
+  "text": "phones",
+  "start": 3.86,
+  "end": 4.22
+ },
+ {
+  "id": "w14",
+  "text": "run",
+  "start": 4.22,
+  "end": 4.54
+ },
+ {
+  "id": "w15",
+  "text": "on.",
+  "start": 4.54,
+  "end": 4.84
+ }
+]

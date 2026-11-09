@@ -1,0 +1,50 @@
+[
+  {
+    "id": "w0",
+    "text": "But",
+    "start": 0,
+    "end": 0.16
+  },
+  {
+    "id": "w1",
+    "text": "here's",
+    "start": 0.16,
+    "end": 0.48
+  },
+  {
+    "id": "w2",
+    "text": "the",
+    "start": 0.48,
+    "end": 0.56
+  },
+  {
+    "id": "w3",
+    "text": "trap,",
+    "start": 0.56,
+    "end": 1.12
+  },
+  {
+    "id": "w4",
+    "text": "a",
+    "start": 1.12,
+    "end": 1.28
+  },
+  {
+    "id": "w5",
+    "text": "camera",
+    "start": 1.28,
+    "end": 1.68
+  },
+  {
+    "id": "w6",
+    "text": "sells",
+    "start": 1.68,
+    "end": 2.08
+  },
+  {
+    "id": "w7",
+    "text": "once.",
+    "start": 2.08,
+    "end": 2.48
+  }
+]

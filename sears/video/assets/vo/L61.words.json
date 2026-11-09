@@ -1,0 +1,92 @@
+[
+ {
+  "id": "w0",
+  "text": "By",
+  "start": 0.0,
+  "end": 0.12
+ },
+ {
+  "id": "w1",
+  "text": "the",
+  "start": 0.12,
+  "end": 0.24
+ },
+ {
+  "id": "w2",
+  "text": "end",
+  "start": 0.24,
+  "end": 0.4
+ },
+ {
+  "id": "w3",
+  "text": "of",
+  "start": 0.4,
+  "end": 0.5
+ },
+ {
+  "id": "w4",
+  "text": "2025,",
+  "start": 0.5,
+  "end": 1.14
+ },
+ {
+  "id": "w5",
+  "text": "there",
+  "start": 1.78,
+  "end": 2.04
+ },
+ {
+  "id": "w6",
+  "text": "were",
+  "start": 2.04,
+  "end": 2.12
+ },
+ {
+  "id": "w7",
+  "text": "five",
+  "start": 2.12,
+  "end": 2.46
+ },
+ {
+  "id": "w8",
+  "text": "Sears",
+  "start": 2.46,
+  "end": 2.78
+ },
+ {
+  "id": "w9",
+  "text": "stores",
+  "start": 2.78,
+  "end": 3.18
+ },
+ {
+  "id": "w10",
+  "text": "left",
+  "start": 3.18,
+  "end": 3.6
+ },
+ {
+  "id": "w11",
+  "text": "in",
+  "start": 3.6,
+  "end": 3.84
+ },
+ {
+  "id": "w12",
+  "text": "the",
+  "start": 3.84,
+  "end": 3.92
+ },
+ {
+  "id": "w13",
+  "text": "United",
+  "start": 3.92,
+  "end": 4.16
+ },
+ {
+  "id": "w14",
+  "text": "States.",
+  "start": 4.16,
+  "end": 4.54
+ }
+]

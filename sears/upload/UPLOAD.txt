@@ -1,0 +1,68 @@
+======== TITLE (copy this) ========
+Sears Didn't Die Online. It Sold Its Own Stores.
+
+(alternatives to test later: The Company That Sold The Roof Over Its Head · Sears Was Forever. Then It Became Its Own Landlord)
+
+======== DESCRIPTION (copy everything between the lines) ========
+Everyone says Sears missed the internet. The truth is stranger, and worse for Sears.
+
+In 1984, Sears helped launch Prodigy with IBM and CBS. By 1990 it was the second-largest online service in America. It was in online shopping before the web existed.
+
+What actually ended Sears was the balance sheet. In 2015 it sold 234 of its own stores to Seritage, a company it created, for 2.7 billion dollars. Then it leased those stores back. Sears became a tenant in buildings it had built, paying rent every quarter to the company it had just made.
+
+This is the story of a company that sold its way out of retail, one building at a time.
+
+CHAPTERS
+0:00 You wrote to Sears
+0:48 A catalogue with a front door
+2:33 A hedge fund with a store attached
+4:21 Selling the building to pay the rent
+5:54 The slow closing
+
+SOURCES
+- Seritage Growth Properties, SEC EX-99.2 (Form 8-K): the $2.7 billion purchase of 234 Sears-owned properties, the rights offering, the master lease and recapture rights
+- NYT DealBook, "REIT Gambit Sears Time but Little Else" (12 Jun 2015)
+- Reuters via RTE (15 Oct 2018): the Chapter 11 filing, 142 of about 700 stores closing
+- ESL Investments (11 Feb 2019): acquisition of Sears Holdings' assets into Transformco
+- AP via NBC News (17 Nov 2004): Kmart agrees to buy Sears for $11 billion
+- Washington Post (11 Mar 2007): Sears described as a hedge fund with a store attached
+- AP (27 Dec 2011): 100 to 120 Sears and Kmart stores to close
+- Wikipedia, "Sears" and "Sears Holdings" (company histories): founding in 1892, the 532-page 1895 catalogue, the 1925 stores, Allstate 1931, Dean Witter and Coldwell Banker 1981, Discover 1985, the 1974 Sears Tower, Walmart passing Sears
+- Wikipedia, "Prodigy (online service)" citing NYT (6 Sep 1990): the 1984 Sears/IBM/CBS venture and its 465,000 subscribers
+- CNN Money (14 May 2018): Sears moves to sell Kenmore; the end of Whirlpool after 101 years
+- SlashGear (31 Aug 2025) and CoStar via Wikipedia, "Sears": five Sears stores left, one open since 1954
+
+MUSIC (YouTube Audio Library): The Wind - Gregory Allison · Habanera - Golden Cut · Level - The Grey Room / Density & Time
+
+PHOTOS (Wikimedia Commons)
+- Sears, Roebuck and Company Department Store 1920's.jpg by Unknown photographer, Public domain, via Wikimedia Commons
+- Sears, Roebuck and Company Department Store.jpg by Unknown authorUnknown author, Public domain, via Wikimedia Commons
+- Sears Roebuck and Co Farm Store (25859867668).jpg by Phillip Pessar from Miami, USA, CC BY 2.0, via Wikimedia Commons
+- Sears store on Broadway in Louisville.jpg by Nyttend, Public domain, via Wikimedia Commons
+- Former Sears Store at Northwest Plaza (2002).jpg by Dwaynep2020, CC BY-SA 4.0, via Wikimedia Commons
+- Sears store closing.JPG by Jonrev at English Wikipedia, Public domain, via Wikimedia Commons
+- Sears Store Closing Sale Westland Mall Hialeah (49525992311).jpg by Phillip Pessar from Miami, USA, CC BY 2.0, via Wikimedia Commons
+- Closed Sears store in a mall.jpg by Breawycker, CC BY-SA 4.0, via Wikimedia Commons
+- Parking lot and sears store.jpg by FuriousYogi, CC BY-SA 4.0, via Wikimedia Commons
+- Sears Store Closing Westland Mall Hialeah - Lonely Mannequin.jpg by Phillip Pessar, CC BY 2.0, via Wikimedia Commons
+- Sears Roebuck and Company Catalog.jpg by TennesseeNR, CC BY-SA 3.0, via Wikimedia Commons
+- Sears, Roebuck & Company - NARA - 279897.jpg by
+- Willis Tower Sears Tower, Chicago 1978.jpg by Acabashi, CC BY-SA 4.0, via Wikimedia Commons
+- Chicago Sears Tower.jpg by Daniel Schwen, CC BY-SA 4.0, via Wikimedia Commons
+- Acme Queen Parlor Organ, $27.45 at c.1902 Sears Roebuck Catalog, in the collection of the Children's Museum of Indianapolis.jpg by , , via Wikimedia Commons
+- Vertical toy steam engine, Sears, Roebuck and Co. 1912.jpg by Morn, Public domain, via Wikimedia Commons
+- Walmart store exterior 5266815680.jpg by Walmart Corporate from Bentonville, USA, CC BY 2.0, via Wikimedia Commons
+FILES
+- video/renders/final.mp4 (long video, 8:13, 1920x1080, 24 fps, -14 LUFS)
+- video/renders/short.mp4 and the other Shorts - titles in upload/SHORTS.txt
+- upload/thumbnail-A.jpg (1280x720)
+
+SETTINGS
+- Category: Education. Language: English (video and title/description).
+- Made for kids: No. AI-altered content: No.
+- Thumbnail: upload/thumbnail-A.jpg
+- Schedule: TBD by the owner
+======== END OF DESCRIPTION ========
+
+======== TAGS ========
+sears, sears roebuck, sears bankruptcy, seritage, eddie lampert, kmart, sears tower, sears catalogue, retail history, business documentary, company history, business case study, what happened to sears, paper empire

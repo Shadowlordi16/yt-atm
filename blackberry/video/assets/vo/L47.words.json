@@ -1,0 +1,140 @@
+[
+ {
+  "id": "w0",
+  "text": "and",
+  "start": 0.0,
+  "end": 0.1
+ },
+ {
+  "id": "w1",
+  "text": "the",
+  "start": 0.1,
+  "end": 0.16
+ },
+ {
+  "id": "w2",
+  "text": "man",
+  "start": 0.16,
+  "end": 0.4
+ },
+ {
+  "id": "w3",
+  "text": "behind",
+  "start": 0.4,
+  "end": 0.8
+ },
+ {
+  "id": "w4",
+  "text": "Fairfax",
+  "start": 0.8,
+  "end": 1.02
+ },
+ {
+  "id": "w5",
+  "text": "had",
+  "start": 1.02,
+  "end": 1.6
+ },
+ {
+  "id": "w6",
+  "text": "quit",
+  "start": 1.6,
+  "end": 1.76
+ },
+ {
+  "id": "w7",
+  "text": "the",
+  "start": 1.76,
+  "end": 1.98
+ },
+ {
+  "id": "w8",
+  "text": "board",
+  "start": 1.98,
+  "end": 2.26
+ },
+ {
+  "id": "w9",
+  "text": "that",
+  "start": 2.26,
+  "end": 2.56
+ },
+ {
+  "id": "w10",
+  "text": "August.",
+  "start": 2.56,
+  "end": 2.92
+ },
+ {
+  "id": "w11",
+  "text": "The",
+  "start": 3.78,
+  "end": 3.84
+ },
+ {
+  "id": "w12",
+  "text": "buyer",
+  "start": 3.84,
+  "end": 4.06
+ },
+ {
+  "id": "w13",
+  "text": "walked",
+  "start": 4.06,
+  "end": 4.42
+ },
+ {
+  "id": "w14",
+  "text": "out",
+  "start": 4.42,
+  "end": 4.7
+ },
+ {
+  "id": "w15",
+  "text": "of",
+  "start": 4.7,
+  "end": 4.78
+ },
+ {
+  "id": "w16",
+  "text": "the",
+  "start": 4.78,
+  "end": 4.86
+ },
+ {
+  "id": "w17",
+  "text": "room",
+  "start": 4.86,
+  "end": 5.08
+ },
+ {
+  "id": "w18",
+  "text": "before",
+  "start": 5.08,
+  "end": 5.44
+ },
+ {
+  "id": "w19",
+  "text": "he",
+  "start": 5.44,
+  "end": 5.6
+ },
+ {
+  "id": "w20",
+  "text": "made",
+  "start": 5.6,
+  "end": 5.78
+ },
+ {
+  "id": "w21",
+  "text": "his",
+  "start": 5.78,
+  "end": 5.96
+ },
+ {
+  "id": "w22",
+  "text": "offer.",
+  "start": 5.96,
+  "end": 6.3
+ }
+]

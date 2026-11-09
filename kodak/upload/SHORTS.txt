@@ -1,0 +1,37 @@
+KODAK SHORTS: upload, then in YouTube Studio set 'Related video' to the full Kodak video.
+
+======== short.mp4 ========
+FILE: ~/Videos/yt-atm/kodak/video/renders/short.mp4
+TITLE: Kodak Invented the Digital Camera. Then It Went Bankrupt. #shorts
+DESCRIPTION:
+In 2012, Facebook paid $1 billion for a 13-person photo app. Three months earlier, the company that invented the digital camera filed for bankruptcy. Full video on the channel: Paper Empire.
+
+#shorts #kodak #businesshistory
+SCHEDULE: Fri Nov 13, 6:00 PM
+
+======== short-1-digital.mp4 (49 s) ========
+FILE: ~/Videos/yt-atm/kodak/video/renders/short-1-digital.mp4
+TITLE: Kodak Built the First Digital Camera in 1975 #shorts
+DESCRIPTION:
+In 1975, Kodak engineer Steve Sasson built the first digital camera. Its images were 100 by 100 pixels, and saving one to cassette took 23 seconds. Full video on the channel: Paper Empire.
+
+#shorts #kodak #digitalcamera #businesshistory
+SCHEDULE: Mon Nov 16, 6:00 PM
+
+======== short-2-warning.mp4 (46 s) ========
+FILE: ~/Videos/yt-atm/kodak/video/renders/short-2-warning.mp4
+TITLE: Kodak's Own Study Warned Digital Could Replace Film #shorts
+DESCRIPTION:
+In 1981, Kodak studied film versus digital and found digital photography could replace its film business. Kodak knew the threat before it became the crisis. Full video on the channel: Paper Empire.
+
+#shorts #kodak #photography #businesshistory
+SCHEDULE: Fri Nov 20, 6:00 PM
+
+======== short-3-fujifilm.mp4 (43 s) ========
+FILE: ~/Videos/yt-atm/kodak/video/renders/short-3-fujifilm.mp4
+TITLE: Fujifilm Adapted While Kodak Fell Behind #shorts
+DESCRIPTION:
+Fujifilm squeezed value from film, prepared for digital and built new businesses. In 2007, it even launched a skincare line using photographic-film chemistry. Full video on the channel: Paper Empire.
+
+#shorts #kodak #fujifilm #businesshistory
+SCHEDULE: Sat Nov 21, 6:00 PM

@@ -1,0 +1,51 @@
+<template>
+  <style>
+    #root{position:absolute;inset:0;overflow:hidden;background:#E9E6DF;font-family:Inter,sans-serif;color:#141414}
+    #root .paper{position:absolute;left:0;top:0;width:1920px;height:1080px;object-fit:cover}
+    #root .photo{position:absolute;left:0;top:0;width:2112px;height:1188px;object-fit:cover}
+    #root .lg{font-family:'League Gothic',sans-serif;text-transform:uppercase;line-height:.88;font-weight:400;font-variant-numeric:tabular-nums;white-space:nowrap}
+    #root .kick{font-family:Inter,sans-serif;font-weight:900;font-size:48px;letter-spacing:.02em;text-transform:uppercase;white-space:nowrap}
+    #root .body{font-family:Inter,sans-serif;font-weight:700;font-size:48px;white-space:nowrap}
+    #root .src{position:absolute;left:192px;bottom:84px;font:400 28px Inter,sans-serif;color:#6B6963;white-space:nowrap}
+    #root .red{color:#D7261E}
+    #root .grey{color:#6B6963}
+    #root .np{color:#E9E6DF}
+    #root .src.np{text-shadow:0 2px 6px rgba(0,0,0,.85),0 0 18px rgba(0,0,0,.7)}
+    #root .rule{position:absolute;height:8px;background:#141414;transform-origin:left center}
+    #root .sheet{position:absolute;overflow:hidden;background:#E9E6DF;box-shadow:0 18px 40px rgba(0,0,0,.35)}
+    
+    #s12-w{position:absolute;left:0;top:230px;width:1920px;text-align:center;font-size:420px}
+    #s12-w span{opacity:0}
+    #s12-r{left:560px;top:640px;width:800px}
+    #s12-t{position:absolute;left:0;top:690px;width:1920px;text-align:center;opacity:0}
+
+  </style>
+  <div id="root" data-composition-id="s12" data-width="1920" data-height="1080">
+<img class="paper" src="assets/paper.jpg" alt="">
+    <div id="s12-w" class="lg"><span id="s12-red" class="red">Red</span> <span id="s12-ink">Ink</span></div>
+    <div id="s12-r" class="rule"></div>
+    <div id="s12-t" class="kick">How big companies fall</div>
+
+  </div>
+  <script>
+    (function () {
+    const tl = gsap.timeline({ paused: true });
+    const W = (t) => 0.25 + t;
+    const show = (sel, t) => tl.fromTo(sel, { opacity: 0 }, { opacity: 1, duration: 0.01 }, t);
+    const wipe = (sel, t, d = 0.28) => tl.fromTo(sel, { clipPath: 'inset(-10% 100% -10% 0)', opacity: 1 }, { clipPath: 'inset(-10% 0% -10% 0)', duration: d, ease: 'power3.out' }, t);
+    const rule = (sel, t, d = 0.45) => tl.fromTo(sel, { scaleX: 0 }, { scaleX: 1, duration: d, ease: 'power2.inOut' }, t);
+    const shake = (sel, t) => tl.fromTo(sel, { x: 0 }, { keyframes: [{ x: 6, duration: .033 }, { x: -5, duration: .033 }, { x: 3, duration: .033 }, { x: 0, duration: .033 }] }, t);
+    const count = (sel, t, to, fmt, d = 1.4) => { const el = document.querySelector(sel); const o = { v: 0 };
+      tl.fromTo(sel, { opacity: 0 }, { opacity: 1, duration: 0.01 }, t);
+      tl.fromTo(o, { v: 0 }, { v: to, duration: d, ease: 'power2.out', onUpdate: () => { el.textContent = fmt(o.v); } }, t); };
+
+    show('#s12-red', 0.25);
+    show('#s12-ink', 0.55);
+    rule('#s12-r', 0.85, 0.5);
+    show('#s12-t', 1.3);
+
+    tl.to({}, { duration: 4.2 }, 0);
+    window.__timelines["s12"] = tl;
+    })();
+  </script>
+</template>

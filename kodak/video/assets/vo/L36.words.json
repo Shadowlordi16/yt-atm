@@ -1,0 +1,44 @@
+[
+  {
+    "id": "w0",
+    "text": "Then",
+    "start": 0,
+    "end": 0.24
+  },
+  {
+    "id": "w1",
+    "text": "the",
+    "start": 0.24,
+    "end": 0.32
+  },
+  {
+    "id": "w2",
+    "text": "camera",
+    "start": 0.32,
+    "end": 0.72
+  },
+  {
+    "id": "w3",
+    "text": "itself",
+    "start": 0.72,
+    "end": 1.12
+  },
+  {
+    "id": "w4",
+    "text": "started",
+    "start": 1.12,
+    "end": 1.52
+  },
+  {
+    "id": "w5",
+    "text": "to",
+    "start": 1.52,
+    "end": 1.6
+  },
+  {
+    "id": "w6",
+    "text": "disappear.",
+    "start": 1.6,
+    "end": 2.32
+  }
+]

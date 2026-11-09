@@ -1,0 +1,74 @@
+[
+  {
+    "id": "w0",
+    "text": "In",
+    "start": 0,
+    "end": 0.24
+  },
+  {
+    "id": "w1",
+    "text": "nineteen",
+    "start": 0.24,
+    "end": 0.64
+  },
+  {
+    "id": "w2",
+    "text": "seventy",
+    "start": 0.72,
+    "end": 1.12
+  },
+  {
+    "id": "w3",
+    "text": "five,",
+    "start": 1.12,
+    "end": 1.68
+  },
+  {
+    "id": "w4",
+    "text": "a",
+    "start": 1.68,
+    "end": 1.84
+  },
+  {
+    "id": "w5",
+    "text": "Kodak",
+    "start": 1.84,
+    "end": 2.48
+  },
+  {
+    "id": "w6",
+    "text": "engineer",
+    "start": 2.64,
+    "end": 3.2
+  },
+  {
+    "id": "w7",
+    "text": "built",
+    "start": 3.2,
+    "end": 3.44
+  },
+  {
+    "id": "w8",
+    "text": "the",
+    "start": 3.44,
+    "end": 3.6
+  },
+  {
+    "id": "w9",
+    "text": "first",
+    "start": 3.6,
+    "end": 3.84
+  },
+  {
+    "id": "w10",
+    "text": "digital",
+    "start": 3.84,
+    "end": 4.32
+  },
+  {
+    "id": "w11",
+    "text": "camera.",
+    "start": 4.32,
+    "end": 4.8
+  }
+]

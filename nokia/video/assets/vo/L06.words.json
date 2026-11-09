@@ -1,0 +1,116 @@
+[
+  {
+    "id": "w0",
+    "text": "This",
+    "start": 0,
+    "end": 0.24
+  },
+  {
+    "id": "w1",
+    "text": "is",
+    "start": 0.24,
+    "end": 0.4
+  },
+  {
+    "id": "w2",
+    "text": "how",
+    "start": 0.4,
+    "end": 0.56
+  },
+  {
+    "id": "w3",
+    "text": "the",
+    "start": 0.56,
+    "end": 0.72
+  },
+  {
+    "id": "w4",
+    "text": "world's",
+    "start": 0.72,
+    "end": 1.12
+  },
+  {
+    "id": "w5",
+    "text": "biggest",
+    "start": 1.12,
+    "end": 1.6
+  },
+  {
+    "id": "w6",
+    "text": "phone",
+    "start": 1.6,
+    "end": 2
+  },
+  {
+    "id": "w7",
+    "text": "company",
+    "start": 2,
+    "end": 2.4
+  },
+  {
+    "id": "w8",
+    "text": "burned",
+    "start": 2.4,
+    "end": 2.88
+  },
+  {
+    "id": "w9",
+    "text": "its",
+    "start": 2.88,
+    "end": 3.04
+  },
+  {
+    "id": "w10",
+    "text": "own",
+    "start": 3.04,
+    "end": 3.28
+  },
+  {
+    "id": "w11",
+    "text": "platform,",
+    "start": 3.28,
+    "end": 4.08
+  },
+  {
+    "id": "w12",
+    "text": "and",
+    "start": 4.08,
+    "end": 4.32
+  },
+  {
+    "id": "w13",
+    "text": "how",
+    "start": 4.32,
+    "end": 4.48
+  },
+  {
+    "id": "w14",
+    "text": "a",
+    "start": 4.48,
+    "end": 4.64
+  },
+  {
+    "id": "w15",
+    "text": "paper",
+    "start": 4.64,
+    "end": 5.04
+  },
+  {
+    "id": "w16",
+    "text": "mill",
+    "start": 5.04,
+    "end": 5.2
+  },
+  {
+    "id": "w17",
+    "text": "survived",
+    "start": 5.36,
+    "end": 5.84
+  },
+  {
+    "id": "w18",
+    "text": "it.",
+    "start": 5.84,
+    "end": 6.08
+  }
+]

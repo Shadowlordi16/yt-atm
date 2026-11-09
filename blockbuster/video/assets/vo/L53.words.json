@@ -1,0 +1,62 @@
+[
+  {
+    "id": "w0",
+    "text": "Dish",
+    "start": 0,
+    "end": 0.32
+  },
+  {
+    "id": "w1",
+    "text": "said",
+    "start": 0.48,
+    "end": 0.64
+  },
+  {
+    "id": "w2",
+    "text": "it",
+    "start": 0.64,
+    "end": 0.8
+  },
+  {
+    "id": "w3",
+    "text": "would",
+    "start": 0.8,
+    "end": 0.96
+  },
+  {
+    "id": "w4",
+    "text": "keep",
+    "start": 0.96,
+    "end": 1.2
+  },
+  {
+    "id": "w5",
+    "text": "about",
+    "start": 1.2,
+    "end": 1.44
+  },
+  {
+    "id": "w6",
+    "text": "five",
+    "start": 1.44,
+    "end": 1.76
+  },
+  {
+    "id": "w7",
+    "text": "hundred",
+    "start": 1.76,
+    "end": 2.08
+  },
+  {
+    "id": "w8",
+    "text": "stores",
+    "start": 2.08,
+    "end": 2.48
+  },
+  {
+    "id": "w9",
+    "text": "open.",
+    "start": 2.48,
+    "end": 2.96
+  }
+]
