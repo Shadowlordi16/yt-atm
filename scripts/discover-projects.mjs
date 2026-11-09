@@ -19,7 +19,7 @@ async function walk(dir, rel = '') {
       // Vercel is a preview host; the music bed is regenerated only in GitHub Actions.
       // Remove the missing bed track from the deployed preview so the player can boot silently.
       const html = await (await import('node:fs/promises')).readFile(videoIndex, 'utf8');
-      const previewHtml = html.replace(/\s*<audio id=\"mix-fx\"[^>]*><\/audio>/g, '');
+      const previewHtml = html.replace(/<head>/i, '<head><script src=\"/runtime.js\"></script>').replace(/\s*<audio id=\"mix-fx\"[^>]*><\/audio>/g, '');
       if (previewHtml !== html) await (await import('node:fs/promises')).writeFile(videoIndex, previewHtml);
       projects.push({ id: nextRel.replaceAll(path.sep, '/'), label: nextRel.replaceAll(path.sep, ' / '), preview: `${nextRel.replaceAll(path.sep, '/')}/video/` });
       continue;
