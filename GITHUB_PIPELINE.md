@@ -9,3 +9,7 @@ The workflow builds, lints, renders at 24 fps, regenerates the audio bed, normal
 Vercel deployments only rebuild the hosted preview when you push source changes. They do not run the MP4 render and do not consume GitHub Actions minutes. GitHub standard runners are free for this public repository.
 
 Do not commit private credentials or unrelated personal files. Finished MP4s and generated audio beds are ignored by Git because they are regenerated or stored as temporary artifacts.
+
+## Vercel Render Desk
+
+Set the Vercel project Root Directory to `./`, Framework Preset to **Other**, Build Command to `node scripts/discover-projects.mjs`, and Output Directory to `.`. Add a Vercel environment variable named `GITHUB_TOKEN` containing a GitHub fine-grained token for `Shadowlordi16/yt-atm` with Actions write access. The dashboard auto-discovers projects containing `video/index.html` and dispatches the selected workflow.
