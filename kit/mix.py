@@ -98,6 +98,7 @@ for kind, at, vol in tlj["cues"]:
     if n > 0: bed[i:i + n] += x[:n] * vol * (0.6 if kind == "impact" else 1.0)
 pk = np.max(np.abs(bed))
 if pk > 0.95: bed *= 0.95 / pk
+os.makedirs("assets/audio", exist_ok=True)
 w = wave.open("assets/audio/bed_fx.wav", "wb"); w.setnchannels(2); w.setsampwidth(2); w.setframerate(SR)
 w.writeframes((bed[:end] * 32767).astype("<i2").tobytes()); w.close()
 print(f"mix ok {TOTAL:.1f}s · {len(tlj['cues'])} sound cues · music: {sum(len(v) for v in tracks.values())} tracks")
