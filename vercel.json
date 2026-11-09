@@ -1,1 +1,8 @@
-{"functions":{"api/*.js":{"maxDuration":60}}}
+{
+  "outputDirectory": ".",
+  "functions": {
+    "api/*.js": {
+      "maxDuration": 60
+    }
+  }
+}
