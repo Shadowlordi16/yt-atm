@@ -1,0 +1,74 @@
+[
+ {
+  "id": "w0",
+  "text": "Here",
+  "start": 0.0,
+  "end": 0.22
+ },
+ {
+  "id": "w1",
+  "text": "is",
+  "start": 0.22,
+  "end": 0.4
+ },
+ {
+  "id": "w2",
+  "text": "where",
+  "start": 0.4,
+  "end": 0.58
+ },
+ {
+  "id": "w3",
+  "text": "the",
+  "start": 0.58,
+  "end": 0.72
+ },
+ {
+  "id": "w4",
+  "text": "story",
+  "start": 0.72,
+  "end": 0.94
+ },
+ {
+  "id": "w5",
+  "text": "usually",
+  "start": 0.94,
+  "end": 1.5
+ },
+ {
+  "id": "w6",
+  "text": "jumps",
+  "start": 1.5,
+  "end": 1.86
+ },
+ {
+  "id": "w7",
+  "text": "to",
+  "start": 1.86,
+  "end": 2.14
+ },
+ {
+  "id": "w8",
+  "text": "the",
+  "start": 2.14,
+  "end": 2.24
+ },
+ {
+  "id": "w9",
+  "text": "internet,",
+  "start": 2.24,
+  "end": 2.56
+ },
+ {
+  "id": "w10",
+  "text": "it",
+  "start": 3.12,
+  "end": 3.26
+ },
+ {
+  "id": "w11",
+  "text": "shouldn't.",
+  "start": 3.26,
+  "end": 3.72
+ }
+]

@@ -1,0 +1,104 @@
+[
+ {
+  "id": "w0",
+  "text": "They",
+  "start": 0.0,
+  "end": 0.12
+ },
+ {
+  "id": "w1",
+  "text": "called",
+  "start": 0.12,
+  "end": 0.38
+ },
+ {
+  "id": "w2",
+  "text": "it",
+  "start": 0.38,
+  "end": 0.54
+ },
+ {
+  "id": "w3",
+  "text": "push",
+  "start": 0.54,
+  "end": 0.8
+ },
+ {
+  "id": "w4",
+  "text": "email,",
+  "start": 0.8,
+  "end": 1.18
+ },
+ {
+  "id": "w5",
+  "text": "and",
+  "start": 1.9,
+  "end": 1.98
+ },
+ {
+  "id": "w6",
+  "text": "it",
+  "start": 1.98,
+  "end": 2.06
+ },
+ {
+  "id": "w7",
+  "text": "was",
+  "start": 2.06,
+  "end": 2.16
+ },
+ {
+  "id": "w8",
+  "text": "the",
+  "start": 2.16,
+  "end": 2.3
+ },
+ {
+  "id": "w9",
+  "text": "first",
+  "start": 2.3,
+  "end": 2.56
+ },
+ {
+  "id": "w10",
+  "text": "version",
+  "start": 2.56,
+  "end": 2.9
+ },
+ {
+  "id": "w11",
+  "text": "of",
+  "start": 2.9,
+  "end": 3.22
+ },
+ {
+  "id": "w12",
+  "text": "a",
+  "start": 3.22,
+  "end": 3.28
+ },
+ {
+  "id": "w13",
+  "text": "notification",
+  "start": 3.28,
+  "end": 3.66
+ },
+ {
+  "id": "w14",
+  "text": "on",
+  "start": 3.66,
+  "end": 4.28
+ },
+ {
+  "id": "w15",
+  "text": "a",
+  "start": 4.28,
+  "end": 4.38
+ },
+ {
+  "id": "w16",
+  "text": "phone.",
+  "start": 4.38,
+  "end": 4.6
+ }
+]

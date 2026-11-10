@@ -1,0 +1,80 @@
+[
+ {
+  "id": "w0",
+  "text": "It",
+  "start": 0.0,
+  "end": 0.1
+ },
+ {
+  "id": "w1",
+  "text": "is",
+  "start": 0.1,
+  "end": 0.2
+ },
+ {
+  "id": "w2",
+  "text": "the",
+  "start": 0.2,
+  "end": 0.34
+ },
+ {
+  "id": "w3",
+  "text": "second",
+  "start": 0.34,
+  "end": 0.7
+ },
+ {
+  "id": "w4",
+  "text": "most",
+  "start": 0.7,
+  "end": 0.92
+ },
+ {
+  "id": "w5",
+  "text": "expensive",
+  "start": 0.92,
+  "end": 1.4
+ },
+ {
+  "id": "w6",
+  "text": "transfer",
+  "start": 1.4,
+  "end": 1.86
+ },
+ {
+  "id": "w7",
+  "text": "in",
+  "start": 1.86,
+  "end": 2.44
+ },
+ {
+  "id": "w8",
+  "text": "football",
+  "start": 2.44,
+  "end": 2.68
+ },
+ {
+  "id": "w9",
+  "text": "history",
+  "start": 2.68,
+  "end": 3.2
+ },
+ {
+  "id": "w10",
+  "text": "at",
+  "start": 3.2,
+  "end": 3.58
+ },
+ {
+  "id": "w11",
+  "text": "that",
+  "start": 3.58,
+  "end": 3.72
+ },
+ {
+  "id": "w12",
+  "text": "moment.",
+  "start": 3.72,
+  "end": 4.1
+ }
+]

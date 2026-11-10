@@ -1,0 +1,13 @@
+L00|On January fifteenth, nineteen nineteen, a wall of molasses rushed through Boston’s North End.
+L01|It was about twenty-five feet high, moved at roughly thirty-five miles per hour, and carried more than two million gallons.
+L02|Molasses sounds slow. This wave killed twenty-one people and injured one hundred fifty.
+L03|This is the story of the strangest industrial disaster in American history—and why it was not really an accident.
+L04|The tank stood fifty feet high and about ninety feet wide beside Boston Harbor.
+L05|It belonged to the Purity Distilling Company, which used molasses to make industrial alcohol.
+L06|Neighbors heard the tank groan and watched it leak. The company painted it brown to hide the leaks.
+L07|Then the temperature climbed from near zero to about forty degrees, and a fresh delivery mixed with colder molasses already inside.
+L08|At about twelve forty-five, the steel gave way. The tank burst, and the harbor neighborhood disappeared under syrup.
+L09|The rescue took four days because people, horses, buildings, and vehicles were trapped in the thick brown wreckage.
+L10|The company blamed sabotage. After a five-year court case, the judge found the tank’s design and construction responsible.
+L11|The flood helped make signed calculations and licensed engineers part of American building practice.
+L12|A disaster that looked ridiculous became a warning: if the structure is wrong, the material inside does not matter.

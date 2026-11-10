@@ -1,0 +1,26 @@
+[
+  {
+    "id": "w0",
+    "text": "It",
+    "start": 0,
+    "end": 0.16
+  },
+  {
+    "id": "w1",
+    "text": "weighed",
+    "start": 0.16,
+    "end": 0.56
+  },
+  {
+    "id": "w2",
+    "text": "eight",
+    "start": 0.56,
+    "end": 0.8
+  },
+  {
+    "id": "w3",
+    "text": "pounds.",
+    "start": 0.8,
+    "end": 1.12
+  }
+]

@@ -1,0 +1,110 @@
+[
+ {
+  "id": "w0",
+  "text": "That",
+  "start": 0.0,
+  "end": 0.16
+ },
+ {
+  "id": "w1",
+  "text": "is",
+  "start": 0.16,
+  "end": 0.26
+ },
+ {
+  "id": "w2",
+  "text": "the",
+  "start": 0.26,
+  "end": 0.42
+ },
+ {
+  "id": "w3",
+  "text": "quiet",
+  "start": 0.42,
+  "end": 0.66
+ },
+ {
+  "id": "w4",
+  "text": "way",
+  "start": 0.66,
+  "end": 1.04
+ },
+ {
+  "id": "w5",
+  "text": "to",
+  "start": 1.04,
+  "end": 1.24
+ },
+ {
+  "id": "w6",
+  "text": "die.",
+  "start": 1.24,
+  "end": 1.56
+ },
+ {
+  "id": "w7",
+  "text": "Not",
+  "start": 2.24,
+  "end": 2.34
+ },
+ {
+  "id": "w8",
+  "text": "one",
+  "start": 2.34,
+  "end": 2.54
+ },
+ {
+  "id": "w9",
+  "text": "dramatic",
+  "start": 2.54,
+  "end": 2.8
+ },
+ {
+  "id": "w10",
+  "text": "failure",
+  "start": 2.8,
+  "end": 3.38
+ },
+ {
+  "id": "w11",
+  "text": "but",
+  "start": 3.38,
+  "end": 3.84
+ },
+ {
+  "id": "w12",
+  "text": "a",
+  "start": 3.84,
+  "end": 3.9
+ },
+ {
+  "id": "w13",
+  "text": "long",
+  "start": 3.9,
+  "end": 4.18
+ },
+ {
+  "id": "w14",
+  "text": "series",
+  "start": 4.18,
+  "end": 4.64
+ },
+ {
+  "id": "w15",
+  "text": "of",
+  "start": 4.64,
+  "end": 4.96
+ },
+ {
+  "id": "w16",
+  "text": "sensible",
+  "start": 4.96,
+  "end": 5.36
+ },
+ {
+  "id": "w17",
+  "text": "decisions.",
+  "start": 5.36,
+  "end": 5.8
+ }
+]

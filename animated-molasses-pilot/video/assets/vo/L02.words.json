@@ -1,0 +1,68 @@
+[
+ {
+  "id": "w0",
+  "text": "Molasses",
+  "start": 0.0,
+  "end": 0.44
+ },
+ {
+  "id": "w1",
+  "text": "sound",
+  "start": 0.44,
+  "end": 0.76
+ },
+ {
+  "id": "w2",
+  "text": "slow.",
+  "start": 0.76,
+  "end": 1.16
+ },
+ {
+  "id": "w3",
+  "text": "This",
+  "start": 1.94,
+  "end": 2.04
+ },
+ {
+  "id": "w4",
+  "text": "wave",
+  "start": 2.04,
+  "end": 2.26
+ },
+ {
+  "id": "w5",
+  "text": "killed",
+  "start": 2.26,
+  "end": 2.62
+ },
+ {
+  "id": "w6",
+  "text": "21",
+  "start": 2.62,
+  "end": 3.1
+ },
+ {
+  "id": "w7",
+  "text": "people",
+  "start": 3.1,
+  "end": 3.68
+ },
+ {
+  "id": "w8",
+  "text": "and",
+  "start": 3.68,
+  "end": 3.94
+ },
+ {
+  "id": "w9",
+  "text": "injured",
+  "start": 3.94,
+  "end": 4.18
+ },
+ {
+  "id": "w10",
+  "text": "150.",
+  "start": 4.18,
+  "end": 4.76
+ }
+]

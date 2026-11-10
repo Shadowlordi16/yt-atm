@@ -1,0 +1,128 @@
+[
+ {
+  "id": "w0",
+  "text": "but",
+  "start": 0.0,
+  "end": 0.08
+ },
+ {
+  "id": "w1",
+  "text": "look",
+  "start": 0.08,
+  "end": 0.24
+ },
+ {
+  "id": "w2",
+  "text": "at",
+  "start": 0.24,
+  "end": 0.4
+ },
+ {
+  "id": "w3",
+  "text": "what",
+  "start": 0.4,
+  "end": 0.56
+ },
+ {
+  "id": "w4",
+  "text": "Sears",
+  "start": 0.56,
+  "end": 0.8
+ },
+ {
+  "id": "w5",
+  "text": "was",
+  "start": 0.8,
+  "end": 1.22
+ },
+ {
+  "id": "w6",
+  "text": "actually",
+  "start": 1.22,
+  "end": 1.54
+ },
+ {
+  "id": "w7",
+  "text": "selling",
+  "start": 1.54,
+  "end": 2.0
+ },
+ {
+  "id": "w8",
+  "text": "at",
+  "start": 2.0,
+  "end": 2.26
+ },
+ {
+  "id": "w9",
+  "text": "the",
+  "start": 2.26,
+  "end": 2.36
+ },
+ {
+  "id": "w10",
+  "text": "end.",
+  "start": 2.36,
+  "end": 2.58
+ },
+ {
+  "id": "w11",
+  "text": "It",
+  "start": 3.26,
+  "end": 3.3
+ },
+ {
+  "id": "w12",
+  "text": "was",
+  "start": 3.3,
+  "end": 3.4
+ },
+ {
+  "id": "w13",
+  "text": "selling",
+  "start": 3.4,
+  "end": 3.66
+ },
+ {
+  "id": "w14",
+  "text": "the",
+  "start": 3.66,
+  "end": 3.9
+ },
+ {
+  "id": "w15",
+  "text": "buildings,",
+  "start": 3.9,
+  "end": 4.24
+ },
+ {
+  "id": "w16",
+  "text": "and",
+  "start": 4.76,
+  "end": 4.94
+ },
+ {
+  "id": "w17",
+  "text": "then",
+  "start": 4.94,
+  "end": 5.06
+ },
+ {
+  "id": "w18",
+  "text": "renting",
+  "start": 5.06,
+  "end": 5.32
+ },
+ {
+  "id": "w19",
+  "text": "them",
+  "start": 5.32,
+  "end": 5.62
+ },
+ {
+  "id": "w20",
+  "text": "back.",
+  "start": 5.62,
+  "end": 5.92
+ }
+]

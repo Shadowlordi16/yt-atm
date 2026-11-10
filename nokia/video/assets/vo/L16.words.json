@@ -1,0 +1,50 @@
+[
+ {
+  "id": "w0",
+  "text": "Nokia",
+  "start": 0.0,
+  "end": 0.38
+ },
+ {
+  "id": "w1",
+  "text": "would",
+  "start": 0.38,
+  "end": 0.6
+ },
+ {
+  "id": "w2",
+  "text": "be",
+  "start": 0.6,
+  "end": 0.7
+ },
+ {
+  "id": "w3",
+  "text": "a",
+  "start": 0.7,
+  "end": 0.8
+ },
+ {
+  "id": "w4",
+  "text": "phone",
+  "start": 0.8,
+  "end": 1.08
+ },
+ {
+  "id": "w5",
+  "text": "company,",
+  "start": 1.08,
+  "end": 1.54
+ },
+ {
+  "id": "w6",
+  "text": "nothing",
+  "start": 1.88,
+  "end": 2.16
+ },
+ {
+  "id": "w7",
+  "text": "else.",
+  "start": 2.16,
+  "end": 2.54
+ }
+]

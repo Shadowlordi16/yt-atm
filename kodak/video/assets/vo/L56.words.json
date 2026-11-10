@@ -1,0 +1,146 @@
+[
+  {
+    "id": "w0",
+    "text": "Kodek",
+    "start": 0.08,
+    "end": 0.64
+  },
+  {
+    "id": "w1",
+    "text": "was",
+    "start": 0.72,
+    "end": 0.88
+  },
+  {
+    "id": "w2",
+    "text": "not",
+    "start": 0.88,
+    "end": 1.04
+  },
+  {
+    "id": "w3",
+    "text": "blind",
+    "start": 1.04,
+    "end": 1.44
+  },
+  {
+    "id": "w4",
+    "text": "to",
+    "start": 1.44,
+    "end": 1.6
+  },
+  {
+    "id": "w5",
+    "text": "the",
+    "start": 1.6,
+    "end": 1.76
+  },
+  {
+    "id": "w6",
+    "text": "future.",
+    "start": 1.76,
+    "end": 2.4
+  },
+  {
+    "id": "w7",
+    "text": "It",
+    "start": 2.4,
+    "end": 2.64
+  },
+  {
+    "id": "w8",
+    "text": "saw",
+    "start": 2.64,
+    "end": 2.88
+  },
+  {
+    "id": "w9",
+    "text": "it",
+    "start": 2.88,
+    "end": 3.04
+  },
+  {
+    "id": "w10",
+    "text": "clearly",
+    "start": 3.04,
+    "end": 3.52
+  },
+  {
+    "id": "w11",
+    "text": "more",
+    "start": 3.6,
+    "end": 3.84
+  },
+  {
+    "id": "w12",
+    "text": "than",
+    "start": 3.84,
+    "end": 4
+  },
+  {
+    "id": "w13",
+    "text": "once.",
+    "start": 4,
+    "end": 4.64
+  },
+  {
+    "id": "w14",
+    "text": "What",
+    "start": 4.64,
+    "end": 4.88
+  },
+  {
+    "id": "w15",
+    "text": "it",
+    "start": 4.88,
+    "end": 5.04
+  },
+  {
+    "id": "w16",
+    "text": "couldn't",
+    "start": 5.04,
+    "end": 5.28
+  },
+  {
+    "id": "w17",
+    "text": "do",
+    "start": 5.28,
+    "end": 5.52
+  },
+  {
+    "id": "w18",
+    "text": "was",
+    "start": 5.52,
+    "end": 5.68
+  },
+  {
+    "id": "w19",
+    "text": "act",
+    "start": 5.68,
+    "end": 5.92
+  },
+  {
+    "id": "w20",
+    "text": "on",
+    "start": 5.92,
+    "end": 6.08
+  },
+  {
+    "id": "w21",
+    "text": "what",
+    "start": 6.08,
+    "end": 6.24
+  },
+  {
+    "id": "w22",
+    "text": "it",
+    "start": 6.24,
+    "end": 6.4
+  },
+  {
+    "id": "w23",
+    "text": "saw.",
+    "start": 6.4,
+    "end": 6.8
+  }
+]

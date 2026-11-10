@@ -1,0 +1,44 @@
+[
+ {
+  "id": "w0",
+  "text": "Three",
+  "start": 0.0,
+  "end": 0.22
+ },
+ {
+  "id": "w1",
+  "text": "days",
+  "start": 0.22,
+  "end": 0.44
+ },
+ {
+  "id": "w2",
+  "text": "later,",
+  "start": 0.44,
+  "end": 0.78
+ },
+ {
+  "id": "w3",
+  "text": "Nokia",
+  "start": 1.02,
+  "end": 1.22
+ },
+ {
+  "id": "w4",
+  "text": "made",
+  "start": 1.22,
+  "end": 1.66
+ },
+ {
+  "id": "w5",
+  "text": "its",
+  "start": 1.66,
+  "end": 1.82
+ },
+ {
+  "id": "w6",
+  "text": "jump.",
+  "start": 1.82,
+  "end": 2.14
+ }
+]

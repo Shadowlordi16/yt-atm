@@ -1,0 +1,66 @@
+L00|In two thousand four, the company behind the most famous toy in the world was running out of money.
+L01|That year alone, Lego lost almost two billion Danish kroner. About three hundred million dollars.
+L02|It was the biggest loss in the company's history.
+L03|One of its own executives later said it was almost bankrupt.
+L04|It had theme parks, video games, a TV show and action figures. What it had forgotten was the brick.
+L05|Ten years later, Lego was the biggest toy company in the world.
+L06|This is the story of how Lego nearly lost everything, and saved itself by doing less.
+L07|The story starts in nineteen thirty-two, in a small town in Denmark called Billund, with a carpenter named Ole Kirk Christiansen.
+L08|He made furniture. But the Great Depression left him with fewer and fewer customers, so he started making wooden toys.
+L09|In nineteen thirty-four, he gave his company a name, from two Danish words, leg godt. Play well.
+L10|In nineteen forty-seven, Lego bought a machine that could mould plastic. Two years later, it was making little plastic bricks that clicked together.
+L11|Lego called them Automatic Binding Bricks.
+L12|They didn't hold together very well. So the company kept working on it.
+L13|In nineteen fifty-eight, Lego patented the brick we know today, with hollow tubes underneath, so the bricks lock together and stay together.
+L14|That same year, Ole Kirk Christiansen died, and his son Godtfred took over.
+L15|A department store buyer once told Godtfred that what the toy business needed wasn't another toy. It was a system of play.
+L16|In nineteen sixty, a fire destroyed most of Lego's wooden toys. From then on, the brick was the business.
+L17|And for decades, the brick was enough. From nineteen seventy-eight to nineteen ninety-three, Lego grew around fourteen percent a year, doubling in size roughly every five years.
+L18|Over the years, Lego added themed sets: space, castles, pirates, the Wild West.
+L19|Then, in the nineteen nineties, the growth stopped.
+L20|Lego tripled the number of new toys it launched. Sales didn't go up.
+L21|Every new product added costs. When sales don't grow with them, profits fall.
+L22|And Lego was a fixed-cost business. Its factories cost the same to run whether sales went up or down.
+L23|Meanwhile, Lego sets were getting more expensive, while other toys were getting cheaper.
+L24|In nineteen ninety-eight, Lego lost money for the first time in its history, and a thousand people lost their jobs.
+L25|Its answer was to look beyond the brick.
+L26|One study told Lego that most children didn't like its toys.
+L27|Lego built theme parks. It made video games and TV shows. It signed deals for Star Wars and Harry Potter sets.
+L28|It made an action figure called Galidor, with electronics, a video game, a TV show and a deal with McDonald's. One author who studied the company called it a huge, expensive failure.
+L29|It made sets called Jack Stone, for kids who didn't like Lego. They snapped together in about ten minutes.
+L30|Every new idea needed new pieces. By the early two thousands, Lego was making about twelve thousand nine hundred different pieces.
+L31|Robertson put it simply: Lego had lost control of its innovation.
+L32|The movie sets sold well, but only when there was a new movie.
+L33|Robertson called the licensed sets a thick layer of cosmetics that hid a pretty ugly business underneath.
+L34|In two thousand three, there wasn't one. Sales fell off a cliff.
+L35|Lego's sales fell twenty-six percent in a single year, from eleven point four billion kroner to eight point four billion. It lost one point four billion kroner.
+L36|And the next year was worse. In two thousand four, it lost one point nine three billion.
+L37|The family that owned Lego had a choice to make.
+L38|In late two thousand four, the head of the family, Kjeld Kirk Kristiansen, the founder's grandson, stepped back from running the company day to day. The new chief executive was an outsider.
+L39|Jørgen Vig Knudstorp was thirty-five years old. He was a former McKinsey consultant who had joined Lego only three years earlier.
+L40|His plan was simple. Stop doing everything. Go back to the brick.
+L41|He cut the number of different pieces Lego made, from twelve thousand nine hundred to seven thousand.
+L42|Fewer pieces meant fewer moulds to make, and fewer parts to keep in stock.
+L43|Designers were asked to work inside the brick system, where parts could be reused across many sets.
+L44|Then he sold the theme parks. In two thousand five, the four Legoland parks went to the investment firm Blackstone for three hundred and seventy-five million euros. Lego kept thirty percent.
+L45|The parks were in Denmark, England, Germany and California.
+L46|Lego closed a factory in Switzerland and moved production to the Czech Republic.
+L47|And the products went back to basics. Police stations. Fire trucks. Sets that were just good Lego.
+L48|It worked fast. In two thousand five, Lego made a profit again: five hundred and five million kroner. Sales grew twelve percent.
+L49|Lego kept growing. It launched new lines, like Lego Friends, aimed at girls. Some people criticised it. It sold anyway.
+L50|In February twenty fourteen, The Lego Movie came out.
+L51|Robertson's explanation for the comeback: kids love to build a world, and then play out a story inside it.
+L52|That year, in the first half alone, Lego's sales rose eleven percent, to eleven point five billion kroner. It passed Mattel, the maker of Barbie, to become the biggest toy company in the world.
+L53|Ten years after nearly going under.
+L54|And the theme parks? In twenty nineteen, the Lego family's investment company joined a deal to buy Merlin, the company that runs Legoland, in a deal worth six billion pounds.
+L55|That family company, KIRKBI, owned seventy-five percent of Lego.
+L56|The parks Lego sold to survive, its owners helped buy back.
+L57|Knudstorp stayed in charge until twenty seventeen.
+L58|And in twenty twenty-five, Lego made a record eighty-three and a half billion kroner in revenue.
+L59|Revenue grew twelve percent in a single year. Operating profit: twenty-two billion kroner.
+L60|Its profit that year was sixteen point seven billion kroner. That's more than eight times what it lost in two thousand four.
+L61|The patents on the Lego brick ran out long ago. Other companies make bricks that fit, and sell them for less.
+L62|But Lego didn't come back by inventing something new. It came back by remembering what it already was.
+L63|When it tried to be everything, it nearly became nothing.
+L64|Sometimes the way to save a company isn't to do more. It's to do less, and do it well.
+L65|This is Paper Empire. Next time: the phone that every business leader carried, and why its keyboard became a trap. BlackBerry.

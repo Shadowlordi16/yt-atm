@@ -1,0 +1,122 @@
+[
+ {
+  "id": "w0",
+  "text": "He",
+  "start": 0.0,
+  "end": 0.1
+ },
+ {
+  "id": "w1",
+  "text": "understood",
+  "start": 0.1,
+  "end": 0.4
+ },
+ {
+  "id": "w2",
+  "text": "it",
+  "start": 0.4,
+  "end": 0.72
+ },
+ {
+  "id": "w3",
+  "text": "was",
+  "start": 0.72,
+  "end": 0.86
+ },
+ {
+  "id": "w4",
+  "text": "a",
+  "start": 0.86,
+  "end": 0.96
+ },
+ {
+  "id": "w5",
+  "text": "computer.",
+  "start": 0.96,
+  "end": 1.36
+ },
+ {
+  "id": "w6",
+  "text": "He",
+  "start": 2.08,
+  "end": 2.16
+ },
+ {
+  "id": "w7",
+  "text": "just",
+  "start": 2.16,
+  "end": 2.3
+ },
+ {
+  "id": "w8",
+  "text": "judged",
+  "start": 2.3,
+  "end": 2.68
+ },
+ {
+  "id": "w9",
+  "text": "that",
+  "start": 2.68,
+  "end": 2.96
+ },
+ {
+  "id": "w10",
+  "text": "business",
+  "start": 2.96,
+  "end": 3.28
+ },
+ {
+  "id": "w11",
+  "text": "would",
+  "start": 3.28,
+  "end": 3.62
+ },
+ {
+  "id": "w12",
+  "text": "not",
+  "start": 3.62,
+  "end": 3.82
+ },
+ {
+  "id": "w13",
+  "text": "want",
+  "start": 3.82,
+  "end": 4.12
+ },
+ {
+  "id": "w14",
+  "text": "one",
+  "start": 4.12,
+  "end": 4.44
+ },
+ {
+  "id": "w15",
+  "text": "because",
+  "start": 4.44,
+  "end": 4.8
+ },
+ {
+  "id": "w16",
+  "text": "it",
+  "start": 4.8,
+  "end": 4.98
+ },
+ {
+  "id": "w17",
+  "text": "could",
+  "start": 4.98,
+  "end": 5.14
+ },
+ {
+  "id": "w18",
+  "text": "not",
+  "start": 5.14,
+  "end": 5.34
+ },
+ {
+  "id": "w19",
+  "text": "type.",
+  "start": 5.34,
+  "end": 5.62
+ }
+]

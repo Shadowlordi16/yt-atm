@@ -1,0 +1,62 @@
+[
+ {
+  "id": "w0",
+  "text": "but",
+  "start": 0.0,
+  "end": 0.08
+ },
+ {
+  "id": "w1",
+  "text": "the",
+  "start": 0.08,
+  "end": 0.18
+ },
+ {
+  "id": "w2",
+  "text": "real",
+  "start": 0.18,
+  "end": 0.38
+ },
+ {
+  "id": "w3",
+  "text": "damage",
+  "start": 0.38,
+  "end": 0.9
+ },
+ {
+  "id": "w4",
+  "text": "was",
+  "start": 0.9,
+  "end": 1.26
+ },
+ {
+  "id": "w5",
+  "text": "happening",
+  "start": 1.26,
+  "end": 1.64
+ },
+ {
+  "id": "w6",
+  "text": "away",
+  "start": 1.64,
+  "end": 1.98
+ },
+ {
+  "id": "w7",
+  "text": "from",
+  "start": 1.98,
+  "end": 2.28
+ },
+ {
+  "id": "w8",
+  "text": "the",
+  "start": 2.28,
+  "end": 2.4
+ },
+ {
+  "id": "w9",
+  "text": "pitch.",
+  "start": 2.4,
+  "end": 2.6
+ }
+]

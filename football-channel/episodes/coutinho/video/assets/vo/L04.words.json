@@ -1,0 +1,56 @@
+[
+ {
+  "id": "w0",
+  "text": "Everyone",
+  "start": 0.0,
+  "end": 0.36
+ },
+ {
+  "id": "w1",
+  "text": "remembers",
+  "start": 0.36,
+  "end": 0.84
+ },
+ {
+  "id": "w2",
+  "text": "the",
+  "start": 0.84,
+  "end": 1.14
+ },
+ {
+  "id": "w3",
+  "text": "fee,",
+  "start": 1.14,
+  "end": 1.4
+ },
+ {
+  "id": "w4",
+  "text": "almost",
+  "start": 1.9,
+  "end": 2.22
+ },
+ {
+  "id": "w5",
+  "text": "nobody",
+  "start": 2.22,
+  "end": 2.58
+ },
+ {
+  "id": "w6",
+  "text": "remembers",
+  "start": 2.58,
+  "end": 3.18
+ },
+ {
+  "id": "w7",
+  "text": "the",
+  "start": 3.18,
+  "end": 3.58
+ },
+ {
+  "id": "w8",
+  "text": "accounting.",
+  "start": 3.58,
+  "end": 3.96
+ }
+]

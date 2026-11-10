@@ -1,0 +1,116 @@
+[
+ {
+  "id": "w0",
+  "text": "In",
+  "start": 0.0,
+  "end": 0.1
+ },
+ {
+  "id": "w1",
+  "text": "September",
+  "start": 0.1,
+  "end": 0.4
+ },
+ {
+  "id": "w2",
+  "text": "2013,",
+  "start": 0.4,
+  "end": 1.26
+ },
+ {
+  "id": "w3",
+  "text": "the",
+  "start": 1.26,
+  "end": 1.96
+ },
+ {
+  "id": "w4",
+  "text": "company",
+  "start": 1.96,
+  "end": 2.26
+ },
+ {
+  "id": "w5",
+  "text": "reported",
+  "start": 2.26,
+  "end": 2.72
+ },
+ {
+  "id": "w6",
+  "text": "a",
+  "start": 2.72,
+  "end": 2.96
+ },
+ {
+  "id": "w7",
+  "text": "loss",
+  "start": 2.96,
+  "end": 3.22
+ },
+ {
+  "id": "w8",
+  "text": "of",
+  "start": 3.22,
+  "end": 3.46
+ },
+ {
+  "id": "w9",
+  "text": "about",
+  "start": 3.46,
+  "end": 3.66
+ },
+ {
+  "id": "w10",
+  "text": "a",
+  "start": 3.66,
+  "end": 3.78
+ },
+ {
+  "id": "w11",
+  "text": "billion",
+  "start": 3.78,
+  "end": 4.06
+ },
+ {
+  "id": "w12",
+  "text": "dollars.",
+  "start": 4.06,
+  "end": 4.84
+ },
+ {
+  "id": "w13",
+  "text": "Revenue",
+  "start": 5.44,
+  "end": 5.62
+ },
+ {
+  "id": "w14",
+  "text": "had",
+  "start": 5.62,
+  "end": 6.02
+ },
+ {
+  "id": "w15",
+  "text": "fallen",
+  "start": 6.02,
+  "end": 6.3
+ },
+ {
+  "id": "w16",
+  "text": "by",
+  "start": 6.3,
+  "end": 6.66
+ },
+ {
+  "id": "w17",
+  "text": "almost",
+  "start": 6.66,
+  "end": 6.96
+ },
+ {
+  "id": "w18",
+  "text": "half.",
+  "start": 6.96,
+  "end": 7.38
+ }
+]

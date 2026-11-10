@@ -1,0 +1,56 @@
+[
+ {
+  "id": "w0",
+  "text": "His",
+  "start": 0.0,
+  "end": 0.12
+ },
+ {
+  "id": "w1",
+  "text": "message",
+  "start": 0.12,
+  "end": 0.36
+ },
+ {
+  "id": "w2",
+  "text": "was",
+  "start": 0.36,
+  "end": 0.72
+ },
+ {
+  "id": "w3",
+  "text": "clear,",
+  "start": 0.72,
+  "end": 1.2
+ },
+ {
+  "id": "w4",
+  "text": "Nokia's",
+  "start": 1.64,
+  "end": 2.04
+ },
+ {
+  "id": "w5",
+  "text": "platform",
+  "start": 2.04,
+  "end": 2.34
+ },
+ {
+  "id": "w6",
+  "text": "was",
+  "start": 2.34,
+  "end": 2.68
+ },
+ {
+  "id": "w7",
+  "text": "on",
+  "start": 2.68,
+  "end": 2.86
+ },
+ {
+  "id": "w8",
+  "text": "fire.",
+  "start": 2.86,
+  "end": 3.24
+ }
+]

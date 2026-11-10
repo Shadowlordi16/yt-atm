@@ -1,0 +1,128 @@
+[
+ {
+  "id": "w0",
+  "text": "Web",
+  "start": 0.0,
+  "end": 0.16
+ },
+ {
+  "id": "w1",
+  "text": "pages,",
+  "start": 0.16,
+  "end": 0.52
+ },
+ {
+  "id": "w2",
+  "text": "maps,",
+  "start": 0.94,
+  "end": 1.14
+ },
+ {
+  "id": "w3",
+  "text": "video",
+  "start": 1.58,
+  "end": 1.8
+ },
+ {
+  "id": "w4",
+  "text": "photographs.",
+  "start": 1.8,
+  "end": 2.4
+ },
+ {
+  "id": "w5",
+  "text": "A",
+  "start": 3.34,
+  "end": 3.4
+ },
+ {
+  "id": "w6",
+  "text": "phone",
+  "start": 3.4,
+  "end": 3.64
+ },
+ {
+  "id": "w7",
+  "text": "with",
+  "start": 3.64,
+  "end": 3.9
+ },
+ {
+  "id": "w8",
+  "text": "a",
+  "start": 3.9,
+  "end": 3.96
+ },
+ {
+  "id": "w9",
+  "text": "keyboard",
+  "start": 3.96,
+  "end": 4.26
+ },
+ {
+  "id": "w10",
+  "text": "through",
+  "start": 4.26,
+  "end": 4.66
+ },
+ {
+  "id": "w11",
+  "text": "the",
+  "start": 4.66,
+  "end": 4.8
+ },
+ {
+  "id": "w12",
+  "text": "middle",
+  "start": 4.8,
+  "end": 4.96
+ },
+ {
+  "id": "w13",
+  "text": "was",
+  "start": 4.96,
+  "end": 5.18
+ },
+ {
+  "id": "w14",
+  "text": "a",
+  "start": 5.18,
+  "end": 5.3
+ },
+ {
+  "id": "w15",
+  "text": "worse",
+  "start": 5.3,
+  "end": 5.52
+ },
+ {
+  "id": "w16",
+  "text": "place",
+  "start": 5.52,
+  "end": 5.84
+ },
+ {
+  "id": "w17",
+  "text": "to",
+  "start": 5.84,
+  "end": 6.12
+ },
+ {
+  "id": "w18",
+  "text": "look",
+  "start": 6.12,
+  "end": 6.26
+ },
+ {
+  "id": "w19",
+  "text": "at",
+  "start": 6.26,
+  "end": 6.44
+ },
+ {
+  "id": "w20",
+  "text": "anything.",
+  "start": 6.44,
+  "end": 6.74
+ }
+]

@@ -1,0 +1,140 @@
+[
+ {
+  "id": "w0",
+  "text": "The",
+  "start": 0.0,
+  "end": 0.08
+ },
+ {
+  "id": "w1",
+  "text": "bet",
+  "start": 0.08,
+  "end": 0.26
+ },
+ {
+  "id": "w2",
+  "text": "paid",
+  "start": 0.26,
+  "end": 0.52
+ },
+ {
+  "id": "w3",
+  "text": "off",
+  "start": 0.52,
+  "end": 0.74
+ },
+ {
+  "id": "w4",
+  "text": "faster",
+  "start": 0.74,
+  "end": 1.08
+ },
+ {
+  "id": "w5",
+  "text": "than",
+  "start": 1.08,
+  "end": 1.5
+ },
+ {
+  "id": "w6",
+  "text": "anyone",
+  "start": 1.5,
+  "end": 1.78
+ },
+ {
+  "id": "w7",
+  "text": "expected.",
+  "start": 1.78,
+  "end": 2.2
+ },
+ {
+  "id": "w8",
+  "text": "In",
+  "start": 3.1,
+  "end": 3.16
+ },
+ {
+  "id": "w9",
+  "text": "1998,",
+  "start": 3.16,
+  "end": 3.9
+ },
+ {
+  "id": "w10",
+  "text": "Nokia",
+  "start": 4.6,
+  "end": 4.88
+ },
+ {
+  "id": "w11",
+  "text": "passed",
+  "start": 4.88,
+  "end": 5.38
+ },
+ {
+  "id": "w12",
+  "text": "Motorola",
+  "start": 5.38,
+  "end": 5.72
+ },
+ {
+  "id": "w13",
+  "text": "to",
+  "start": 5.72,
+  "end": 6.26
+ },
+ {
+  "id": "w14",
+  "text": "become",
+  "start": 6.26,
+  "end": 6.42
+ },
+ {
+  "id": "w15",
+  "text": "the",
+  "start": 6.42,
+  "end": 6.72
+ },
+ {
+  "id": "w16",
+  "text": "biggest",
+  "start": 6.72,
+  "end": 7.02
+ },
+ {
+  "id": "w17",
+  "text": "mobile",
+  "start": 7.02,
+  "end": 7.34
+ },
+ {
+  "id": "w18",
+  "text": "phone",
+  "start": 7.34,
+  "end": 7.96
+ },
+ {
+  "id": "w19",
+  "text": "maker",
+  "start": 7.96,
+  "end": 8.18
+ },
+ {
+  "id": "w20",
+  "text": "in",
+  "start": 8.18,
+  "end": 8.48
+ },
+ {
+  "id": "w21",
+  "text": "the",
+  "start": 8.48,
+  "end": 8.58
+ },
+ {
+  "id": "w22",
+  "text": "world.",
+  "start": 8.58,
+  "end": 8.88
+ }
+]

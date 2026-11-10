@@ -1,0 +1,80 @@
+[
+  {
+    "id": "w0",
+    "text": "Blockbuster",
+    "start": 0,
+    "end": 0.72
+  },
+  {
+    "id": "w1",
+    "text": "had",
+    "start": 0.72,
+    "end": 0.88
+  },
+  {
+    "id": "w2",
+    "text": "caught",
+    "start": 0.88,
+    "end": 1.12
+  },
+  {
+    "id": "w3",
+    "text": "up",
+    "start": 1.12,
+    "end": 1.28
+  },
+  {
+    "id": "w4",
+    "text": "on",
+    "start": 1.28,
+    "end": 1.44
+  },
+  {
+    "id": "w5",
+    "text": "DVDs",
+    "start": 1.44,
+    "end": 2.16
+  },
+  {
+    "id": "w6",
+    "text": "by",
+    "start": 2.16,
+    "end": 2.32
+  },
+  {
+    "id": "w7",
+    "text": "mail.",
+    "start": 2.32,
+    "end": 2.96
+  },
+  {
+    "id": "w8",
+    "text": "Now",
+    "start": 2.96,
+    "end": 3.28
+  },
+  {
+    "id": "w9",
+    "text": "the",
+    "start": 3.28,
+    "end": 3.52
+  },
+  {
+    "id": "w10",
+    "text": "race",
+    "start": 3.52,
+    "end": 3.84
+  },
+  {
+    "id": "w11",
+    "text": "had",
+    "start": 3.84,
+    "end": 4
+  },
+  {
+    "id": "w12",
+    "text": "moved.",
+    "start": 4,
+    "end": 4.48
+  }
+]

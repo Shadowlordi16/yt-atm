@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-11-09T11:05:36.107Z",
+  "projects": [
+    {
+      "id": "_smoketest",
+      "label": "_smoketest",
+      "preview": "_smoketest/video/"
+    },
+    {
+      "id": "animated-molasses-pilot",
+      "label": "animated-molasses-pilot",
+      "preview": "animated-molasses-pilot/video/"
+    },
+    {
+      "id": "blackberry",
+      "label": "blackberry",
+      "preview": "blackberry/video/"
+    },
+    {
+      "id": "blockbuster",
+      "label": "blockbuster",
+      "preview": "blockbuster/video/"
+    },
+    {
+      "id": "football-channel/episodes/coutinho",
+      "label": "football-channel / episodes / coutinho",
+      "preview": "football-channel/episodes/coutinho/video/"
+    },
+    {
+      "id": "kodak",
+      "label": "kodak",
+      "preview": "kodak/video/"
+    },
+    {
+      "id": "lego",
+      "label": "lego",
+      "preview": "lego/video/"
+    },
+    {
+      "id": "nokia",
+      "label": "nokia",
+      "preview": "nokia/video/"
+    },
+    {
+      "id": "sears",
+      "label": "sears",
+      "preview": "sears/video/"
+    },
+    {
+      "id": "toys-r-us",
+      "label": "toys-r-us",
+      "preview": "toys-r-us/video/"
+    }
+  ]
+}

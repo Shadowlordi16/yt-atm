@@ -1,0 +1,116 @@
+[
+ {
+  "id": "w0",
+  "text": "First",
+  "start": 0.0,
+  "end": 0.28
+ },
+ {
+  "id": "w1",
+  "text": "lands",
+  "start": 0.28,
+  "end": 0.52
+ },
+ {
+  "id": "w2",
+  "text": "end,",
+  "start": 0.52,
+  "end": 0.9
+ },
+ {
+  "id": "w3",
+  "text": "then",
+  "start": 1.46,
+  "end": 1.64
+ },
+ {
+  "id": "w4",
+  "text": "the",
+  "start": 1.64,
+  "end": 1.78
+ },
+ {
+  "id": "w5",
+  "text": "Canadian",
+  "start": 1.78,
+  "end": 2.16
+ },
+ {
+  "id": "w6",
+  "text": "arm,",
+  "start": 2.16,
+  "end": 2.6
+ },
+ {
+  "id": "w7",
+  "text": "then",
+  "start": 3.22,
+  "end": 3.36
+ },
+ {
+  "id": "w8",
+  "text": "craftsmen",
+  "start": 3.36,
+  "end": 4.0
+ },
+ {
+  "id": "w9",
+  "text": "the",
+  "start": 4.0,
+  "end": 4.18
+ },
+ {
+  "id": "w10",
+  "text": "tools",
+  "start": 4.18,
+  "end": 4.42
+ },
+ {
+  "id": "w11",
+  "text": "that",
+  "start": 4.42,
+  "end": 4.74
+ },
+ {
+  "id": "w12",
+  "text": "built",
+  "start": 4.74,
+  "end": 4.9
+ },
+ {
+  "id": "w13",
+  "text": "the",
+  "start": 4.9,
+  "end": 5.12
+ },
+ {
+  "id": "w14",
+  "text": "brand",
+  "start": 5.12,
+  "end": 5.32
+ },
+ {
+  "id": "w15",
+  "text": "sold",
+  "start": 5.32,
+  "end": 5.8
+ },
+ {
+  "id": "w16",
+  "text": "to",
+  "start": 5.8,
+  "end": 6.1
+ },
+ {
+  "id": "w17",
+  "text": "a",
+  "start": 6.1,
+  "end": 6.22
+ },
+ {
+  "id": "w18",
+  "text": "competitor.",
+  "start": 6.22,
+  "end": 6.52
+ }
+]

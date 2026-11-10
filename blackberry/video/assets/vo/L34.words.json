@@ -1,0 +1,98 @@
+[
+ {
+  "id": "w0",
+  "text": "Almost",
+  "start": 0.0,
+  "end": 0.28
+ },
+ {
+  "id": "w1",
+  "text": "22",
+  "start": 0.28,
+  "end": 0.68
+ },
+ {
+  "id": "w2",
+  "text": "million",
+  "start": 0.68,
+  "end": 1.16
+ },
+ {
+  "id": "w3",
+  "text": "people.",
+  "start": 1.16,
+  "end": 1.66
+ },
+ {
+  "id": "w4",
+  "text": "That",
+  "start": 2.22,
+  "end": 2.36
+ },
+ {
+  "id": "w5",
+  "text": "is",
+  "start": 2.36,
+  "end": 2.48
+ },
+ {
+  "id": "w6",
+  "text": "the",
+  "start": 2.48,
+  "end": 2.64
+ },
+ {
+  "id": "w7",
+  "text": "most",
+  "start": 2.64,
+  "end": 2.86
+ },
+ {
+  "id": "w8",
+  "text": "it",
+  "start": 2.86,
+  "end": 3.06
+ },
+ {
+  "id": "w9",
+  "text": "would",
+  "start": 3.06,
+  "end": 3.16
+ },
+ {
+  "id": "w10",
+  "text": "ever",
+  "start": 3.16,
+  "end": 3.34
+ },
+ {
+  "id": "w11",
+  "text": "reach",
+  "start": 3.34,
+  "end": 3.66
+ },
+ {
+  "id": "w12",
+  "text": "in",
+  "start": 3.66,
+  "end": 3.96
+ },
+ {
+  "id": "w13",
+  "text": "the",
+  "start": 3.96,
+  "end": 4.06
+ },
+ {
+  "id": "w14",
+  "text": "United",
+  "start": 4.06,
+  "end": 4.28
+ },
+ {
+  "id": "w15",
+  "text": "States.",
+  "start": 4.28,
+  "end": 4.7
+ }
+]

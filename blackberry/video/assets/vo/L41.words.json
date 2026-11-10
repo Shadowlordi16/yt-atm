@@ -1,0 +1,116 @@
+[
+ {
+  "id": "w0",
+  "text": "Heinz",
+  "start": 0.0,
+  "end": 0.44
+ },
+ {
+  "id": "w1",
+  "text": "put",
+  "start": 0.44,
+  "end": 0.56
+ },
+ {
+  "id": "w2",
+  "text": "everything",
+  "start": 0.56,
+  "end": 0.86
+ },
+ {
+  "id": "w3",
+  "text": "on",
+  "start": 0.86,
+  "end": 1.26
+ },
+ {
+  "id": "w4",
+  "text": "one",
+  "start": 1.26,
+  "end": 1.44
+ },
+ {
+  "id": "w5",
+  "text": "bet.",
+  "start": 1.44,
+  "end": 1.7
+ },
+ {
+  "id": "w6",
+  "text": "A",
+  "start": 2.44,
+  "end": 2.48
+ },
+ {
+  "id": "w7",
+  "text": "brand",
+  "start": 2.48,
+  "end": 2.66
+ },
+ {
+  "id": "w8",
+  "text": "new",
+  "start": 2.66,
+  "end": 2.98
+ },
+ {
+  "id": "w9",
+  "text": "operating",
+  "start": 2.98,
+  "end": 3.32
+ },
+ {
+  "id": "w10",
+  "text": "system",
+  "start": 3.32,
+  "end": 3.84
+ },
+ {
+  "id": "w11",
+  "text": "Blackberry",
+  "start": 3.84,
+  "end": 4.58
+ },
+ {
+  "id": "w12",
+  "text": "10",
+  "start": 4.58,
+  "end": 5.0
+ },
+ {
+  "id": "w13",
+  "text": "that",
+  "start": 5.0,
+  "end": 5.58
+ },
+ {
+  "id": "w14",
+  "text": "would",
+  "start": 5.58,
+  "end": 5.68
+ },
+ {
+  "id": "w15",
+  "text": "finally",
+  "start": 5.68,
+  "end": 6.08
+ },
+ {
+  "id": "w16",
+  "text": "answer",
+  "start": 6.08,
+  "end": 6.5
+ },
+ {
+  "id": "w17",
+  "text": "the",
+  "start": 6.5,
+  "end": 6.7
+ },
+ {
+  "id": "w18",
+  "text": "iPhone.",
+  "start": 6.7,
+  "end": 7.0
+ }
+]

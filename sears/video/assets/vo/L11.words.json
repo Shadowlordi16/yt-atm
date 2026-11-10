@@ -1,0 +1,110 @@
+[
+ {
+  "id": "w0",
+  "text": "That",
+  "start": 0.0,
+  "end": 0.12
+ },
+ {
+  "id": "w1",
+  "text": "was",
+  "start": 0.12,
+  "end": 0.26
+ },
+ {
+  "id": "w2",
+  "text": "money",
+  "start": 0.26,
+  "end": 0.48
+ },
+ {
+  "id": "w3",
+  "text": "from",
+  "start": 0.48,
+  "end": 0.78
+ },
+ {
+  "id": "w4",
+  "text": "farms",
+  "start": 0.78,
+  "end": 1.14
+ },
+ {
+  "id": "w5",
+  "text": "and",
+  "start": 1.14,
+  "end": 1.54
+ },
+ {
+  "id": "w6",
+  "text": "small",
+  "start": 1.54,
+  "end": 1.74
+ },
+ {
+  "id": "w7",
+  "text": "towns,",
+  "start": 1.74,
+  "end": 2.52
+ },
+ {
+  "id": "w8",
+  "text": "collected",
+  "start": 2.9,
+  "end": 3.18
+ },
+ {
+  "id": "w9",
+  "text": "by",
+  "start": 3.18,
+  "end": 3.54
+ },
+ {
+  "id": "w10",
+  "text": "post,",
+  "start": 3.54,
+  "end": 3.94
+ },
+ {
+  "id": "w11",
+  "text": "decades",
+  "start": 4.36,
+  "end": 4.66
+ },
+ {
+  "id": "w12",
+  "text": "before",
+  "start": 4.66,
+  "end": 5.24
+ },
+ {
+  "id": "w13",
+  "text": "anyone",
+  "start": 5.24,
+  "end": 5.56
+ },
+ {
+  "id": "w14",
+  "text": "said",
+  "start": 5.56,
+  "end": 5.96
+ },
+ {
+  "id": "w15",
+  "text": "the",
+  "start": 5.96,
+  "end": 6.1
+ },
+ {
+  "id": "w16",
+  "text": "word",
+  "start": 6.1,
+  "end": 6.26
+ },
+ {
+  "id": "w17",
+  "text": "retail.",
+  "start": 6.26,
+  "end": 6.72
+ }
+]

@@ -1,0 +1,104 @@
+[
+ {
+  "id": "w0",
+  "text": "Stephen",
+  "start": 0.0,
+  "end": 0.3
+ },
+ {
+  "id": "w1",
+  "text": "Alop,",
+  "start": 0.3,
+  "end": 0.76
+ },
+ {
+  "id": "w2",
+  "text": "the",
+  "start": 1.0,
+  "end": 1.08
+ },
+ {
+  "id": "w3",
+  "text": "man",
+  "start": 1.08,
+  "end": 1.3
+ },
+ {
+  "id": "w4",
+  "text": "who",
+  "start": 1.3,
+  "end": 1.48
+ },
+ {
+  "id": "w5",
+  "text": "wrote",
+  "start": 1.48,
+  "end": 1.62
+ },
+ {
+  "id": "w6",
+  "text": "the",
+  "start": 1.62,
+  "end": 1.82
+ },
+ {
+  "id": "w7",
+  "text": "burning",
+  "start": 1.82,
+  "end": 2.1
+ },
+ {
+  "id": "w8",
+  "text": "platform",
+  "start": 2.1,
+  "end": 2.54
+ },
+ {
+  "id": "w9",
+  "text": "Memo,",
+  "start": 2.54,
+  "end": 3.2
+ },
+ {
+  "id": "w10",
+  "text": "went",
+  "start": 3.54,
+  "end": 3.76
+ },
+ {
+  "id": "w11",
+  "text": "with",
+  "start": 3.76,
+  "end": 3.92
+ },
+ {
+  "id": "w12",
+  "text": "the",
+  "start": 3.92,
+  "end": 4.04
+ },
+ {
+  "id": "w13",
+  "text": "phones",
+  "start": 4.04,
+  "end": 4.34
+ },
+ {
+  "id": "w14",
+  "text": "back",
+  "start": 4.34,
+  "end": 4.78
+ },
+ {
+  "id": "w15",
+  "text": "to",
+  "start": 4.78,
+  "end": 5.02
+ },
+ {
+  "id": "w16",
+  "text": "Microsoft.",
+  "start": 5.02,
+  "end": 5.28
+ }
+]

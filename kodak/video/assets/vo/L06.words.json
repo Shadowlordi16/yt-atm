@@ -1,0 +1,92 @@
+[
+  {
+    "id": "w0",
+    "text": "This",
+    "start": 0,
+    "end": 0.24
+  },
+  {
+    "id": "w1",
+    "text": "is",
+    "start": 0.24,
+    "end": 0.4
+  },
+  {
+    "id": "w2",
+    "text": "the",
+    "start": 0.4,
+    "end": 0.56
+  },
+  {
+    "id": "w3",
+    "text": "story",
+    "start": 0.56,
+    "end": 0.88
+  },
+  {
+    "id": "w4",
+    "text": "of",
+    "start": 0.88,
+    "end": 1.04
+  },
+  {
+    "id": "w5",
+    "text": "a",
+    "start": 1.04,
+    "end": 1.2
+  },
+  {
+    "id": "w6",
+    "text": "company",
+    "start": 1.2,
+    "end": 1.6
+  },
+  {
+    "id": "w7",
+    "text": "that",
+    "start": 1.6,
+    "end": 1.84
+  },
+  {
+    "id": "w8",
+    "text": "saw",
+    "start": 1.84,
+    "end": 2.16
+  },
+  {
+    "id": "w9",
+    "text": "the",
+    "start": 2.16,
+    "end": 2.32
+  },
+  {
+    "id": "w10",
+    "text": "future",
+    "start": 2.32,
+    "end": 2.72
+  },
+  {
+    "id": "w11",
+    "text": "and",
+    "start": 2.8,
+    "end": 3.04
+  },
+  {
+    "id": "w12",
+    "text": "couldn't",
+    "start": 3.04,
+    "end": 3.44
+  },
+  {
+    "id": "w13",
+    "text": "afford",
+    "start": 3.44,
+    "end": 3.68
+  },
+  {
+    "id": "w14",
+    "text": "it.",
+    "start": 3.68,
+    "end": 3.92
+  }
+]

@@ -1,0 +1,62 @@
+L00|In the year two thousand, the founders of a small startup flew to Dallas to sell their company for fifty million dollars.
+L01|The company was called Netflix. It mailed DVDs to people's homes, and it was losing money fast.
+L02|The buyer was Blockbuster, the biggest video rental chain on Earth. By one founder's account, its CEO was trying not to laugh.
+L03|Blockbuster said no.
+L04|Today, Netflix has more than three hundred million paid memberships. Blockbuster has one store left. In Bend, Oregon.
+L05|That's the story everyone tells: the dinosaur that laughed at the future.
+L06|But it isn't what happened. Blockbuster saw the future. It built it. For a while, it was winning.
+L07|And then it pushed out the man who built it.
+L08|This is how Blockbuster lost a war it was winning.
+L09|October nineteenth, nineteen eighty-five. Dallas, Texas. A man named David Cook opens a video store.
+L10|Video stores back then were small, dark, and run by people who knew movies better than business. Cook's store was huge and bright, and it had ten thousand tapes.
+L11|Two years later, it caught the eye of a man who knew how to scale anything: Wayne Huizenga, the businessman behind Waste Management. In nineteen eighty-seven, Blockbuster had nineteen stores.
+L12|Under Huizenga, Blockbuster opened a new store roughly every twenty-four hours.
+L13|It grew by buying its rivals, too. In nineteen ninety, it bought Erol's, a chain with more than two hundred fifty stores. In nineteen ninety-three, it added hundreds more music and video stores.
+L14|In nineteen ninety-four, the media giant Viacom bought Blockbuster for eight point four billion dollars.
+L15|And by two thousand four, Blockbuster had about nine thousand stores, in the US and twenty-five other countries, and six point one billion dollars in yearly revenue.
+L16|Friday night in America had a ritual. You went to Blockbuster.
+L17|But inside the business, there was a number nobody put on the posters.
+L18|Late fees. In two thousand, by Blockbuster's own count, late fees brought in about eight hundred million dollars. Sixteen percent of all its revenue.
+L19|Think about what that means. One dollar in every six came from customers making a mistake.
+L20|Blockbuster's customers hated late fees. And in nineteen ninety-seven, a software engineer named Reed Hastings started a company built on one promise: no late fees, ever.
+L21|Netflix had no stores. It mailed you DVDs. You kept them as long as you wanted.
+L22|To Blockbuster, this looked tiny. In two thousand, Blockbuster was a hundred times bigger than Netflix. Five billion dollars against fifty million.
+L23|So when Netflix came to Dallas asking for fifty million, it looked like a joke.
+L24|And Blockbuster had a bigger fight in mind. It wasn't watching a startup in California. It was watching the other video chains.
+L25|Here's the part most people never hear. Blockbuster didn't stay asleep.
+L26|The CEO was John Antioco. In August two thousand four, Blockbuster launched its own DVD-by-mail service, Blockbuster Online, at nineteen ninety-nine a month.
+L27|Then Antioco went after the money machine itself. In January two thousand five, Blockbuster killed late fees.
+L28|Ending late fees cost about two hundred million dollars. Building the online service cost about two hundred million more.
+L29|It wasn't smooth. The no-late-fees campaign had fine print: keep a movie too long and you were charged for it. More than forty states sued, and Blockbuster settled with refunds.
+L30|Antioco even went after Blockbuster's biggest store rival. In December two thousand four, Blockbuster launched a hostile bid for Hollywood Video. It later walked away.
+L31|But in late two thousand six, Blockbuster launched its best idea yet. Total Access.
+L32|Rent online. Return the DVD to any Blockbuster store. Walk out with a free movie.
+L33|Netflix couldn't match that. It had no stores.
+L34|By the end of two thousand six, Total Access had about two point two million customers.
+L35|Three months earlier, it had been one point five million. The service was growing by hundreds of thousands of customers a month.
+L36|For the first time, the giant was catching the startup.
+L37|But the money had to come from somewhere. And one of Blockbuster's biggest shareholders was watching. Carl Icahn.
+L38|In May two thousand five, Icahn won a fight for seats on Blockbuster's board. He accused the company of overpaying Antioco, who had been paid fifty-one point six million dollars for two thousand four.
+L39|Profits were being spent on the future. The board wanted them back now.
+L40|In July two thousand seven, after a fight over his bonus, Antioco left the company, with a twenty-four point seven million dollar severance.
+L41|The new CEO, Jim Keyes, had run the convenience chain 7-Eleven. Within months, Total Access prices went up. And in Antioco's telling, the money moved back to the stores.
+L42|Meanwhile, in January two thousand seven, Netflix had started letting subscribers watch movies instantly, online.
+L43|It came free with a subscription. At first, you could watch only a few hours a month, and only on a Windows PC. It didn't look like much.
+L44|Blockbuster had caught up on DVDs by mail. Now the race had moved.
+L45|Carl Icahn would later call Blockbuster the worst investment he ever made.
+L46|Antioco has said he believes that if Blockbuster Online had kept going, it could have reached about ten million subscribers.
+L47|At the start of twenty ten, Blockbuster still had more than sixty-five hundred stores.
+L48|On September twenty-third, twenty ten, it filed for bankruptcy, with about nine hundred million dollars in debt.
+L49|By late October, just three thousand four hundred twenty-five were left.
+L50|In twenty eleven, the satellite TV company Dish bought what was left for about three hundred twenty million dollars.
+L51|After adjustments, Dish paid about two hundred twenty-eight million dollars in cash. And one of the other bidders at that auction was Carl Icahn.
+L52|Seventeen years earlier, Viacom had paid eight point four billion dollars for Blockbuster.
+L53|Dish said it would keep about five hundred stores open.
+L54|In November twenty thirteen, Dish announced it would close the last three hundred company-owned stores.
+L55|And by twenty twenty, one franchise store in Bend, Oregon, was the last Blockbuster on the planet.
+L56|That same year, it got its own documentary. It's called The Last Blockbuster.
+L57|Blockbuster is remembered as the company that laughed at Netflix.
+L58|But the real lesson is harder. Blockbuster saw what was coming. It killed its own cash cow. It built a product Netflix couldn't copy. And it had millions of customers on it.
+L59|What it couldn't survive was its own boardroom. The future was expensive, and the people in charge wanted their money back first.
+L60|Empires rarely fall because they can't see the future. They fall because the future costs money today.
+L61|This is Paper Empire. Next time: how a camera company invented the digital camera, and then let it destroy them.

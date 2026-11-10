@@ -1,0 +1,5 @@
+{
+  "_help": "name -> exact Wikimedia Commons file title. 'p_' prefix = portrait, 'logo_' prefix = flat mark. Find titles with: python3 ../kit/search_commons.py <slug> \"words\" 10, then LOOK at sourcing/sheet_<slug>.jpg",
+  "hq": "File:Example building.jpg",
+  "p_founder": "File:Example portrait.jpg"
+}

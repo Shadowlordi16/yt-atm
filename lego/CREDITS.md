@@ -1,0 +1,41 @@
+# Photo credits (paste into the video description)
+
+- Ole Kirk Christiansen, 1957 (cropped).jpg by Unknown authorUnknown author, Public domain, via Wikimedia Commons
+- Ole Kirk Christiansen, 1957.jpg by Unknown authorUnknown author, Public domain, via Wikimedia Commons
+- Ole Christiansen Give.png by Unknown authorUnknown author, CC0, via Wikimedia Commons
+- Ole Kirk Christiansen famille.png by Unknown authorUnknown author, CC0, via Wikimedia Commons
+- Ole Kirks Hus 01.jpg by Leif Jørgensen, CC BY-SA 4.0, via Wikimedia Commons
+- Godtfred Kirk Christiansen (cropped).jpg by Unknown authorUnknown author, Public domain, via Wikimedia Commons
+- US3005282A Toy building brick (1958 filed, 1961 published) by Christiansen Godtfred Kirk - Lego brick, p.2, Fig. 7~12.png by Christiansen, Godtfred Kirk, Public domain, via Wikimedia Commons
+- US3005282A Toy building brick (1958 filed, 1961 published) by Christiansen Godtfred Kirk - Lego brick, p.1, Fig. 1~6.png by Christiansen, Godtfred Kirk, Public domain, via Wikimedia Commons
+- Kjeld Kirk Kristiansen 2018.jpg by Legoland Billund Resort, CC BY 3.0, via Wikimedia Commons
+- Jorgen Knudstorp.JPG by Hidden Isomorph, CC BY-SA 3.0, via Wikimedia Commons
+- Lego 2x4 brick.jpg by Ziongarage, CC0, via Wikimedia Commons
+- Vergleich PEBE LEGO.jpg by Aineias photographed it with a Canon PowerShot A85 4.0 MP, CC BY-SA 2.0 de, via Wikimedia Commons
+- LEGO Build P1090318 (4845971546).jpg by Bill Ward from El Cerrito, CA, USA, CC BY 2.0, via Wikimedia Commons
+- Pile of light gray LEGO bricks at a LEGO store.jpg by Grendelkhan, CC BY-SA 4.0, via Wikimedia Commons
+- Lego Color Bricks.jpg by Alan Chia, CC BY-SA 2.0, via Wikimedia Commons
+- Pile of lego blocks.jpg by GTurnbull925, CC BY-SA 4.0, via Wikimedia Commons
+- San Diego Comic-Con 2011 - kids playing in the giant pile of Lego bricks (6039244787).jpg by The Conmunity -  Pop Culture Geek from Los Angeles, CA, USA, CC BY 2.0, via Wikimedia Commons
+- Legoland Billund - The Temple (Adventure Land).jpg by Kigsz, CC BY-SA 4.0, via Wikimedia Commons
+- Legoland Billund - Trafikskolen 01.jpg by Leif Jørgensen, CC BY-SA 4.0, via Wikimedia Commons
+- Legoland Billund, 1977 (03).jpg by Bahnfrend, CC BY-SA 4.0, via Wikimedia Commons
+- Legoland Billund - Lufthavnen.jpg by Legoland Billund Resort, CC BY 3.0, via Wikimedia Commons
+- Entrance to Legoland Windsor.jpg by Rob Young profile, CC BY 2.0, via Wikimedia Commons
+- Legoland California.jpg by https://www.flickr.com/photos/jdigger/, CC BY 2.0, via Wikimedia Commons
+- Lego Star Wars - Set 10188 Death Star (6884611973).jpg by InSapphoWeTrust from Los Angeles, California, USA, CC BY-SA 2.0, via Wikimedia Commons
+- LEGO Star Wars 7130 Snowspeeder (41080145190).jpg by Jinko Cruz, CC BY 2.0, via Wikimedia Commons
+- Lego Store, Leicester Square - geograph.org.uk - 5224356.jpg by Oast House Archive , CC BY-SA 2.0, via Wikimedia Commons
+- LEGO® Store Westfield Booragoon, 2026 (01).jpg by Bahnfrend, CC BY-SA 4.0, via Wikimedia Commons
+- Lego store glasgow.jpeg by User:Victuallers, CC BY-SA 3.0, via Wikimedia Commons
+- Lego House Billund.jpg by MPhernambucq, CC BY-SA 4.0, via Wikimedia Commons
+- Billund Lego House 01.jpg by Andrzej Otrębski, CC BY-SA 4.0, via Wikimedia Commons
+- Lego Town - Set 588 Police Headquarters (8028918066).jpg by InSapphoWeTrust from Los Angeles, California, USA, CC BY-SA 2.0, via Wikimedia Commons
+- Lego Town Set 588 and Lego Space Set 483 (8042568664).jpg by InSapphoWeTrust from Los Angeles, California, USA, CC BY-SA 2.0, via Wikimedia Commons
+- LEGO Friends 41336 Emma's Art Cafe (27978112067).jpg by Jinko Cruz, CC BY 2.0, via Wikimedia Commons
+- Kladno CZ LEGO factory from NE 007.jpg by User:Miaow Miaow, Public domain, via Wikimedia Commons
+- Aerial Mattel Headquarters El Segundo May 2012.JPG by Jelson25, CC BY-SA 3.0, via Wikimedia Commons
+- Lego corporate headquarters 2024-08-02.jpg by Quinntropy, CC BY-SA 4.0, via Wikimedia Commons
+- Bionicle G1 masks.jpg by Ryan H, CC BY 2.0, via Wikimedia Commons
+- Lego Jack Stone logo.png by LEGO, Public domain, via Wikimedia Commons
+- LEGO - Merry Christmas!.jpg by Nam Hy Hoàng Phong, CC BY-SA 4.0, via Wikimedia Commons

@@ -1,0 +1,98 @@
+[
+ {
+  "id": "w0",
+  "text": "Onward",
+  "start": 0.0,
+  "end": 0.34
+ },
+ {
+  "id": "w1",
+  "text": "mobility",
+  "start": 0.34,
+  "end": 0.78
+ },
+ {
+  "id": "w2",
+  "text": "never",
+  "start": 0.78,
+  "end": 1.28
+ },
+ {
+  "id": "w3",
+  "text": "shipped",
+  "start": 1.28,
+  "end": 1.64
+ },
+ {
+  "id": "w4",
+  "text": "a",
+  "start": 1.64,
+  "end": 1.84
+ },
+ {
+  "id": "w5",
+  "text": "single",
+  "start": 1.84,
+  "end": 2.06
+ },
+ {
+  "id": "w6",
+  "text": "phone.",
+  "start": 2.06,
+  "end": 2.52
+ },
+ {
+  "id": "w7",
+  "text": "It",
+  "start": 3.26,
+  "end": 3.34
+ },
+ {
+  "id": "w8",
+  "text": "shut",
+  "start": 3.34,
+  "end": 3.54
+ },
+ {
+  "id": "w9",
+  "text": "down",
+  "start": 3.54,
+  "end": 3.88
+ },
+ {
+  "id": "w10",
+  "text": "in",
+  "start": 3.88,
+  "end": 4.08
+ },
+ {
+  "id": "w11",
+  "text": "2022",
+  "start": 4.08,
+  "end": 4.44
+ },
+ {
+  "id": "w12",
+  "text": "with",
+  "start": 4.44,
+  "end": 5.1
+ },
+ {
+  "id": "w13",
+  "text": "nothing",
+  "start": 5.1,
+  "end": 5.4
+ },
+ {
+  "id": "w14",
+  "text": "to",
+  "start": 5.4,
+  "end": 5.62
+ },
+ {
+  "id": "w15",
+  "text": "show.",
+  "start": 5.62,
+  "end": 5.86
+ }
+]

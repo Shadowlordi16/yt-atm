@@ -1,0 +1,74 @@
+[
+  {
+    "id": "w0",
+    "text": "Carl",
+    "start": 0,
+    "end": 0.32
+  },
+  {
+    "id": "w1",
+    "text": "Icon",
+    "start": 0.32,
+    "end": 0.8
+  },
+  {
+    "id": "w2",
+    "text": "would",
+    "start": 1.04,
+    "end": 1.2
+  },
+  {
+    "id": "w3",
+    "text": "later",
+    "start": 1.2,
+    "end": 1.36
+  },
+  {
+    "id": "w4",
+    "text": "call",
+    "start": 1.36,
+    "end": 1.6
+  },
+  {
+    "id": "w5",
+    "text": "Blockbuster",
+    "start": 1.6,
+    "end": 2.48
+  },
+  {
+    "id": "w6",
+    "text": "the",
+    "start": 2.48,
+    "end": 2.64
+  },
+  {
+    "id": "w7",
+    "text": "worst",
+    "start": 2.64,
+    "end": 2.96
+  },
+  {
+    "id": "w8",
+    "text": "investment",
+    "start": 2.96,
+    "end": 3.44
+  },
+  {
+    "id": "w9",
+    "text": "he",
+    "start": 3.44,
+    "end": 3.68
+  },
+  {
+    "id": "w10",
+    "text": "ever",
+    "start": 3.68,
+    "end": 3.84
+  },
+  {
+    "id": "w11",
+    "text": "made.",
+    "start": 3.84,
+    "end": 4.24
+  }
+]

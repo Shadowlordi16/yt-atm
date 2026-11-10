@@ -1,0 +1,68 @@
+[
+ {
+  "id": "w0",
+  "text": "Nokia",
+  "start": 0.0,
+  "end": 0.24
+ },
+ {
+  "id": "w1",
+  "text": "phones",
+  "start": 0.24,
+  "end": 0.7
+ },
+ {
+  "id": "w2",
+  "text": "were",
+  "start": 0.7,
+  "end": 0.98
+ },
+ {
+  "id": "w3",
+  "text": "simple,",
+  "start": 0.98,
+  "end": 1.22
+ },
+ {
+  "id": "w4",
+  "text": "tough,",
+  "start": 1.64,
+  "end": 1.84
+ },
+ {
+  "id": "w5",
+  "text": "and",
+  "start": 2.26,
+  "end": 2.38
+ },
+ {
+  "id": "w6",
+  "text": "cheap",
+  "start": 2.38,
+  "end": 2.58
+ },
+ {
+  "id": "w7",
+  "text": "enough",
+  "start": 2.58,
+  "end": 2.84
+ },
+ {
+  "id": "w8",
+  "text": "for",
+  "start": 2.84,
+  "end": 3.06
+ },
+ {
+  "id": "w9",
+  "text": "almost",
+  "start": 3.06,
+  "end": 3.26
+ },
+ {
+  "id": "w10",
+  "text": "anyone.",
+  "start": 3.26,
+  "end": 3.82
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "id": "w0",
+  "text": "Sears",
+  "start": 0.0,
+  "end": 0.2
+ },
+ {
+  "id": "w1",
+  "text": "started",
+  "start": 0.2,
+  "end": 0.74
+ },
+ {
+  "id": "w2",
+  "text": "in",
+  "start": 0.74,
+  "end": 0.94
+ },
+ {
+  "id": "w3",
+  "text": "1892,",
+  "start": 0.94,
+  "end": 1.88
+ },
+ {
+  "id": "w4",
+  "text": "selling",
+  "start": 2.34,
+  "end": 2.7
+ },
+ {
+  "id": "w5",
+  "text": "watches",
+  "start": 2.7,
+  "end": 3.06
+ },
+ {
+  "id": "w6",
+  "text": "by",
+  "start": 3.06,
+  "end": 3.46
+ },
+ {
+  "id": "w7",
+  "text": "mail",
+  "start": 3.46,
+  "end": 3.74
+ },
+ {
+  "id": "w8",
+  "text": "with",
+  "start": 3.74,
+  "end": 3.94
+ },
+ {
+  "id": "w9",
+  "text": "a",
+  "start": 3.94,
+  "end": 4.02
+ },
+ {
+  "id": "w10",
+  "text": "partner",
+  "start": 4.02,
+  "end": 4.32
+ },
+ {
+  "id": "w11",
+  "text": "named",
+  "start": 4.32,
+  "end": 4.72
+ },
+ {
+  "id": "w12",
+  "text": "Alva",
+  "start": 4.72,
+  "end": 5.18
+ },
+ {
+  "id": "w13",
+  "text": "Robuck.",
+  "start": 5.18,
+  "end": 5.66
+ }
+]

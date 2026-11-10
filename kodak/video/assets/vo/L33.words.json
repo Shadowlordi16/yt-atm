@@ -1,0 +1,122 @@
+[
+  {
+    "id": "w0",
+    "text": "Film",
+    "start": 0,
+    "end": 0.48
+  },
+  {
+    "id": "w1",
+    "text": "sold",
+    "start": 0.48,
+    "end": 0.88
+  },
+  {
+    "id": "w2",
+    "text": "every",
+    "start": 0.88,
+    "end": 1.12
+  },
+  {
+    "id": "w3",
+    "text": "single",
+    "start": 1.12,
+    "end": 1.52
+  },
+  {
+    "id": "w4",
+    "text": "time",
+    "start": 1.52,
+    "end": 1.76
+  },
+  {
+    "id": "w5",
+    "text": "you",
+    "start": 1.76,
+    "end": 1.92
+  },
+  {
+    "id": "w6",
+    "text": "took",
+    "start": 1.92,
+    "end": 2.24
+  },
+  {
+    "id": "w7",
+    "text": "a",
+    "start": 2.24,
+    "end": 2.32
+  },
+  {
+    "id": "w8",
+    "text": "picture.",
+    "start": 2.32,
+    "end": 2.96
+  },
+  {
+    "id": "w9",
+    "text": "Kodak",
+    "start": 2.96,
+    "end": 3.84
+  },
+  {
+    "id": "w10",
+    "text": "was",
+    "start": 3.84,
+    "end": 3.92
+  },
+  {
+    "id": "w11",
+    "text": "winning",
+    "start": 3.92,
+    "end": 4.24
+  },
+  {
+    "id": "w12",
+    "text": "a",
+    "start": 4.24,
+    "end": 4.32
+  },
+  {
+    "id": "w13",
+    "text": "race",
+    "start": 4.32,
+    "end": 4.64
+  },
+  {
+    "id": "w14",
+    "text": "where",
+    "start": 4.64,
+    "end": 4.8
+  },
+  {
+    "id": "w15",
+    "text": "the",
+    "start": 4.8,
+    "end": 4.88
+  },
+  {
+    "id": "w16",
+    "text": "prize",
+    "start": 4.88,
+    "end": 5.28
+  },
+  {
+    "id": "w17",
+    "text": "was",
+    "start": 5.28,
+    "end": 5.44
+  },
+  {
+    "id": "w18",
+    "text": "much",
+    "start": 5.44,
+    "end": 5.68
+  },
+  {
+    "id": "w19",
+    "text": "smaller.",
+    "start": 5.68,
+    "end": 6.24
+  }
+]

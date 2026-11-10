@@ -1,0 +1,68 @@
+[
+ {
+  "id": "w0",
+  "text": "That",
+  "start": 0.0,
+  "end": 0.12
+ },
+ {
+  "id": "w1",
+  "text": "number",
+  "start": 0.12,
+  "end": 0.36
+ },
+ {
+  "id": "w2",
+  "text": "sits",
+  "start": 0.36,
+  "end": 0.62
+ },
+ {
+  "id": "w3",
+  "text": "on",
+  "start": 0.62,
+  "end": 0.86
+ },
+ {
+  "id": "w4",
+  "text": "the",
+  "start": 0.86,
+  "end": 0.96
+ },
+ {
+  "id": "w5",
+  "text": "books",
+  "start": 0.96,
+  "end": 1.18
+ },
+ {
+  "id": "w6",
+  "text": "whether",
+  "start": 1.18,
+  "end": 1.46
+ },
+ {
+  "id": "w7",
+  "text": "he",
+  "start": 1.46,
+  "end": 1.62
+ },
+ {
+  "id": "w8",
+  "text": "plays",
+  "start": 1.62,
+  "end": 1.88
+ },
+ {
+  "id": "w9",
+  "text": "or",
+  "start": 1.88,
+  "end": 2.2
+ },
+ {
+  "id": "w10",
+  "text": "not.",
+  "start": 2.2,
+  "end": 2.48
+ }
+]

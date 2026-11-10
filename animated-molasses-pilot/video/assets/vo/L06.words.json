@@ -1,0 +1,110 @@
+[
+ {
+  "id": "w0",
+  "text": "Neighbors",
+  "start": 0.0,
+  "end": 0.34
+ },
+ {
+  "id": "w1",
+  "text": "heard",
+  "start": 0.34,
+  "end": 0.58
+ },
+ {
+  "id": "w2",
+  "text": "the",
+  "start": 0.58,
+  "end": 0.76
+ },
+ {
+  "id": "w3",
+  "text": "tank",
+  "start": 0.76,
+  "end": 0.96
+ },
+ {
+  "id": "w4",
+  "text": "groan",
+  "start": 0.96,
+  "end": 1.56
+ },
+ {
+  "id": "w5",
+  "text": "and",
+  "start": 1.56,
+  "end": 1.64
+ },
+ {
+  "id": "w6",
+  "text": "watched",
+  "start": 1.64,
+  "end": 1.86
+ },
+ {
+  "id": "w7",
+  "text": "it",
+  "start": 1.86,
+  "end": 2.16
+ },
+ {
+  "id": "w8",
+  "text": "leak.",
+  "start": 2.16,
+  "end": 2.38
+ },
+ {
+  "id": "w9",
+  "text": "The",
+  "start": 3.0,
+  "end": 3.08
+ },
+ {
+  "id": "w10",
+  "text": "company",
+  "start": 3.08,
+  "end": 3.36
+ },
+ {
+  "id": "w11",
+  "text": "painted",
+  "start": 3.36,
+  "end": 3.78
+ },
+ {
+  "id": "w12",
+  "text": "it",
+  "start": 3.78,
+  "end": 3.98
+ },
+ {
+  "id": "w13",
+  "text": "brown",
+  "start": 3.98,
+  "end": 4.24
+ },
+ {
+  "id": "w14",
+  "text": "to",
+  "start": 4.24,
+  "end": 4.56
+ },
+ {
+  "id": "w15",
+  "text": "hide",
+  "start": 4.56,
+  "end": 4.74
+ },
+ {
+  "id": "w16",
+  "text": "the",
+  "start": 4.74,
+  "end": 4.98
+ },
+ {
+  "id": "w17",
+  "text": "leaks.",
+  "start": 4.98,
+  "end": 5.14
+ }
+]

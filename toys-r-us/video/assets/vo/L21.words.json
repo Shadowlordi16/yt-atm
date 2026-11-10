@@ -1,0 +1,26 @@
+[
+ {
+  "id": "w0",
+  "text": "Then",
+  "start": 0.0,
+  "end": 0.26
+ },
+ {
+  "id": "w1",
+  "text": "came",
+  "start": 0.26,
+  "end": 0.52
+ },
+ {
+  "id": "w2",
+  "text": "the",
+  "start": 0.52,
+  "end": 0.72
+ },
+ {
+  "id": "w3",
+  "text": "internet.",
+  "start": 0.72,
+  "end": 1.04
+ }
+]

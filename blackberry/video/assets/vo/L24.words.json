@@ -1,0 +1,140 @@
+[
+ {
+  "id": "w0",
+  "text": "A",
+  "start": 0.0,
+  "end": 0.08
+ },
+ {
+  "id": "w1",
+  "text": "computer",
+  "start": 0.08,
+  "end": 0.4
+ },
+ {
+  "id": "w2",
+  "text": "needs",
+  "start": 0.4,
+  "end": 0.72
+ },
+ {
+  "id": "w3",
+  "text": "the",
+  "start": 0.72,
+  "end": 1.0
+ },
+ {
+  "id": "w4",
+  "text": "whole",
+  "start": 1.0,
+  "end": 1.14
+ },
+ {
+  "id": "w5",
+  "text": "front",
+  "start": 1.14,
+  "end": 1.5
+ },
+ {
+  "id": "w6",
+  "text": "of",
+  "start": 1.5,
+  "end": 1.62
+ },
+ {
+  "id": "w7",
+  "text": "the",
+  "start": 1.62,
+  "end": 1.72
+ },
+ {
+  "id": "w8",
+  "text": "phone",
+  "start": 1.72,
+  "end": 1.92
+ },
+ {
+  "id": "w9",
+  "text": "to",
+  "start": 1.92,
+  "end": 2.26
+ },
+ {
+  "id": "w10",
+  "text": "be",
+  "start": 2.26,
+  "end": 2.38
+ },
+ {
+  "id": "w11",
+  "text": "screened.",
+  "start": 2.38,
+  "end": 2.66
+ },
+ {
+  "id": "w12",
+  "text": "A",
+  "start": 3.52,
+  "end": 3.58
+ },
+ {
+  "id": "w13",
+  "text": "keyboard",
+  "start": 3.58,
+  "end": 3.86
+ },
+ {
+  "id": "w14",
+  "text": "needs",
+  "start": 3.86,
+  "end": 4.26
+ },
+ {
+  "id": "w15",
+  "text": "the",
+  "start": 4.26,
+  "end": 4.54
+ },
+ {
+  "id": "w16",
+  "text": "front",
+  "start": 4.54,
+  "end": 4.76
+ },
+ {
+  "id": "w17",
+  "text": "of",
+  "start": 4.76,
+  "end": 4.9
+ },
+ {
+  "id": "w18",
+  "text": "the",
+  "start": 4.9,
+  "end": 5.0
+ },
+ {
+  "id": "w19",
+  "text": "phone",
+  "start": 5.0,
+  "end": 5.22
+ },
+ {
+  "id": "w20",
+  "text": "to",
+  "start": 5.22,
+  "end": 5.56
+ },
+ {
+  "id": "w21",
+  "text": "be",
+  "start": 5.56,
+  "end": 5.68
+ },
+ {
+  "id": "w22",
+  "text": "keyboard.",
+  "start": 5.68,
+  "end": 6.06
+ }
+]

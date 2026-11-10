@@ -1,0 +1,80 @@
+[
+ {
+  "id": "w0",
+  "text": "and",
+  "start": 0.0,
+  "end": 0.12
+ },
+ {
+  "id": "w1",
+  "text": "Sears",
+  "start": 0.12,
+  "end": 0.32
+ },
+ {
+  "id": "w2",
+  "text": "did",
+  "start": 0.32,
+  "end": 0.74
+ },
+ {
+  "id": "w3",
+  "text": "not",
+  "start": 0.74,
+  "end": 0.92
+ },
+ {
+  "id": "w4",
+  "text": "just",
+  "start": 0.92,
+  "end": 1.08
+ },
+ {
+  "id": "w5",
+  "text": "sell",
+  "start": 1.08,
+  "end": 1.34
+ },
+ {
+  "id": "w6",
+  "text": "other",
+  "start": 1.34,
+  "end": 1.64
+ },
+ {
+  "id": "w7",
+  "text": "people's",
+  "start": 1.64,
+  "end": 2.12
+ },
+ {
+  "id": "w8",
+  "text": "products,",
+  "start": 2.12,
+  "end": 2.36
+ },
+ {
+  "id": "w9",
+  "text": "it",
+  "start": 3.04,
+  "end": 3.18
+ },
+ {
+  "id": "w10",
+  "text": "made",
+  "start": 3.18,
+  "end": 3.32
+ },
+ {
+  "id": "w11",
+  "text": "its",
+  "start": 3.32,
+  "end": 3.54
+ },
+ {
+  "id": "w12",
+  "text": "own.",
+  "start": 3.54,
+  "end": 3.84
+ }
+]

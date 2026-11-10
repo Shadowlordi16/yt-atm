@@ -1,0 +1,104 @@
+[
+ {
+  "id": "w0",
+  "text": "Then",
+  "start": 0.0,
+  "end": 0.16
+ },
+ {
+  "id": "w1",
+  "text": "Sears",
+  "start": 0.16,
+  "end": 0.36
+ },
+ {
+  "id": "w2",
+  "text": "did",
+  "start": 0.36,
+  "end": 0.76
+ },
+ {
+  "id": "w3",
+  "text": "something",
+  "start": 0.76,
+  "end": 0.98
+ },
+ {
+  "id": "w4",
+  "text": "smart,",
+  "start": 0.98,
+  "end": 1.56
+ },
+ {
+  "id": "w5",
+  "text": "it",
+  "start": 2.06,
+  "end": 2.14
+ },
+ {
+  "id": "w6",
+  "text": "opened",
+  "start": 2.14,
+  "end": 2.32
+ },
+ {
+  "id": "w7",
+  "text": "stores.",
+  "start": 2.32,
+  "end": 2.9
+ },
+ {
+  "id": "w8",
+  "text": "By",
+  "start": 3.74,
+  "end": 3.84
+ },
+ {
+  "id": "w9",
+  "text": "1925,",
+  "start": 3.84,
+  "end": 4.4
+ },
+ {
+  "id": "w10",
+  "text": "the",
+  "start": 4.48,
+  "end": 5.04
+ },
+ {
+  "id": "w11",
+  "text": "catalog",
+  "start": 5.04,
+  "end": 5.3
+ },
+ {
+  "id": "w12",
+  "text": "finally",
+  "start": 5.3,
+  "end": 5.96
+ },
+ {
+  "id": "w13",
+  "text": "had",
+  "start": 5.96,
+  "end": 6.3
+ },
+ {
+  "id": "w14",
+  "text": "a",
+  "start": 6.3,
+  "end": 6.38
+ },
+ {
+  "id": "w15",
+  "text": "front",
+  "start": 6.38,
+  "end": 6.58
+ },
+ {
+  "id": "w16",
+  "text": "door.",
+  "start": 6.58,
+  "end": 6.98
+ }
+]

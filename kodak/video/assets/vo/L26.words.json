@@ -1,0 +1,50 @@
+[
+  {
+    "id": "w0",
+    "text": "Kodak",
+    "start": 0,
+    "end": 0.56
+  },
+  {
+    "id": "w1",
+    "text": "knew,",
+    "start": 0.64,
+    "end": 0.96
+  },
+  {
+    "id": "w2",
+    "text": "the",
+    "start": 0.96,
+    "end": 1.12
+  },
+  {
+    "id": "w3",
+    "text": "problem",
+    "start": 1.12,
+    "end": 1.44
+  },
+  {
+    "id": "w4",
+    "text": "was",
+    "start": 1.44,
+    "end": 1.6
+  },
+  {
+    "id": "w5",
+    "text": "what",
+    "start": 1.6,
+    "end": 1.84
+  },
+  {
+    "id": "w6",
+    "text": "knowing",
+    "start": 1.84,
+    "end": 2.24
+  },
+  {
+    "id": "w7",
+    "text": "meant.",
+    "start": 2.24,
+    "end": 2.64
+  }
+]

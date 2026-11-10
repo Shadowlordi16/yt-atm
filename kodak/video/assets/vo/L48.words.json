@@ -1,0 +1,56 @@
+[
+  {
+    "id": "w0",
+    "text": "They",
+    "start": 0,
+    "end": 0.24
+  },
+  {
+    "id": "w1",
+    "text": "sold",
+    "start": 0.24,
+    "end": 0.64
+  },
+  {
+    "id": "w2",
+    "text": "for",
+    "start": 0.64,
+    "end": 0.88
+  },
+  {
+    "id": "w3",
+    "text": "about",
+    "start": 0.88,
+    "end": 1.12
+  },
+  {
+    "id": "w4",
+    "text": "five",
+    "start": 1.12,
+    "end": 1.44
+  },
+  {
+    "id": "w5",
+    "text": "hundred",
+    "start": 1.44,
+    "end": 1.68
+  },
+  {
+    "id": "w6",
+    "text": "twenty",
+    "start": 1.76,
+    "end": 2
+  },
+  {
+    "id": "w7",
+    "text": "five",
+    "start": 2,
+    "end": 2.24
+  },
+  {
+    "id": "w8",
+    "text": "million.",
+    "start": 2.24,
+    "end": 2.72
+  }
+]

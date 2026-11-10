@@ -1,0 +1,68 @@
+[
+ {
+  "id": "w0",
+  "text": "Barcelona",
+  "start": 0.0,
+  "end": 0.36
+ },
+ {
+  "id": "w1",
+  "text": "bet",
+  "start": 0.36,
+  "end": 0.86
+ },
+ {
+  "id": "w2",
+  "text": "big",
+  "start": 0.86,
+  "end": 1.14
+ },
+ {
+  "id": "w3",
+  "text": "they",
+  "start": 1.14,
+  "end": 1.48
+ },
+ {
+  "id": "w4",
+  "text": "lost,",
+  "start": 1.48,
+  "end": 1.78
+ },
+ {
+  "id": "w5",
+  "text": "the",
+  "start": 2.24,
+  "end": 2.42
+ },
+ {
+  "id": "w6",
+  "text": "pay",
+  "start": 2.42,
+  "end": 2.58
+ },
+ {
+  "id": "w7",
+  "text": "plan",
+  "start": 2.58,
+  "end": 2.9
+ },
+ {
+  "id": "w8",
+  "text": "is",
+  "start": 2.9,
+  "end": 3.08
+ },
+ {
+  "id": "w9",
+  "text": "still",
+  "start": 3.08,
+  "end": 3.3
+ },
+ {
+  "id": "w10",
+  "text": "running.",
+  "start": 3.3,
+  "end": 3.62
+ }
+]

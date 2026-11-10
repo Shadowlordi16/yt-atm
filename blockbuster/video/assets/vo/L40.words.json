@@ -1,0 +1,110 @@
+[
+  {
+    "id": "w0",
+    "text": "In",
+    "start": 0,
+    "end": 0.24
+  },
+  {
+    "id": "w1",
+    "text": "July",
+    "start": 0.24,
+    "end": 0.72
+  },
+  {
+    "id": "w2",
+    "text": "2007,",
+    "start": 0.72,
+    "end": 1.92
+  },
+  {
+    "id": "w3",
+    "text": "after",
+    "start": 1.92,
+    "end": 2.24
+  },
+  {
+    "id": "w4",
+    "text": "a",
+    "start": 2.24,
+    "end": 2.32
+  },
+  {
+    "id": "w5",
+    "text": "fight",
+    "start": 2.32,
+    "end": 2.64
+  },
+  {
+    "id": "w6",
+    "text": "over",
+    "start": 2.64,
+    "end": 2.88
+  },
+  {
+    "id": "w7",
+    "text": "his",
+    "start": 2.88,
+    "end": 3.04
+  },
+  {
+    "id": "w8",
+    "text": "bonus,",
+    "start": 3.04,
+    "end": 3.68
+  },
+  {
+    "id": "w9",
+    "text": "Antioco",
+    "start": 3.68,
+    "end": 4.64
+  },
+  {
+    "id": "w10",
+    "text": "left",
+    "start": 4.64,
+    "end": 4.88
+  },
+  {
+    "id": "w11",
+    "text": "the",
+    "start": 4.88,
+    "end": 4.96
+  },
+  {
+    "id": "w12",
+    "text": "company",
+    "start": 4.96,
+    "end": 5.36
+  },
+  {
+    "id": "w13",
+    "text": "with",
+    "start": 5.36,
+    "end": 5.6
+  },
+  {
+    "id": "w14",
+    "text": "a",
+    "start": 5.6,
+    "end": 5.76
+  },
+  {
+    "id": "w15",
+    "text": "$4.7",
+    "start": 5.76,
+    "end": 6.88
+  },
+  {
+    "id": "w16",
+    "text": "million",
+    "start": 7.04,
+    "end": 7.44
+  },
+  {
+    "id": "w17",
+    "text": "severance.",
+    "start": 7.68,
+    "end": 8.4
+  }
+]

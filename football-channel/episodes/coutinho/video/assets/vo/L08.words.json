@@ -1,0 +1,80 @@
+[
+ {
+  "id": "w0",
+  "text": "A",
+  "start": 0.0,
+  "end": 0.08
+ },
+ {
+  "id": "w1",
+  "text": "five",
+  "start": 0.08,
+  "end": 0.28
+ },
+ {
+  "id": "w2",
+  "text": "-year",
+  "start": 0.28,
+  "end": 0.54
+ },
+ {
+  "id": "w3",
+  "text": "contract",
+  "start": 0.54,
+  "end": 0.92
+ },
+ {
+  "id": "w4",
+  "text": "turns",
+  "start": 0.92,
+  "end": 1.6
+ },
+ {
+  "id": "w5",
+  "text": "$142",
+  "start": 1.6,
+  "end": 2.98
+ },
+ {
+  "id": "w6",
+  "text": "million",
+  "start": 2.98,
+  "end": 3.56
+ },
+ {
+  "id": "w7",
+  "text": "into",
+  "start": 3.56,
+  "end": 3.86
+ },
+ {
+  "id": "w8",
+  "text": "about",
+  "start": 3.86,
+  "end": 4.06
+ },
+ {
+  "id": "w9",
+  "text": "$28",
+  "start": 4.06,
+  "end": 4.72
+ },
+ {
+  "id": "w10",
+  "text": "million",
+  "start": 4.72,
+  "end": 5.18
+ },
+ {
+  "id": "w11",
+  "text": "a",
+  "start": 5.18,
+  "end": 5.3
+ },
+ {
+  "id": "w12",
+  "text": "year.",
+  "start": 5.3,
+  "end": 5.52
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "id": "w0",
+  "text": "Without",
+  "start": 0.0,
+  "end": 0.26
+ },
+ {
+  "id": "w1",
+  "text": "toys",
+  "start": 0.26,
+  "end": 0.5
+ },
+ {
+  "id": "w2",
+  "text": "on",
+  "start": 0.5,
+  "end": 0.86
+ },
+ {
+  "id": "w3",
+  "text": "the",
+  "start": 0.86,
+  "end": 0.98
+ },
+ {
+  "id": "w4",
+  "text": "shelves",
+  "start": 0.98,
+  "end": 1.26
+ },
+ {
+  "id": "w5",
+  "text": "at",
+  "start": 1.26,
+  "end": 1.52
+ },
+ {
+  "id": "w6",
+  "text": "Christmas,",
+  "start": 1.52,
+  "end": 1.84
+ },
+ {
+  "id": "w7",
+  "text": "a",
+  "start": 2.46,
+  "end": 2.52
+ },
+ {
+  "id": "w8",
+  "text": "toy",
+  "start": 2.52,
+  "end": 2.74
+ },
+ {
+  "id": "w9",
+  "text": "store",
+  "start": 2.74,
+  "end": 3.1
+ },
+ {
+  "id": "w10",
+  "text": "has",
+  "start": 3.1,
+  "end": 3.38
+ },
+ {
+  "id": "w11",
+  "text": "nothing.",
+  "start": 3.38,
+  "end": 3.76
+ }
+]

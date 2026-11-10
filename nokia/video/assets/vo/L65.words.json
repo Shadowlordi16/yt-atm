@@ -1,0 +1,104 @@
+[
+ {
+  "id": "w0",
+  "text": "The",
+  "start": 0.0,
+  "end": 0.1
+ },
+ {
+  "id": "w1",
+  "text": "iPhone",
+  "start": 0.1,
+  "end": 0.38
+ },
+ {
+  "id": "w2",
+  "text": "didn't",
+  "start": 0.38,
+  "end": 1.02
+ },
+ {
+  "id": "w3",
+  "text": "kill",
+  "start": 1.02,
+  "end": 1.18
+ },
+ {
+  "id": "w4",
+  "text": "Nokia's",
+  "start": 1.18,
+  "end": 1.78
+ },
+ {
+  "id": "w5",
+  "text": "phones",
+  "start": 1.78,
+  "end": 1.98
+ },
+ {
+  "id": "w6",
+  "text": "on",
+  "start": 1.98,
+  "end": 2.34
+ },
+ {
+  "id": "w7",
+  "text": "its",
+  "start": 2.34,
+  "end": 2.48
+ },
+ {
+  "id": "w8",
+  "text": "own.",
+  "start": 2.48,
+  "end": 2.74
+ },
+ {
+  "id": "w9",
+  "text": "Nokia",
+  "start": 3.32,
+  "end": 3.62
+ },
+ {
+  "id": "w10",
+  "text": "was",
+  "start": 3.62,
+  "end": 3.82
+ },
+ {
+  "id": "w11",
+  "text": "still",
+  "start": 3.82,
+  "end": 4.02
+ },
+ {
+  "id": "w12",
+  "text": "on",
+  "start": 4.02,
+  "end": 4.2
+ },
+ {
+  "id": "w13",
+  "text": "top",
+  "start": 4.2,
+  "end": 4.46
+ },
+ {
+  "id": "w14",
+  "text": "four",
+  "start": 4.46,
+  "end": 4.84
+ },
+ {
+  "id": "w15",
+  "text": "years",
+  "start": 4.84,
+  "end": 5.18
+ },
+ {
+  "id": "w16",
+  "text": "later.",
+  "start": 5.18,
+  "end": 5.5
+ }
+]

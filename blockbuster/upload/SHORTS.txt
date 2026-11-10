@@ -1,0 +1,46 @@
+BLOCKBUSTER SHORTS: upload each, then in YouTube Studio set 'Related video' to the full Blockbuster video.
+
+======== short.mp4 ========
+FILE: ~/Videos/yt-atm/blockbuster/video/renders/short.mp4
+TITLE: Blockbuster Could Have Bought Netflix for $50 Million #shorts
+DESCRIPTION:
+In 2000, Netflix's founders offered to sell for $50 million. Blockbuster said no. But that's not the whole story. Full video on the channel: Paper Empire.
+
+#shorts #blockbuster #netflix #businesshistory
+SCHEDULE: Wed Nov 11, 6:00 PM
+
+======== short-2-late-fees.mp4 ========
+FILE: ~/Videos/yt-atm/blockbuster/video/renders/short-2-late-fees.mp4
+TITLE: Blockbuster Made $800 Million From Late Fees #shorts
+DESCRIPTION:
+In 2000, late fees brought Blockbuster about $800 million, 16% of its revenue. Then a startup promised: no late fees, ever. Full video on the channel: Paper Empire.
+
+#shorts #blockbuster #netflix #businesshistory
+SCHEDULE: Mon Nov 16, 6:00 PM
+
+======== short-3-total-access.mp4 ========
+FILE: ~/Videos/yt-atm/blockbuster/video/renders/short-3-total-access.mp4
+TITLE: Blockbuster Built the One Thing Netflix Couldn't Copy #shorts
+DESCRIPTION:
+Total Access: rent online, return to any store, walk out with a free movie. By the end of 2006 it had 2.2 million customers. Full video on the channel: Paper Empire.
+
+#shorts #blockbuster #netflix #businesshistory
+SCHEDULE: Fri Nov 20, 6:00 PM
+
+======== short-4-boardroom.mp4 ========
+FILE: ~/Videos/yt-atm/blockbuster/video/renders/short-4-boardroom.mp4
+TITLE: The Boardroom Fight That Sank Blockbuster #shorts
+DESCRIPTION:
+Carl Icahn won seats on Blockbuster's board in 2005. Two years later, the CEO who built its Netflix rival was out. Full video on the channel: Paper Empire.
+
+#shorts #blockbuster #netflix #businesshistory
+SCHEDULE: Sun Nov 22, 6:00 PM
+
+======== short-5-last-store.mp4 ========
+FILE: ~/Videos/yt-atm/blockbuster/video/renders/short-5-last-store.mp4
+TITLE: There Is Only One Blockbuster Left on Earth #shorts
+DESCRIPTION:
+From $8.4 billion in 1994 to about $320 million in 2011. Today, one franchise store in Bend, Oregon is all that's left. Full video on the channel: Paper Empire.
+
+#shorts #blockbuster #netflix #businesshistory
+SCHEDULE: Mon Nov 23, 6:00 PM

@@ -1,0 +1,110 @@
+[
+ {
+  "id": "w0",
+  "text": "When",
+  "start": 0.0,
+  "end": 0.1
+ },
+ {
+  "id": "w1",
+  "text": "the",
+  "start": 0.1,
+  "end": 0.2
+ },
+ {
+  "id": "w2",
+  "text": "building",
+  "start": 0.2,
+  "end": 0.44
+ },
+ {
+  "id": "w3",
+  "text": "is",
+  "start": 0.44,
+  "end": 0.74
+ },
+ {
+  "id": "w4",
+  "text": "gone,",
+  "start": 0.74,
+  "end": 1.04
+ },
+ {
+  "id": "w5",
+  "text": "there",
+  "start": 1.54,
+  "end": 1.62
+ },
+ {
+  "id": "w6",
+  "text": "is",
+  "start": 1.62,
+  "end": 1.74
+ },
+ {
+  "id": "w7",
+  "text": "nothing",
+  "start": 1.74,
+  "end": 2.0
+ },
+ {
+  "id": "w8",
+  "text": "left",
+  "start": 2.0,
+  "end": 2.3
+ },
+ {
+  "id": "w9",
+  "text": "to",
+  "start": 2.3,
+  "end": 2.52
+ },
+ {
+  "id": "w10",
+  "text": "borrow",
+  "start": 2.52,
+  "end": 2.7
+ },
+ {
+  "id": "w11",
+  "text": "against,",
+  "start": 2.7,
+  "end": 3.24
+ },
+ {
+  "id": "w12",
+  "text": "and",
+  "start": 3.8,
+  "end": 3.84
+ },
+ {
+  "id": "w13",
+  "text": "nowhere",
+  "start": 3.84,
+  "end": 4.06
+ },
+ {
+  "id": "w14",
+  "text": "left",
+  "start": 4.06,
+  "end": 4.38
+ },
+ {
+  "id": "w15",
+  "text": "to",
+  "start": 4.38,
+  "end": 4.6
+ },
+ {
+  "id": "w16",
+  "text": "sell",
+  "start": 4.6,
+  "end": 4.8
+ },
+ {
+  "id": "w17",
+  "text": "from.",
+  "start": 4.8,
+  "end": 5.14
+ }
+]

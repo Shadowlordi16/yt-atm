@@ -1,0 +1,116 @@
+[
+ {
+  "id": "w0",
+  "text": "In",
+  "start": 0.0,
+  "end": 0.08
+ },
+ {
+  "id": "w1",
+  "text": "early",
+  "start": 0.08,
+  "end": 0.26
+ },
+ {
+  "id": "w2",
+  "text": "2012,",
+  "start": 0.26,
+  "end": 0.82
+ },
+ {
+  "id": "w3",
+  "text": "the",
+  "start": 0.82,
+  "end": 1.54
+ },
+ {
+  "id": "w4",
+  "text": "two",
+  "start": 1.54,
+  "end": 1.7
+ },
+ {
+  "id": "w5",
+  "text": "men",
+  "start": 1.7,
+  "end": 1.94
+ },
+ {
+  "id": "w6",
+  "text": "who",
+  "start": 1.94,
+  "end": 2.1
+ },
+ {
+  "id": "w7",
+  "text": "ran",
+  "start": 2.1,
+  "end": 2.28
+ },
+ {
+  "id": "w8",
+  "text": "the",
+  "start": 2.28,
+  "end": 2.48
+ },
+ {
+  "id": "w9",
+  "text": "company",
+  "start": 2.48,
+  "end": 2.78
+ },
+ {
+  "id": "w10",
+  "text": "stepped",
+  "start": 2.78,
+  "end": 3.1
+ },
+ {
+  "id": "w11",
+  "text": "down",
+  "start": 3.1,
+  "end": 3.5
+ },
+ {
+  "id": "w12",
+  "text": "in",
+  "start": 3.5,
+  "end": 3.84
+ },
+ {
+  "id": "w13",
+  "text": "one",
+  "start": 3.84,
+  "end": 4.02
+ },
+ {
+  "id": "w14",
+  "text": "afternoon.",
+  "start": 4.02,
+  "end": 4.5
+ },
+ {
+  "id": "w15",
+  "text": "Thorsten",
+  "start": 5.4,
+  "end": 5.76
+ },
+ {
+  "id": "w16",
+  "text": "Hines",
+  "start": 5.76,
+  "end": 6.2
+ },
+ {
+  "id": "w17",
+  "text": "took",
+  "start": 6.2,
+  "end": 6.48
+ },
+ {
+  "id": "w18",
+  "text": "over.",
+  "start": 6.48,
+  "end": 6.8
+ }
+]

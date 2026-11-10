@@ -1,0 +1,92 @@
+[
+  {
+    "id": "w0",
+    "text": "Rent",
+    "start": 0,
+    "end": 0.48
+  },
+  {
+    "id": "w1",
+    "text": "online?",
+    "start": 0.48,
+    "end": 1.12
+  },
+  {
+    "id": "w2",
+    "text": "Return",
+    "start": 1.12,
+    "end": 1.52
+  },
+  {
+    "id": "w3",
+    "text": "the",
+    "start": 1.52,
+    "end": 1.68
+  },
+  {
+    "id": "w4",
+    "text": "DVD",
+    "start": 1.68,
+    "end": 2.16
+  },
+  {
+    "id": "w5",
+    "text": "to",
+    "start": 2.16,
+    "end": 2.32
+  },
+  {
+    "id": "w6",
+    "text": "any",
+    "start": 2.32,
+    "end": 2.48
+  },
+  {
+    "id": "w7",
+    "text": "blockbuster",
+    "start": 2.48,
+    "end": 3.28
+  },
+  {
+    "id": "w8",
+    "text": "store.",
+    "start": 3.28,
+    "end": 3.84
+  },
+  {
+    "id": "w9",
+    "text": "Walk",
+    "start": 3.84,
+    "end": 4.16
+  },
+  {
+    "id": "w10",
+    "text": "out",
+    "start": 4.16,
+    "end": 4.32
+  },
+  {
+    "id": "w11",
+    "text": "with",
+    "start": 4.32,
+    "end": 4.48
+  },
+  {
+    "id": "w12",
+    "text": "a",
+    "start": 4.48,
+    "end": 4.56
+  },
+  {
+    "id": "w13",
+    "text": "free",
+    "start": 4.56,
+    "end": 4.8
+  },
+  {
+    "id": "w14",
+    "text": "movie.",
+    "start": 4.8,
+    "end": 5.2
+  }
+]

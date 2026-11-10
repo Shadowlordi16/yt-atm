@@ -1,0 +1,80 @@
+[
+  {
+    "id": "w0",
+    "text": "That",
+    "start": 0,
+    "end": 0.24
+  },
+  {
+    "id": "w1",
+    "text": "same",
+    "start": 0.24,
+    "end": 0.48
+  },
+  {
+    "id": "w2",
+    "text": "year",
+    "start": 0.48,
+    "end": 0.72
+  },
+  {
+    "id": "w3",
+    "text": "it",
+    "start": 0.8,
+    "end": 0.96
+  },
+  {
+    "id": "w4",
+    "text": "got",
+    "start": 0.96,
+    "end": 1.12
+  },
+  {
+    "id": "w5",
+    "text": "its",
+    "start": 1.12,
+    "end": 1.36
+  },
+  {
+    "id": "w6",
+    "text": "own",
+    "start": 1.36,
+    "end": 1.6
+  },
+  {
+    "id": "w7",
+    "text": "documentary.",
+    "start": 1.6,
+    "end": 2.56
+  },
+  {
+    "id": "w8",
+    "text": "It's",
+    "start": 2.56,
+    "end": 2.8
+  },
+  {
+    "id": "w9",
+    "text": "called",
+    "start": 2.8,
+    "end": 3.12
+  },
+  {
+    "id": "w10",
+    "text": "The",
+    "start": 3.12,
+    "end": 3.28
+  },
+  {
+    "id": "w11",
+    "text": "Last",
+    "start": 3.28,
+    "end": 3.6
+  },
+  {
+    "id": "w12",
+    "text": "Blockbuster.",
+    "start": 3.6,
+    "end": 4.48
+  }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "id": "w0",
+  "text": "Everyone",
+  "start": 0.0,
+  "end": 0.26
+ },
+ {
+  "id": "w1",
+  "text": "tells",
+  "start": 0.26,
+  "end": 0.66
+ },
+ {
+  "id": "w2",
+  "text": "the",
+  "start": 0.66,
+  "end": 0.88
+ },
+ {
+  "id": "w3",
+  "text": "same",
+  "start": 0.88,
+  "end": 1.12
+ },
+ {
+  "id": "w4",
+  "text": "story,",
+  "start": 1.12,
+  "end": 1.6
+ },
+ {
+  "id": "w5",
+  "text": "Sears",
+  "start": 2.02,
+  "end": 2.2
+ },
+ {
+  "id": "w6",
+  "text": "missed",
+  "start": 2.2,
+  "end": 2.6
+ },
+ {
+  "id": "w7",
+  "text": "the",
+  "start": 2.6,
+  "end": 2.86
+ },
+ {
+  "id": "w8",
+  "text": "internet.",
+  "start": 2.86,
+  "end": 3.1
+ }
+]

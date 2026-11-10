@@ -1,0 +1,134 @@
+[
+ {
+  "id": "w0",
+  "text": "A",
+  "start": 0.0,
+  "end": 0.08
+ },
+ {
+  "id": "w1",
+  "text": "paper",
+  "start": 0.08,
+  "end": 0.26
+ },
+ {
+  "id": "w2",
+  "text": "mill",
+  "start": 0.26,
+  "end": 0.7
+ },
+ {
+  "id": "w3",
+  "text": "became",
+  "start": 0.7,
+  "end": 1.14
+ },
+ {
+  "id": "w4",
+  "text": "a",
+  "start": 1.14,
+  "end": 1.36
+ },
+ {
+  "id": "w5",
+  "text": "rubber",
+  "start": 1.36,
+  "end": 1.52
+ },
+ {
+  "id": "w6",
+  "text": "company.",
+  "start": 1.52,
+  "end": 2.04
+ },
+ {
+  "id": "w7",
+  "text": "A",
+  "start": 2.72,
+  "end": 2.78
+ },
+ {
+  "id": "w8",
+  "text": "rubber",
+  "start": 2.78,
+  "end": 2.96
+ },
+ {
+  "id": "w9",
+  "text": "company",
+  "start": 2.96,
+  "end": 3.46
+ },
+ {
+  "id": "w10",
+  "text": "became",
+  "start": 3.46,
+  "end": 3.88
+ },
+ {
+  "id": "w11",
+  "text": "a",
+  "start": 3.88,
+  "end": 4.06
+ },
+ {
+  "id": "w12",
+  "text": "phone",
+  "start": 4.06,
+  "end": 4.32
+ },
+ {
+  "id": "w13",
+  "text": "giant,",
+  "start": 4.32,
+  "end": 4.64
+ },
+ {
+  "id": "w14",
+  "text": "and",
+  "start": 5.42,
+  "end": 5.46
+ },
+ {
+  "id": "w15",
+  "text": "a",
+  "start": 5.46,
+  "end": 5.54
+ },
+ {
+  "id": "w16",
+  "text": "phone",
+  "start": 5.54,
+  "end": 5.76
+ },
+ {
+  "id": "w17",
+  "text": "giant",
+  "start": 5.76,
+  "end": 6.12
+ },
+ {
+  "id": "w18",
+  "text": "became",
+  "start": 6.12,
+  "end": 6.54
+ },
+ {
+  "id": "w19",
+  "text": "a",
+  "start": 6.54,
+  "end": 6.76
+ },
+ {
+  "id": "w20",
+  "text": "network",
+  "start": 6.76,
+  "end": 6.9
+ },
+ {
+  "id": "w21",
+  "text": "company.",
+  "start": 6.9,
+  "end": 7.52
+ }
+]

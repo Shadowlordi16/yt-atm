@@ -1,0 +1,86 @@
+[
+ {
+  "id": "w0",
+  "text": "RIM",
+  "start": 0.0,
+  "end": 0.5
+ },
+ {
+  "id": "w1",
+  "text": "took",
+  "start": 0.5,
+  "end": 0.84
+ },
+ {
+  "id": "w2",
+  "text": "a",
+  "start": 0.84,
+  "end": 0.96
+ },
+ {
+  "id": "w3",
+  "text": "provision",
+  "start": 0.96,
+  "end": 1.22
+ },
+ {
+  "id": "w4",
+  "text": "of",
+  "start": 1.22,
+  "end": 1.5
+ },
+ {
+  "id": "w5",
+  "text": "$485",
+  "start": 1.5,
+  "end": 2.78
+ },
+ {
+  "id": "w6",
+  "text": "million",
+  "start": 2.78,
+  "end": 3.62
+ },
+ {
+  "id": "w7",
+  "text": "against",
+  "start": 3.62,
+  "end": 4.5
+ },
+ {
+  "id": "w8",
+  "text": "playbook",
+  "start": 4.5,
+  "end": 4.86
+ },
+ {
+  "id": "w9",
+  "text": "stock.",
+  "start": 4.86,
+  "end": 5.36
+ },
+ {
+  "id": "w10",
+  "text": "It",
+  "start": 5.92,
+  "end": 5.98
+ },
+ {
+  "id": "w11",
+  "text": "could",
+  "start": 5.98,
+  "end": 6.1
+ },
+ {
+  "id": "w12",
+  "text": "not",
+  "start": 6.1,
+  "end": 6.32
+ },
+ {
+  "id": "w13",
+  "text": "sell.",
+  "start": 6.32,
+  "end": 6.64
+ }
+]

@@ -1,0 +1,104 @@
+[
+ {
+  "id": "w0",
+  "text": "His",
+  "start": 0.0,
+  "end": 0.14
+ },
+ {
+  "id": "w1",
+  "text": "company",
+  "start": 0.14,
+  "end": 0.48
+ },
+ {
+  "id": "w2",
+  "text": "Kmart",
+  "start": 0.48,
+  "end": 1.14
+ },
+ {
+  "id": "w3",
+  "text": "had",
+  "start": 1.14,
+  "end": 1.58
+ },
+ {
+  "id": "w4",
+  "text": "just",
+  "start": 1.58,
+  "end": 1.76
+ },
+ {
+  "id": "w5",
+  "text": "come",
+  "start": 1.76,
+  "end": 1.96
+ },
+ {
+  "id": "w6",
+  "text": "out",
+  "start": 1.96,
+  "end": 2.12
+ },
+ {
+  "id": "w7",
+  "text": "of",
+  "start": 2.12,
+  "end": 2.2
+ },
+ {
+  "id": "w8",
+  "text": "its",
+  "start": 2.2,
+  "end": 2.32
+ },
+ {
+  "id": "w9",
+  "text": "own",
+  "start": 2.32,
+  "end": 2.48
+ },
+ {
+  "id": "w10",
+  "text": "bankruptcy.",
+  "start": 2.48,
+  "end": 2.9
+ },
+ {
+  "id": "w11",
+  "text": "It",
+  "start": 3.94,
+  "end": 4.0
+ },
+ {
+  "id": "w12",
+  "text": "bought",
+  "start": 4.0,
+  "end": 4.16
+ },
+ {
+  "id": "w13",
+  "text": "Sears",
+  "start": 4.16,
+  "end": 4.48
+ },
+ {
+  "id": "w14",
+  "text": "for",
+  "start": 4.48,
+  "end": 4.92
+ },
+ {
+  "id": "w15",
+  "text": "$11",
+  "start": 4.92,
+  "end": 5.28
+ },
+ {
+  "id": "w16",
+  "text": "billion.",
+  "start": 5.28,
+  "end": 5.68
+ }
+]

@@ -1,0 +1,62 @@
+L00|In March twenty eighteen, every Toys R Us store in America began to close.
+L01|Seven hundred and thirty-five stores. Thirty-three thousand jobs.
+L02|The headlines had an easy answer. Amazon killed Toys R Us.
+L03|But Toys R Us didn't ignore Amazon. In two thousand, it made Amazon its online store. Then it sued Amazon, and won.
+L04|What really buried Toys R Us was a deal made in a boardroom in two thousand five. A deal that left it paying around four hundred million dollars a year, just in interest.
+L05|This is the story of the store every kid dreamed about, and the debt that buried it.
+L06|The story starts with a young man named Charles Lazarus, born in Washington, D.C., in nineteen twenty-three.
+L07|After the Second World War, in nineteen forty-eight, he opened a store selling furniture for babies.
+L08|It was the start of the baby boom, and his customers kept asking the same question: do you sell toys?
+L09|Lazarus had a simple idea. Toys wouldn't be a corner of a store. They would be the whole store.
+L10|In nineteen fifty-seven, he opened the first Toys R Us. He turned the R backwards, so it looked like a child had written it.
+L11|The idea was a supermarket for toys. Huge stores, every toy on the shelves, prices low enough to make parents come back.
+L12|It worked. For decades, Toys R Us was where American kids went for birthdays and holidays.
+L13|Its mascot, a giraffe named Geoffrey, became part of growing up.
+L14|In nineteen eighty-two, it got a jingle a generation would never forget. A young copywriter, Linda Kaplan Thaler, wrote the song. A colleague named James Patterson, who later became one of the world's best-selling novelists, came up with the line: "I'm a Toys R Us kid."
+L15|It even went global. In December nineteen ninety-one, Toys R Us opened its first store in Japan.
+L16|A few weeks later, in January nineteen ninety-two, the President of the United States, George Bush, helped open its second Japanese store. Charles Lazarus gave him the tour himself.
+L17|A toy store, opened with a president. That's how big Toys R Us had become.
+L18|Lazarus stepped down as chief executive in nineteen ninety-four.
+L19|By then, Toys R Us had a new kind of competition. Not other toy stores, but giant discount stores.
+L20|Walmart and Target sold toys too, often at lower prices, as just one more aisle in a store where people already shopped every week.
+L21|Then came the internet.
+L22|In two thousand, Toys R Us made a ten-year deal with Amazon. Amazon would be the exclusive online seller of its toys and baby products.
+L23|In other words, the company that the headlines would later blame was running Toys R Us's website.
+L24|It didn't last. Toys R Us said Amazon was letting other sellers offer the same toys, breaking the exclusive deal.
+L25|In two thousand four, Toys R Us sued. In two thousand six, a court ruled that Amazon had breached the agreement, and Toys R Us was free to leave.
+L26|In two thousand nine, Amazon agreed to pay Toys R Us fifty-one million dollars to settle.
+L27|By then, Toys R Us had lost years building its own online business. But that wasn't what would sink it.
+L28|In two thousand five, three investment firms bought Toys R Us: the private equity firms KKR and Bain Capital, and the real estate company Vornado.
+L29|The price was about six point six billion dollars.
+L30|But they didn't pay most of it themselves. They put in roughly one point three billion dollars of their own money, and borrowed the rest.
+L31|This is called a leveraged buyout. And here's the part that matters. The debt didn't belong to the buyers. It belonged to Toys R Us.
+L32|Think of it like buying a house with a small deposit and a giant mortgage, and then making the house itself pay the mortgage.
+L33|Overnight, the toy store owed billions of dollars it hadn't borrowed for itself.
+L34|And that debt came with interest. By the time it filed for bankruptcy, Toys R Us was spending around four hundred million dollars a year just to service its debt.
+L35|Four hundred million dollars, every year, that couldn't go into the stores, the website, or lower prices.
+L36|Meanwhile, the owners did fine. An advocacy group that tracks private equity, the Private Equity Stakeholder Project, estimated that the three firms collected about four hundred and sixty-four million dollars in fees and interest from Toys R Us.
+L37|The plan had been to fix the company and sell it, or take it public again. It never happened.
+L38|In twenty ten, the owners filed to sell shares to the public, in a listing worth about eight hundred million dollars. In March twenty thirteen, they withdrew it, citing market conditions.
+L39|In November two thousand one, Toys R Us had opened a giant flagship store in Times Square, with a sixty-foot Ferris wheel inside. In December twenty fifteen, after fourteen years, it closed.
+L40|As shopping moved online, Toys R Us needed to rebuild its stores and its website. It had the brand. What it didn't have was money to spare.
+L41|In September twenty seventeen, reports spread that Toys R Us might go bankrupt. That's when its suppliers panicked.
+L42|Toy makers began refusing to ship products unless they were paid in cash, up front. Right before Christmas, the most important season of the year.
+L43|Without toys on the shelves at Christmas, a toy store has nothing.
+L44|On September eighteenth, twenty seventeen, Toys R Us filed for Chapter 11 bankruptcy, with more than five billion dollars of debt.
+L45|It hoped the holiday season would buy it time.
+L46|It didn't. In March twenty eighteen, Toys R Us announced it would close or sell all of its stores in the United States.
+L47|Seven hundred and thirty-five stores. About thirty-three thousand people out of work.
+L48|One week later, Charles Lazarus, the man who started it all, died in New York. He was ninety-four.
+L49|At first, the workers were told there was no money for severance.
+L50|After months of protests, KKR and Bain Capital each put in ten million dollars, a twenty million dollar fund for former employees.
+L51|The fund was run by Kenneth Feinberg, the lawyer who had handled the September eleventh victims' fund.
+L52|Advocates said the workers were still owed tens of millions more.
+L53|The stores were gone. But the name was still worth something.
+L54|In twenty twenty-one, a brand company called WHP Global took control of the Toys R Us brand, and partnered with Macy's.
+L55|From twenty twenty-two, Toys R Us shops opened inside more than four hundred Macy's stores, with Geoffrey back on the walls.
+L56|The brand survived. The company that built it did not.
+L57|It's easy to say Amazon killed Toys R Us. It makes a simple story: the internet beats the old store.
+L58|But Toys R Us was still selling billions of dollars of toys every year when it collapsed. What it couldn't do was carry the debt from a deal it never asked for.
+L59|Every dollar that went to interest was a dollar that couldn't build the future.
+L60|Sometimes a company isn't beaten by its competitors. It's buried by the people who bought it.
+L61|This is Paper Empire. Next time: the toy company that almost went bankrupt, and saved itself by doing less. Lego.

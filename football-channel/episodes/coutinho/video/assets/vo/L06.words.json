@@ -1,0 +1,92 @@
+[
+ {
+  "id": "w0",
+  "text": "Barca",
+  "start": 0.0,
+  "end": 0.34
+ },
+ {
+  "id": "w1",
+  "text": "pay",
+  "start": 0.34,
+  "end": 0.56
+ },
+ {
+  "id": "w2",
+  "text": "$142",
+  "start": 0.56,
+  "end": 1.7
+ },
+ {
+  "id": "w3",
+  "text": "million,",
+  "start": 1.7,
+  "end": 2.22
+ },
+ {
+  "id": "w4",
+  "text": "and",
+  "start": 2.74,
+  "end": 2.98
+ },
+ {
+  "id": "w5",
+  "text": "then",
+  "start": 2.98,
+  "end": 3.1
+ },
+ {
+  "id": "w6",
+  "text": "spread",
+  "start": 3.1,
+  "end": 3.38
+ },
+ {
+  "id": "w7",
+  "text": "that",
+  "start": 3.38,
+  "end": 3.66
+ },
+ {
+  "id": "w8",
+  "text": "cost",
+  "start": 3.66,
+  "end": 3.96
+ },
+ {
+  "id": "w9",
+  "text": "across",
+  "start": 3.96,
+  "end": 4.34
+ },
+ {
+  "id": "w10",
+  "text": "the",
+  "start": 4.34,
+  "end": 4.62
+ },
+ {
+  "id": "w11",
+  "text": "length",
+  "start": 4.62,
+  "end": 4.8
+ },
+ {
+  "id": "w12",
+  "text": "of",
+  "start": 4.8,
+  "end": 5.02
+ },
+ {
+  "id": "w13",
+  "text": "the",
+  "start": 5.02,
+  "end": 5.12
+ },
+ {
+  "id": "w14",
+  "text": "contract.",
+  "start": 5.12,
+  "end": 5.48
+ }
+]

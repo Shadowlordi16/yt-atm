@@ -1,0 +1,80 @@
+[
+ {
+  "id": "w0",
+  "text": "Sears",
+  "start": 0.0,
+  "end": 0.2
+ },
+ {
+  "id": "w1",
+  "text": "was",
+  "start": 0.2,
+  "end": 0.6
+ },
+ {
+  "id": "w2",
+  "text": "there",
+  "start": 0.6,
+  "end": 0.78
+ },
+ {
+  "id": "w3",
+  "text": "first,",
+  "start": 0.78,
+  "end": 1.18
+ },
+ {
+  "id": "w4",
+  "text": "it",
+  "start": 1.56,
+  "end": 1.76
+ },
+ {
+  "id": "w5",
+  "text": "just",
+  "start": 1.76,
+  "end": 1.88
+ },
+ {
+  "id": "w6",
+  "text": "did",
+  "start": 1.88,
+  "end": 2.08
+ },
+ {
+  "id": "w7",
+  "text": "not",
+  "start": 2.08,
+  "end": 2.26
+ },
+ {
+  "id": "w8",
+  "text": "treat",
+  "start": 2.26,
+  "end": 2.6
+ },
+ {
+  "id": "w9",
+  "text": "it",
+  "start": 2.6,
+  "end": 2.78
+ },
+ {
+  "id": "w10",
+  "text": "as",
+  "start": 2.78,
+  "end": 2.94
+ },
+ {
+  "id": "w11",
+  "text": "the",
+  "start": 2.94,
+  "end": 3.08
+ },
+ {
+  "id": "w12",
+  "text": "future.",
+  "start": 3.08,
+  "end": 3.4
+ }
+]

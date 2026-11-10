@@ -1,0 +1,74 @@
+[
+  {
+    "id": "w0",
+    "text": "On",
+    "start": 0,
+    "end": 0.24
+  },
+  {
+    "id": "w1",
+    "text": "january",
+    "start": 0.24,
+    "end": 0.72
+  },
+  {
+    "id": "w2",
+    "text": "nineteenth,",
+    "start": 0.72,
+    "end": 1.6
+  },
+  {
+    "id": "w3",
+    "text": "twenty",
+    "start": 1.6,
+    "end": 1.84
+  },
+  {
+    "id": "w4",
+    "text": "twelve,",
+    "start": 1.92,
+    "end": 2.56
+  },
+  {
+    "id": "w5",
+    "text": "Eastman",
+    "start": 2.56,
+    "end": 3.12
+  },
+  {
+    "id": "w6",
+    "text": "Kodak",
+    "start": 3.28,
+    "end": 3.92
+  },
+  {
+    "id": "w7",
+    "text": "filed",
+    "start": 3.92,
+    "end": 4.24
+  },
+  {
+    "id": "w8",
+    "text": "for",
+    "start": 4.24,
+    "end": 4.4
+  },
+  {
+    "id": "w9",
+    "text": "Chapter",
+    "start": 4.4,
+    "end": 4.8
+  },
+  {
+    "id": "w10",
+    "text": "Eleven",
+    "start": 4.8,
+    "end": 5.04
+  },
+  {
+    "id": "w11",
+    "text": "bankruptcy.",
+    "start": 5.2,
+    "end": 5.92
+  }
+]

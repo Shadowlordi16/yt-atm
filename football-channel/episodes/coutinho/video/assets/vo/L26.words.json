@@ -1,0 +1,110 @@
+[
+ {
+  "id": "w0",
+  "text": "Spend",
+  "start": 0.0,
+  "end": 0.2
+ },
+ {
+  "id": "w1",
+  "text": "future",
+  "start": 0.2,
+  "end": 0.44
+ },
+ {
+  "id": "w2",
+  "text": "revenue",
+  "start": 0.44,
+  "end": 0.8
+ },
+ {
+  "id": "w3",
+  "text": "on",
+  "start": 0.8,
+  "end": 1.2
+ },
+ {
+  "id": "w4",
+  "text": "today's",
+  "start": 1.2,
+  "end": 1.6
+ },
+ {
+  "id": "w5",
+  "text": "players",
+  "start": 1.6,
+  "end": 1.88
+ },
+ {
+  "id": "w6",
+  "text": "and",
+  "start": 1.88,
+  "end": 2.48
+ },
+ {
+  "id": "w7",
+  "text": "next",
+  "start": 2.48,
+  "end": 2.62
+ },
+ {
+  "id": "w8",
+  "text": "year's",
+  "start": 2.62,
+  "end": 3.1
+ },
+ {
+  "id": "w9",
+  "text": "limit",
+  "start": 3.1,
+  "end": 3.28
+ },
+ {
+  "id": "w10",
+  "text": "falls.",
+  "start": 3.28,
+  "end": 3.64
+ },
+ {
+  "id": "w11",
+  "text": "The",
+  "start": 4.52,
+  "end": 4.56
+ },
+ {
+  "id": "w12",
+  "text": "club",
+  "start": 4.56,
+  "end": 4.74
+ },
+ {
+  "id": "w13",
+  "text": "gets",
+  "start": 4.74,
+  "end": 5.0
+ },
+ {
+  "id": "w14",
+  "text": "poorer",
+  "start": 5.0,
+  "end": 5.36
+ },
+ {
+  "id": "w15",
+  "text": "by",
+  "start": 5.36,
+  "end": 5.66
+ },
+ {
+  "id": "w16",
+  "text": "getting",
+  "start": 5.66,
+  "end": 5.86
+ },
+ {
+  "id": "w17",
+  "text": "bigger.",
+  "start": 5.86,
+  "end": 6.16
+ }
+]

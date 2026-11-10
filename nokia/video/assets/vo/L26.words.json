@@ -1,0 +1,104 @@
+[
+ {
+  "id": "w0",
+  "text": "that",
+  "start": 0.0,
+  "end": 0.14
+ },
+ {
+  "id": "w1",
+  "text": "year",
+  "start": 0.14,
+  "end": 0.34
+ },
+ {
+  "id": "w2",
+  "text": "Nokia",
+  "start": 0.34,
+  "end": 0.66
+ },
+ {
+  "id": "w3",
+  "text": "shipped",
+  "start": 0.66,
+  "end": 1.22
+ },
+ {
+  "id": "w4",
+  "text": "437",
+  "start": 1.22,
+  "end": 2.5
+ },
+ {
+  "id": "w5",
+  "text": "million",
+  "start": 2.5,
+  "end": 3.06
+ },
+ {
+  "id": "w6",
+  "text": "devices.",
+  "start": 3.06,
+  "end": 3.58
+ },
+ {
+  "id": "w7",
+  "text": "Across",
+  "start": 4.68,
+  "end": 4.68
+ },
+ {
+  "id": "w8",
+  "text": "the",
+  "start": 4.68,
+  "end": 4.98
+ },
+ {
+  "id": "w9",
+  "text": "whole",
+  "start": 4.98,
+  "end": 5.14
+ },
+ {
+  "id": "w10",
+  "text": "company,",
+  "start": 5.14,
+  "end": 5.6
+ },
+ {
+  "id": "w11",
+  "text": "sales",
+  "start": 5.88,
+  "end": 6.28
+ },
+ {
+  "id": "w12",
+  "text": "were",
+  "start": 6.28,
+  "end": 6.66
+ },
+ {
+  "id": "w13",
+  "text": "about",
+  "start": 6.66,
+  "end": 6.82
+ },
+ {
+  "id": "w14",
+  "text": "51",
+  "start": 6.82,
+  "end": 7.22
+ },
+ {
+  "id": "w15",
+  "text": "billion",
+  "start": 7.22,
+  "end": 7.8
+ },
+ {
+  "id": "w16",
+  "text": "euros.",
+  "start": 7.8,
+  "end": 8.24
+ }
+]

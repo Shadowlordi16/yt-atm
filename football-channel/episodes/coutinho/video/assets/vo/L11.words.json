@@ -1,0 +1,80 @@
+[
+ {
+  "id": "w0",
+  "text": "Namer",
+  "start": 0.0,
+  "end": 0.26
+ },
+ {
+  "id": "w1",
+  "text": "had",
+  "start": 0.26,
+  "end": 0.48
+ },
+ {
+  "id": "w2",
+  "text": "left",
+  "start": 0.48,
+  "end": 0.66
+ },
+ {
+  "id": "w3",
+  "text": "for",
+  "start": 0.66,
+  "end": 0.9
+ },
+ {
+  "id": "w4",
+  "text": "Paris",
+  "start": 0.9,
+  "end": 1.16
+ },
+ {
+  "id": "w5",
+  "text": "that",
+  "start": 1.16,
+  "end": 1.5
+ },
+ {
+  "id": "w6",
+  "text": "summer,",
+  "start": 1.5,
+  "end": 1.86
+ },
+ {
+  "id": "w7",
+  "text": "for",
+  "start": 2.34,
+  "end": 2.48
+ },
+ {
+  "id": "w8",
+  "text": "a",
+  "start": 2.48,
+  "end": 2.58
+ },
+ {
+  "id": "w9",
+  "text": "world",
+  "start": 2.58,
+  "end": 2.78
+ },
+ {
+  "id": "w10",
+  "text": "record",
+  "start": 2.78,
+  "end": 3.06
+ },
+ {
+  "id": "w11",
+  "text": "\u20ac222",
+  "start": 3.06,
+  "end": 4.28
+ },
+ {
+  "id": "w12",
+  "text": "million.",
+  "start": 4.28,
+  "end": 4.82
+ }
+]

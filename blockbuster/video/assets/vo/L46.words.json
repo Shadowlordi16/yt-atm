@@ -1,0 +1,122 @@
+[
+  {
+    "id": "w0",
+    "text": "Antioko",
+    "start": 0,
+    "end": 0.64
+  },
+  {
+    "id": "w1",
+    "text": "has",
+    "start": 0.8,
+    "end": 0.96
+  },
+  {
+    "id": "w2",
+    "text": "said",
+    "start": 0.96,
+    "end": 1.2
+  },
+  {
+    "id": "w3",
+    "text": "he",
+    "start": 1.2,
+    "end": 1.28
+  },
+  {
+    "id": "w4",
+    "text": "believes",
+    "start": 1.28,
+    "end": 1.68
+  },
+  {
+    "id": "w5",
+    "text": "that",
+    "start": 1.68,
+    "end": 1.84
+  },
+  {
+    "id": "w6",
+    "text": "if",
+    "start": 1.84,
+    "end": 2
+  },
+  {
+    "id": "w7",
+    "text": "Blockbuster",
+    "start": 2,
+    "end": 2.88
+  },
+  {
+    "id": "w8",
+    "text": "Online",
+    "start": 2.88,
+    "end": 3.2
+  },
+  {
+    "id": "w9",
+    "text": "had",
+    "start": 3.36,
+    "end": 3.52
+  },
+  {
+    "id": "w10",
+    "text": "kept",
+    "start": 3.52,
+    "end": 3.84
+  },
+  {
+    "id": "w11",
+    "text": "going,",
+    "start": 3.84,
+    "end": 4.48
+  },
+  {
+    "id": "w12",
+    "text": "it",
+    "start": 4.48,
+    "end": 4.72
+  },
+  {
+    "id": "w13",
+    "text": "could",
+    "start": 4.72,
+    "end": 4.88
+  },
+  {
+    "id": "w14",
+    "text": "have",
+    "start": 4.88,
+    "end": 5.04
+  },
+  {
+    "id": "w15",
+    "text": "reached",
+    "start": 5.04,
+    "end": 5.44
+  },
+  {
+    "id": "w16",
+    "text": "about",
+    "start": 5.44,
+    "end": 5.68
+  },
+  {
+    "id": "w17",
+    "text": "10",
+    "start": 5.68,
+    "end": 6
+  },
+  {
+    "id": "w18",
+    "text": "million",
+    "start": 6,
+    "end": 6.4
+  },
+  {
+    "id": "w19",
+    "text": "subscribers.",
+    "start": 6.4,
+    "end": 7.2
+  }
+]

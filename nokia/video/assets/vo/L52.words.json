@@ -1,0 +1,86 @@
+[
+ {
+  "id": "w0",
+  "text": "At",
+  "start": 0.0,
+  "end": 0.1
+ },
+ {
+  "id": "w1",
+  "text": "the",
+  "start": 0.1,
+  "end": 0.2
+ },
+ {
+  "id": "w2",
+  "text": "end",
+  "start": 0.2,
+  "end": 0.36
+ },
+ {
+  "id": "w3",
+  "text": "of",
+  "start": 0.36,
+  "end": 0.48
+ },
+ {
+  "id": "w4",
+  "text": "2011,",
+  "start": 0.48,
+  "end": 1.28
+ },
+ {
+  "id": "w5",
+  "text": "the",
+  "start": 1.66,
+  "end": 1.84
+ },
+ {
+  "id": "w6",
+  "text": "first",
+  "start": 1.84,
+  "end": 2.08
+ },
+ {
+  "id": "w7",
+  "text": "Nokia",
+  "start": 2.08,
+  "end": 2.56
+ },
+ {
+  "id": "w8",
+  "text": "Windows",
+  "start": 2.56,
+  "end": 2.88
+ },
+ {
+  "id": "w9",
+  "text": "phones,",
+  "start": 2.88,
+  "end": 3.48
+ },
+ {
+  "id": "w10",
+  "text": "called",
+  "start": 3.94,
+  "end": 4.1
+ },
+ {
+  "id": "w11",
+  "text": "Lumia,",
+  "start": 4.1,
+  "end": 4.42
+ },
+ {
+  "id": "w12",
+  "text": "finally",
+  "start": 4.8,
+  "end": 5.08
+ },
+ {
+  "id": "w13",
+  "text": "arrived.",
+  "start": 5.08,
+  "end": 5.56
+ }
+]

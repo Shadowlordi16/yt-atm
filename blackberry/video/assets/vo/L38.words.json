@@ -1,0 +1,134 @@
+[
+ {
+  "id": "w0",
+  "text": "But",
+  "start": 0.0,
+  "end": 0.1
+ },
+ {
+  "id": "w1",
+  "text": "being",
+  "start": 0.1,
+  "end": 0.26
+ },
+ {
+  "id": "w2",
+  "text": "big",
+  "start": 0.26,
+  "end": 0.56
+ },
+ {
+  "id": "w3",
+  "text": "is",
+  "start": 0.56,
+  "end": 0.92
+ },
+ {
+  "id": "w4",
+  "text": "not",
+  "start": 0.92,
+  "end": 1.1
+ },
+ {
+  "id": "w5",
+  "text": "the",
+  "start": 1.1,
+  "end": 1.26
+ },
+ {
+  "id": "w6",
+  "text": "same",
+  "start": 1.26,
+  "end": 1.54
+ },
+ {
+  "id": "w7",
+  "text": "as",
+  "start": 1.54,
+  "end": 1.78
+ },
+ {
+  "id": "w8",
+  "text": "being",
+  "start": 1.78,
+  "end": 2.02
+ },
+ {
+  "id": "w9",
+  "text": "wanted.",
+  "start": 2.02,
+  "end": 2.44
+ },
+ {
+  "id": "w10",
+  "text": "The",
+  "start": 3.12,
+  "end": 3.2
+ },
+ {
+  "id": "w11",
+  "text": "market",
+  "start": 3.2,
+  "end": 3.42
+ },
+ {
+  "id": "w12",
+  "text": "was",
+  "start": 3.42,
+  "end": 3.66
+ },
+ {
+  "id": "w13",
+  "text": "leaving",
+  "start": 3.66,
+  "end": 3.96
+ },
+ {
+  "id": "w14",
+  "text": "while",
+  "start": 3.96,
+  "end": 4.28
+ },
+ {
+  "id": "w15",
+  "text": "the",
+  "start": 4.28,
+  "end": 4.4
+ },
+ {
+  "id": "w16",
+  "text": "number",
+  "start": 4.4,
+  "end": 4.66
+ },
+ {
+  "id": "w17",
+  "text": "of",
+  "start": 4.66,
+  "end": 4.8
+ },
+ {
+  "id": "w18",
+  "text": "users",
+  "start": 4.8,
+  "end": 5.04
+ },
+ {
+  "id": "w19",
+  "text": "was",
+  "start": 5.04,
+  "end": 5.38
+ },
+ {
+  "id": "w20",
+  "text": "still",
+  "start": 5.38,
+  "end": 5.6
+ },
+ {
+  "id": "w21",
+  "text": "rising.",
+  "start": 5.6,
+  "end": 6.04
+ }
+]
